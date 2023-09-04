@@ -130,6 +130,7 @@ Para la elección de colores, se tuvo en cuenta el propósito de la aplicación 
 
 **-Íconos:** 
 Con respecto a la parte de los iconos, estos serán simples y minimalistas para transmitir la información de manera sencilla y eficiente. Estos deben de adaptarse perfectamente a la interfaz de la aplicación, ocupando un espacio óptimo sin comprometer la legibilidad. Es por ello que su diseño minimalista ayuda a evitar la sobrecarga visual y permite una navegación fluida. Para este caso se usarán los íconos: Tabler-Icons
+![Cuadro04](https://media.discordapp.net/attachments/1146490170917535764/1148339213637525626/Captura_de_pantalla_2023-09-04_142940.jpg)
 
 
 ### 4.1.2. Web Style Guidelines.
