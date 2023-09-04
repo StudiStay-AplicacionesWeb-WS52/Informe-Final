@@ -119,7 +119,8 @@ Nuestro logo está conformado por dos imágenes principales, las cuales son una 
 
 -Tipografía:
 Se requirió dos tipos de tipografías claras, legibles y fáciles de leer en diferentes dispositivos. Fueron seleccionadas Poppins y Jost.
-![cuadro01](https://media.discordapp.net/attachments/1146490170917535764/1148325071232958618/Captura_de_pantalla_2023-09-04_133120.jpg)
+![cuadro01](https://media.discordapp.net/attachments/1146490170917535764/1148327842019557407/Captura_de_pantalla_2023-09-04_134346.jpg)
+
 -Colores empleados: 
 Para la elección de colores, se tuvo en cuenta el propósito de la aplicación y el servicio y lo que esta debería transmitir al usuario. 
 ![cuadro01](https://media.discordapp.net/attachments/1146490170917535764/1148327238777962576/Captura_de_pantalla_2023-09-04_134155.jpg?width=525&height=671)
