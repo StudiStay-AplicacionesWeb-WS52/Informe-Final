@@ -134,9 +134,38 @@ Con respecto a la parte de los iconos, estos serán simples y minimalistas para 
 
 
 ### 4.1.2. Web Style Guidelines.
+En esta sección se explicará el estilo y patrón que hace uso nuestra interfaz tanto del landing page y la aplicación web.
+**-Landing Page:** Esta utiliza el Patrón Z, una estructura diseñada para guiar al usuario por la página de manera natural y efectiva. En la parte superior se encontrará la barra de navegación con un tono oscuro, que brinda un aspecto serio y confiable. Esta barra contiene el logo y secciones como "Servicios", "Quiénes somos", "Testimonios" y "Aplicación". Se usaron colores derivados del azul el cual añade un toque de seriedad y paz al diseño y contrasta con el resto de la página para invitar al usuario a descargar y probar la aplicación.
+
+![Cuadro05](https://media.discordapp.net/attachments/1146490170917535764/1148339886923972658/Captura_de_pantalla_2023-09-04_143224.jpg)
 
 ## 4.2. Information Architecture.
+En esta sección, estableceremos la estructura y forma del software en relación a nuestros segmentos objetivos, así como los elementos y características que se usarán dentro de la navegación de la aplicación.
 ### 4.2.1. Organization Systems.
+Para crear la sección del Landing Page y la Aplicación web, hemos utilizado una estructura visual jerárquica en la página web, lo que nos permite asignar la ubicación apropiada a cada elemento necesario en este desarrollo. Para lograrlo, se considerarán factores como etiquetas, especificaciones de pantalla y resolución. Además, se diseñarán íconos utilizando una matriz, lo que optimizará la visualización de los detalles y contribuirá a mantener un proceso ordenado en todo momento.
+
+**Segmento Objetivo: Estudiantes que buscan información sobre habitaciones**
+
+- Jerárquica:
+  - Al aplicar los filtros adecuados, los espacios, habitaciones o departamentos elegidos pueden aparecer con el debido orden, es decir, los artículos con mayor coincidencia aparecerán en primer lugar y así sucesivamente. El usuario tendrá la posibilidad de elegir el resultado de su agrado.
+- Secuencial:
+  - Para la creación de una cuenta para el uso de la aplicación, la información mostrada en pantalla deberá seguir una secuencia, en el que se deben respetar los pasos necesarios para que se pueda lograr con el cometido.
+- Matricial:
+  - En la configuración de la cuenta, los usuarios podrán configurar distintos aspectos de la misma de acuerdo a sus preferencias, mostrando los apartados divididos en secciones.
+
+
+
+**Segmento Objetivo: Arrendadores que buscan alquilar habitaciones**
+
+- Jerárquica: 
+  - Cuando se desee publicar artículos organizados por categorías, podrá elegir el orden en el que quiera que se visualice para los estudiantes, por lo que se presentará de forma ordenada.
+
+- Secuencial: 
+  - Para la creación de una cuenta para el uso de la aplicación, la información mostrada en pantalla deberá seguir una secuencia, en el que se deben respetar los pasos necesarios para que se pueda lograr con el cometido.
+
+- Matricial: 
+  - En la configuración de la cuenta, los usuarios podrán configurar distintos aspectos de la misma de acuerdo a sus preferencias, mostrando los apartados divididos en secciones. 
+
 ### 4.2.2. Labeling Systems.
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems.
