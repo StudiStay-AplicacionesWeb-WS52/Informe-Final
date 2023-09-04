@@ -789,7 +789,7 @@ Accommodation Search Context  Component Diagram
 
 ![C1](https://media.discordapp.net/attachments/1146490170917535764/1148389850093998140/XY1.jpg)
 
-Enlace del diagrama: ![Ver diagrama](https://drive.google.com/file/d/1GioUkvq4ETebL9ievODw4UMom4wApiTO/view?usp=sharing)
+Enlace del diagrama: [Ver diagrama](https://drive.google.com/file/d/1GioUkvq4ETebL9ievODw4UMom4wApiTO/view?usp=sharing)
 
 ### 4.7.2. Class Dictionary.
 
@@ -809,7 +809,7 @@ A continuación, se presenta detalladamente las clases más relevantes con sus a
 
 ![C1](https://media.discordapp.net/attachments/1146490170917535764/1148394536389836800/N9.jpg)
 
-Enlace del database diagram:![Ver diagrama](https://cdn.discordapp.com/attachments/1146490170917535764/1147639660609278012/StudiStay-2023-09-02_12-23.png)
+Enlace del database diagram:[Ver diagrama](https://cdn.discordapp.com/attachments/1146490170917535764/1147639660609278012/StudiStay-2023-09-02_12-23.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
