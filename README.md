@@ -178,9 +178,11 @@ Tenemos los siguientes encabezados:
  - Descargar: En esta sección se puede visualizar las opciones de descarga que podrán estar disponibles en un posible futuro al desarrollar una versión para dispositivos móviles.
 
 ### 4.2.3. SEO Tags and Meta Tags
+
 Estas etiquetas son esenciales para mejorar la visibilidad de la aplicación web en los motores de búsqueda como Google. Las etiquetas SEO incluyen palabras clave relevantes y descripciones concisas para que los motores de búsqueda indexen y clasifiquen el contenido de la aplicación de manera efectiva. Las metaetiquetas proporcionan información adicional sobre la página, como el título y la descripción que se muestran en los resultados de búsqueda.
 
 **Para el Landing Page:**
+
 Tittle: StudiStay
 Description: StudiStay -  StudiStay Connect Official Landing Page 
 Keywords: apartment, students, rent apartment
@@ -209,6 +211,13 @@ En nuestra aplicación web, utilizaremos un proceso similar al descrito, con div
 
 
 ## 4.3. Landing Page UI Design.
+![m1](https://media.discordapp.net/attachments/1146490170917535764/1148344163218243655/01.jpg)
+![m2](https://media.discordapp.net/attachments/1146490170917535764/1148344163478278164/02.jpg)
+![m3](https://media.discordapp.net/attachments/1146490170917535764/1148344163801243759/03.jpg)
+![m4](https://media.discordapp.net/attachments/1146490170917535764/1148344164107436122/04.jpg)
+![m5](https://media.discordapp.net/attachments/1146490170917535764/1148344164497494046/05.jpg)
+
+[Enlace a Figma](https://www.figma.com/file/ceXZ987xbS3HnR0A1ISTwf/Mockups?type=design&node-id=0%3A1&mode=design&t=HcpJIjoBHU1Hyp6C-1)
 ### 4.3.1. Landing Page Wireframe.
 ### 4.3.2. Landing Page Mock-up.
 
