@@ -112,8 +112,13 @@ del ABET – EAC - Student Outcome 5.
 
 ### 4.1.1. General Style Guidelines.
 En esta sección se analizará los diseños que se consideraron para nuestra marca. Debido a que es importante expresar las intenciones que tenemos con nuestros clientes. Además, se tendrá en cuenta que la tipografía y composición adopten un tono Casual/Formal, esto teniendo en cuenta nuestro público objetivo.
-Logo: Nuestro logo está conformado por dos imágenes principales, las cuales son una casa y un árbol, esto hace referencia al servicio que se está brindando (el cual es la renta de habitaciones). Los colores usados fueron derivados del azul y blanco, el cual crea una paleta de colores que hace alusión a la paz, tranquilidad y seriedad, y refuerza la confianza de nuestros usuarios en el servicio que se brindará.
+
+-Logo: Nuestro logo está conformado por dos imágenes principales, las cuales son una casa y un árbol, esto hace referencia al servicio que se está brindando (el cual es la renta de habitaciones). Los colores usados fueron derivados del azul y blanco, el cual crea una paleta de colores que hace alusión a la paz, tranquilidad y seriedad, y refuerza la confianza de nuestros usuarios en el servicio que se brindará.
 ![Logo](https://media.discordapp.net/attachments/1146490170917535764/1147743612243824691/logo.JPG)
+
+-Tipografía: Se requirió dos tipos de tipografías claras, legibles y fáciles de leer en diferentes dispositivos. Fueron seleccionadas Poppins y Jost.
+<img src="https://media.discordapp.net/attachments/1145421916413366426/1145446949110173706/Steve.jpg?width=511&height=681" alt="Steve Castillo" style="margin-bottom: 5px;" width="600"/>
+
 
 ### 4.1.2. Web Style Guidelines.
 
