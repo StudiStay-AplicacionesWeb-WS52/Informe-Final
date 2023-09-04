@@ -167,9 +167,46 @@ Para crear la sección del Landing Page y la Aplicación web, hemos utilizado un
   - En la configuración de la cuenta, los usuarios podrán configurar distintos aspectos de la misma de acuerdo a sus preferencias, mostrando los apartados divididos en secciones. 
 
 ### 4.2.2. Labeling Systems.
+A continuación, se mostrará el sistema de etiquetado que otorgará una descripción breve y clara de la información mostrada en nuestra Landing Page.
+
+Tenemos los siguientes encabezados:
+
+ - Home: En esta sección se muestra la sección inicial de la Landing Page, en la que se ofrece la bienvenida a los posibles usuarios, junto a una frase que representa al proyecto.
+ - Servicios: En esta sección se describen las características que los usuarios podrán encontrar al hacer uso de nuestra aplicación.
+ - Quiénes somos: En esta sección el cliente puede observar información acerca de nuestro equipo de desarrollo y una descripción breve de nuestro objetivo.
+ - Testimonios: En esta sección se pueden visualizar las opiniones de los usuarios que probaron el servicio, además de la puntuación que brindaron.
+ - Descargar: En esta sección se puede visualizar las opciones de descarga que podrán estar disponibles en un posible futuro al desarrollar una versión para dispositivos móviles.
+
 ### 4.2.3. SEO Tags and Meta Tags
+Estas etiquetas son esenciales para mejorar la visibilidad de la aplicación web en los motores de búsqueda como Google. Las etiquetas SEO incluyen palabras clave relevantes y descripciones concisas para que los motores de búsqueda indexen y clasifiquen el contenido de la aplicación de manera efectiva. Las metaetiquetas proporcionan información adicional sobre la página, como el título y la descripción que se muestran en los resultados de búsqueda.
+
+**Para el Landing Page:**
+Tittle: StudiStay
+Description: StudiStay -  StudiStay Connect Official Landing Page 
+Keywords: apartment, students, rent apartment
+Authors: StudiStay Connect team
+
+**Para la aplicación web:**
+
+Tittle: StudiStay
+Description: StudiStay -  StudiStay Connect Official Web Page
+Keywords: apartment, students, rent apartment, low prices, web courses
+Authors: StudiStay Connect team
+
 ### 4.2.4. Searching Systems.
+ - Landing Page: Los usuarios podrán hacer uso de la barra de navegación ubicada en la parte superior, para poder ubicarse en los distintos apartados en los que está dividido nuestra página, siendo una forma didáctica para interactuar con esta.
+
+ - Aplicación Web: Por parte de los estudiantes, tendrán la opción de realizar búsquedas de espacios ideales para ellos, por medio de aplicar los filtros necesarios tales como precio, tamaño, lugar, etc. Los resultados serán mostrados de acuerdo a la coincidencia con la búsqueda establecida. Por parte de los arrendadores, podrán buscar a los clientes con quienes contactaron para realizar un alquiler, por medio de filtros como fecha, lugar, etc.
+
+
+
 ### 4.2.5. Navigation Systems.
+A continuación, el equipo mostrará los sistemas de navegación con los que contará nuestro servicio para permitir a los usuarios navegar de manera sencilla y eficiente a cualquier sección de información.
+
+En nuestro Landing Page, encontramos la sección de la barra de navegación en la parte superior, la cual nos permite navegar directamente a un apartado dentro de la página. Esta barra de navegación será visible en todo momento, para que el usuario pueda dirigirse a otra sección que desee visualizar. De esta manera, generamos una navegación más fluida y dinámica para el usuario.
+
+En nuestra aplicación web, utilizaremos un proceso similar al descrito, con diversas opciones que variarán de acuerdo al segmento objetivo que esté utilizando el servicio. Estos podrán hacer uso de filtros para poder encontrar de mejor manera la información precisa que necesiten.
+
 
 ## 4.3. Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
