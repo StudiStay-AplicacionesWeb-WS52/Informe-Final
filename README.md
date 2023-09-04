@@ -211,18 +211,37 @@ En nuestra aplicación web, utilizaremos un proceso similar al descrito, con div
 
 
 ## 4.3. Landing Page UI Design.
+
+### 4.3.1. Landing Page Wireframe.
 ![m1](https://media.discordapp.net/attachments/1146490170917535764/1148344163218243655/01.jpg)
 ![m2](https://media.discordapp.net/attachments/1146490170917535764/1148344163478278164/02.jpg)
 ![m3](https://media.discordapp.net/attachments/1146490170917535764/1148344163801243759/03.jpg)
 ![m4](https://media.discordapp.net/attachments/1146490170917535764/1148344164107436122/04.jpg)
 ![m5](https://media.discordapp.net/attachments/1146490170917535764/1148344164497494046/05.jpg)
 
-[Enlace a Figma](https://www.figma.com/file/ceXZ987xbS3HnR0A1ISTwf/Mockups?type=design&node-id=0%3A1&mode=design&t=HcpJIjoBHU1Hyp6C-1)
-### 4.3.1. Landing Page Wireframe.
+[Enlace a Figma "Ver Diseños"](https://www.figma.com/file/ceXZ987xbS3HnR0A1ISTwf/Mockups?type=design&node-id=0%3A1&mode=design&t=HcpJIjoBHU1Hyp6C-1)
+
 ### 4.3.2. Landing Page Mock-up.
+![m01](https://media.discordapp.net/attachments/1146490170917535764/1148347277824491660/001.jpg)
+![m02](https://media.discordapp.net/attachments/1146490170917535764/1148347278558494770/002.jpg)
+![m03](https://media.discordapp.net/attachments/1146490170917535764/1148347279217000479/003.jpg)
+![m04](https://media.discordapp.net/attachments/1146490170917535764/1148347279544172604/004.jpg)
+![m05](https://media.discordapp.net/attachments/1146490170917535764/1148347279774863453/005.jpg)
+**Version Mobile**
+![m0001](https://media.discordapp.net/attachments/1146490170917535764/1148347277572853831/0001.jpg)
+![m0002](https://media.discordapp.net/attachments/1146490170917535764/1148347278206193794/0002.jpg)
+![m0003](https://media.discordapp.net/attachments/1146490170917535764/1148347278847918090/0003.jpg)
+[Enlace a Figma "Ver Diseños"](https://www.figma.com/file/ceXZ987xbS3HnR0A1ISTwf/Mockups?type=design&node-id=0%3A1&mode=design&t=HcpJIjoBHU1Hyp6C-1)
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
+![m001]()
+![m002]()
+![m003]()
+![m004]()
+![m005]()
+[Enlace a Figma "Ver Diseños"](https://www.figma.com/file/ceXZ987xbS3HnR0A1ISTwf/Mockups?type=design&node-id=45%3A255&mode=design&t=HcpJIjoBHU1Hyp6C-1)
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
 ### 4.4.2. Web Applications Mock-ups.
 ### 4.4.3. Web Applications User Flow Diagrams.
