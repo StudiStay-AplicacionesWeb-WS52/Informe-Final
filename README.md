@@ -124,8 +124,8 @@ Se requirió dos tipos de tipografías claras, legibles y fáciles de leer en di
 **-Colores empleados:**
 Para la elección de colores, se tuvo en cuenta el propósito de la aplicación y el servicio y lo que esta debería transmitir al usuario. 
 
-![cuadro02(https://media.discordapp.net/attachments/1146490170917535764/1148338251543888053/Captura_de_pantalla_2023-09-04_142543.jpg)
-![cuadro03(https://media.discordapp.net/attachments/1146490170917535764/1148338251313188905/Captura_de_pantalla_2023-09-04_142346.jpg)
+![cuadro02 ](https://media.discordapp.net/attachments/1146490170917535764/1148338251543888053/Captura_de_pantalla_2023-09-04_142543.jpg)
+![cuadro03](https://media.discordapp.net/attachments/1146490170917535764/1148338251313188905/Captura_de_pantalla_2023-09-04_142346.jpg)
 
 
 **-Íconos:** 
