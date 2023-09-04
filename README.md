@@ -117,8 +117,7 @@ En esta sección se analizará los diseños que se consideraron para nuestra mar
 ![Logo](https://media.discordapp.net/attachments/1146490170917535764/1147743612243824691/logo.JPG)
 
 -Tipografía: Se requirió dos tipos de tipografías claras, legibles y fáciles de leer en diferentes dispositivos. Fueron seleccionadas Poppins y Jost.
-![cuadro01]([https://media.discordapp.net/attachments/1146490170917535764/1147743612243824691/logo.JPG](https://media.discordapp.net/attachments/1146490170917535764/1148325071232958618/Captura_de_pantalla_2023-09-04_133120.jpg))
-<img src="https://media.discordapp.net/attachments/1146490170917535764/1148325071232958618/Captura_de_pantalla_2023-09-04_133120.jpg?width=511&height=681" alt="cuadro01" style="margin-bottom: 5px;" width="600"/>
+![cuadro01](https://media.discordapp.net/attachments/1146490170917535764/1148325071232958618/Captura_de_pantalla_2023-09-04_133120.jpg)
 
 
 ### 4.1.2. Web Style Guidelines.
