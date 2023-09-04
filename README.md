@@ -717,30 +717,99 @@ En nuestra aplicación web, utilizaremos un proceso similar al descrito, con div
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 
-![m001]()
-![m002]()
-![m003]()
-![m004]()
-![m005]()
+![m001](https://media.discordapp.net/attachments/1146490170917535764/1148373229904343140/x1.jpg)
+![m002](https://media.discordapp.net/attachments/1146490170917535764/1148373230143414414/x2.jpg)
+![m003](https://media.discordapp.net/attachments/1146490170917535764/1148373230386692126/x3.jpg)
+![m004](https://media.discordapp.net/attachments/1146490170917535764/1148373230642540604/x4.jpg)
+![m005](https://media.discordapp.net/attachments/1146490170917535764/1148373230894194799/x5.jpg)
 
 [Enlace a Figma "Ver Diseños"](https://www.figma.com/file/ceXZ987xbS3HnR0A1ISTwf/Mockups?type=design&node-id=45%3A255&mode=design&t=HcpJIjoBHU1Hyp6C-1)
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
+**User goal:**  Ingresar a la pantalla principal de la aplicación 
+
+![y1](https://media.discordapp.net/attachments/1146490170917535764/1148373882747752618/y1.jpg)
+
+[Enlace a "Ver Diagrama"](https://lucid.app/lucidchart/8975e733-6286-4b90-b156-2075b44cfd2f/edit?viewport_loc=-6144%2C-2594%2C16249%2C8205%2C0_0&invitationId=inv_d8502013-fa85-466f-90de-b813cccb25a3)
+
 ### 4.4.2. Web Applications Mock-ups.
+
+![X1](https://media.discordapp.net/attachments/1146490170917535764/1148381361959342141/c1.jpg)
+![X1](https://media.discordapp.net/attachments/1146490170917535764/1148381362190024794/c2.jpg)
+![X1](https://media.discordapp.net/attachments/1146490170917535764/1148381362399760484/c3.jpg)
+![X1](https://media.discordapp.net/attachments/1146490170917535764/1148381362924032092/c4.jpg)
+![X1](https://media.discordapp.net/attachments/1146490170917535764/1148381363347652619/c5.jpg)
+
+[Enlace a Figma "Ver Diseños"](https://www.figma.com/file/ceXZ987xbS3HnR0A1ISTwf/Mockups?type=design&node-id=45%3A255&mode=design&t=HcpJIjoBHU1Hyp6C-1)
+
 ### 4.4.3. Web Applications User Flow Diagrams.
+**User Goal:** Ingresar a la pantalla principal de la aplicación
+
+![C1](https://media.discordapp.net/attachments/1146490170917535764/1148381363825807360/xx1.jpg)
+
+[Enlace a "Ver Diagrama"](https://lucid.app/lucidchart/14f1c5b0-7747-40c4-8298-e6cc1d0b5afb/edit?viewport_loc=-6385%2C-3534%2C16999%2C8584%2C0_0&invitationId=inv_cc954451-ffd1-4093-b615-7b9c212da4d9)
+
 ### 4.5. Web Applications Prototyping.
+
+Enlace del Prototipo:![ver Prototipo](https://www.figma.com/proto/ceXZ987xbS3HnR0A1ISTwf/Mockups?page-id=45%3A255&type=design&node-id=111-5174&viewport=486%2C537%2C0.16&t=Gu1HFfmg5NgkcG5j-1&scaling=scale-down&starting-point-node-id=111%3A5174&mode=design)
+
+Enlace del video: ![ver video](()
+
+![X1](https://media.discordapp.net/attachments/1146490170917535764/1148381363557388298/ccc1.jpg)
 
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
+
+![C1](https://media.discordapp.net/attachments/1146490170917535764/1148386215662460999/11.jpg)
+
 ### 4.6.2. Software Architecture Container Diagrams.
+
+![C1](https://media.discordapp.net/attachments/1146490170917535764/1148386216220307476/12.jpg)
+
 ### 4.6.3. Software Architecture Components Diagrams.
+
+Payment Context Component Diagram
+
+![C1](https://media.discordapp.net/attachments/1146490170917535764/1148389849179623464/B1.jpg)
+
+User Profile Context Component Diagram
+
+![C1](https://media.discordapp.net/attachments/1146490170917535764/1148389849443881061/B2.jpg)
+
+Chat Context Component Diagram
+
+![C1](https://media.discordapp.net/attachments/1146490170917535764/1148389849645203486/B3.jpg)
+
+Accommodation Search Context  Component Diagram
+
+![C1](https://media.discordapp.net/attachments/1146490170917535764/1148389849888460820/B4.jpg)
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
+
+![C1](https://media.discordapp.net/attachments/1146490170917535764/1148389850093998140/XY1.jpg)
+
+Enlace del diagrama: ![Ver diagrama](https://drive.google.com/file/d/1GioUkvq4ETebL9ievODw4UMom4wApiTO/view?usp=sharing)
+
 ### 4.7.2. Class Dictionary.
+
+A continuación, se presenta detalladamente las clases más relevantes con sus atributos y métodos correspondientes:
+
+![C1](https://media.discordapp.net/attachments/1146490170917535764/1148394534531764244/N1.jpg)
+![C1](https://media.discordapp.net/attachments/1146490170917535764/1148394534720524329/N2.jpg)
+![C1](https://media.discordapp.net/attachments/1146490170917535764/1148394534946996274/N3.jpg)
+![C1](https://media.discordapp.net/attachments/1146490170917535764/1148394535144132638/N4.jpg)
+![C1](https://media.discordapp.net/attachments/1146490170917535764/1148394535400001617/N5.jpg)
+![C1](https://media.discordapp.net/attachments/1146490170917535764/1148394535622279228/N6.jpg)
+![C1](https://media.discordapp.net/attachments/1146490170917535764/1148394535848775751/N7.jpg)
+![C1](https://media.discordapp.net/attachments/1146490170917535764/1148394536092061737/N8.jpg)
 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
+
+![C1](https://media.discordapp.net/attachments/1146490170917535764/1148394536389836800/N9.jpg)
+
+Enlace del database diagram:![Ver diagrama](https://cdn.discordapp.com/attachments/1146490170917535764/1147639660609278012/StudiStay-2023-09-02_12-23.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
