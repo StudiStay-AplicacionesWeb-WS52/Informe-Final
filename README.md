@@ -709,7 +709,9 @@ En nuestra aplicación web, utilizaremos un proceso similar al descrito, con div
 **Version Mobile**
 
 ![m0001](https://media.discordapp.net/attachments/1146490170917535764/1148347277572853831/0001.jpg)
+
 ![m0002](https://media.discordapp.net/attachments/1146490170917535764/1148347278206193794/0002.jpg)
+
 ![m0003](https://media.discordapp.net/attachments/1146490170917535764/1148347278847918090/0003.jpg)
 
 [Enlace a Figma "Ver Diseños"](https://www.figma.com/file/ceXZ987xbS3HnR0A1ISTwf/Mockups?type=design&node-id=0%3A1&mode=design&t=HcpJIjoBHU1Hyp6C-1)
@@ -809,7 +811,7 @@ A continuación, se presenta detalladamente las clases más relevantes con sus a
 
 ![C1](https://media.discordapp.net/attachments/1146490170917535764/1148394536389836800/N9.jpg)
 
-Enlace del database diagram:[Ver diagrama](https://cdn.discordapp.com/attachments/1146490170917535764/1147639660609278012/StudiStay-2023-09-02_12-23.png)
+Enlace del database diagram: [Ver diagrama](https://cdn.discordapp.com/attachments/1146490170917535764/1147639660609278012/StudiStay-2023-09-02_12-23.png)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
