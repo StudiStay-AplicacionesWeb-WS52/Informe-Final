@@ -87,9 +87,9 @@ del ABET – EAC - Student Outcome 5.
 
 | Nombre del Competidor | Descripción |
 |:----|:----:|
-| Roomate Lima (Web browser) https://www.roommates.pe | 1. Permite encontrar un roommate adecuado, publicando la habitación que deseas alquilar o también buscando un lugar perfecto para vivir. 2. Analiza tus posibilidades para que puedas reunirte con ellos y de esta forma sepas si son los roommates que estás buscando. |
-| Urbania (Web browser) https://urbania.pe | 1. Plataforma en la que las inmobiliarias y dueños directos de todo el país para ofrecer las mejores opciones de inmuebles. 2. Accede de forma fácil y segura a los avisos contactados, favoritos, las notas que creaste y más. |
-| Trovit (Web Browser) https://casas.trovit.com.pe | 1. Buscador de casas en venta y en alquiler. 2. Ofrece promocionar distintos tipos de vivienda, con un buscador con filtros para facilidad de los usuarios. 3. Permite diferenciar entre venta y alquiler del espacio solicitado.
+| Uniplaces (Web browser) https://www.uniplaces.com/es  | Uniplaces es una plataforma en línea que conecta a estudiantes y profesionales con alojamiento a corto y largo plazo en ciudades de todo el mundo. Ofrecen una amplia variedad de opciones de vivienda, desde habitaciones privadas hasta apartamentos completos, para satisfacer las necesidades de los usuarios. |
+| HousingAnywhere (Web browser) https://housinganywhere.com/  | HousingAnywhere es una plataforma global de alquiler de viviendas que facilita la búsqueda y reserva de alojamiento amueblado en ciudades de todo el mundo. Conecta a inquilinos internacionales con propietarios locales y ofrece una amplia gama de opciones de vivienda temporal y a largo plazo. |
+| Spotahome (Web Browser) https://www.spotahome.com/es | Spotahome es una plataforma en línea que se especializa en alquiler de viviendas a largo plazo. Ofrecen una selección de apartamentos y habitaciones verificadas que pueden ser alquilados sin necesidad de visitas previas, lo que hace que el proceso de alquiler sea más fácil y seguro. |
 
 ### 2.1.1. Análisis competitivo
 
