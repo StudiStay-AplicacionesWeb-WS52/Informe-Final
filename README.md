@@ -873,7 +873,7 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
         </tr>
         <tr>
             <td style="background-color: #ccc;">Usuario:</td>
-            <td colspan="3" style="text-align:left;"> Srrendador  </td>
+            <td colspan="3" style="text-align:left;"> Arrendador  </td>
         </tr>
         <tr>
             <td style="background-color: #ccc;">Descripción</td>
@@ -1042,7 +1042,7 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
         </tr>
         <tr>
             <td style="background-color: #ccc;">Criterios de aceptación</td>
-            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Editar reseña</em><br><span style="color:red">Dado</span></b> que el usuario estudiante quiere editar su reseña <br><b><span style="color:red">Y</span></b> la de click a su perfil <br><b><span style="color:red">Cuando</span></b> seleccione la opción “Mis reseñas” <br><b><span style="color:red">Y</span></b> encuentre la reseña que quiere editar <br><b><span style="color:red">Entonces</span></b> le dará click a la imagen de un lápiz <br><b><span style="color:red">Y</span></b> podrá editar su reseña corrigiendo, añadiendo o eliminando palabras. <br><br><b><em>Escenario 2: Eliminar reseña</em><br><span style="color:red">Dado</span></b> que el usuario estudiante quiere editar su reseña <br><b><span style="color:red">Y</span></b> le da click a su perfil <br><b><span style="color:red">Cuando</span></b> seleccione la opción “Mis reseñas” <br><b><span style="color:red">Y</span></b> encuentre la reseña que quiere eliminar <br><b><span style="color:red">Entonces</span></b> le dará click a la imagen de un tacho de basura<br><b><span style="color:red">Y</span></b> le aparecerá un mensaje de confirmación para proceder a eliminar la reseña. </td>
+            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Editar reseña</em><br><span style="color:red">Dado</span></b> que el usuario estudiante quiere editar su reseña <br><b><span style="color:red">Y</span></b> le de click a su perfil <br><b><span style="color:red">Cuando</span></b> seleccione la opción “Mis reseñas” <br><b><span style="color:red">Y</span></b> encuentre la reseña que quiere editar <br><b><span style="color:red">Entonces</span></b> le dará click a la imagen de un lápiz <br><b><span style="color:red">Y</span></b> podrá editar su reseña corrigiendo, añadiendo o eliminando palabras. <br><br><b><em>Escenario 2: Eliminar reseña</em><br><span style="color:red">Dado</span></b> que el usuario estudiante quiere editar su reseña <br><b><span style="color:red">Y</span></b> le da click a su perfil <br><b><span style="color:red">Cuando</span></b> seleccione la opción “Mis reseñas” <br><b><span style="color:red">Y</span></b> encuentre la reseña que quiere eliminar <br><b><span style="color:red">Entonces</span></b> le dará click a la imagen de un tacho de basura<br><b><span style="color:red">Y</span></b> le aparecerá un mensaje de confirmación para proceder a eliminar la reseña. </td>
         </tr>
     </tbody>
 </table>
@@ -1050,7 +1050,7 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
 ## 3.3. Impact Mapping
 
 <div align=center>
-    <img src="https://i.imgur.com/d2JLFhw.jpeg" alt="Impact Mapping"  width="90%"/>
+    <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1148729401417154650/Impact_Mapping_AP-WEB.png" alt="Impact Mapping"  width="90%"/>
 </div>
 
 ## 3.4. Product Backlog
