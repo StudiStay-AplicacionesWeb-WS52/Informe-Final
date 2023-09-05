@@ -573,7 +573,7 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
 
 <img src="https://i.imgur.com/fDMMJZL.png"/>
 
-<br><br>
+<br>
 
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
@@ -674,7 +674,7 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
         </tr>
     </tbody>
 </table>
-
+<br>
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tbody >
         <tr>
@@ -693,11 +693,11 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
         </tr>
         <tr>
             <td style="background-color: #ccc;">Criterios de aceptación</td>
-            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Registrarse como estudiante</em><br><span style="color:red">Dado</span></b> que el usuario estudiante ingresa por primera vez a la aplicación<br><b><span style="color:red">Y</span></b> quiere registrarse para hacer uso de la aplicación,<br><b><span style="color:red">Cuando</span></b> rellene con sus datos personales los campos obligatorios<br><b><span style="color:red">Y</span></b> de click al botón “Registrar”<br><b><span style="color:red">Entonces</span></b> el usuario estudiante será registrado<br><b><span style="color:red">Y</span></b> podrá acceder a todas las secciones y funciones de un estudiante en la app.<br><b><em>Escenario 2: Registrarse como arrendador</em><br><span style="color:red">Dado</span></b> que el usuario arrendador ingresa por primera vez a la aplicación<br><b><span style="color:red">Y</span></b> quiere registrarse para hacer uso de la aplicación,<br><b><span style="color:red">Cuando</span></b> rellene con sus datos personales los campos obligatorios<br><b><span style="color:red">Y</span></b> de click al botón “Registrar”<br><b><span style="color:red">Entonces</span></b> el usuario arrendador será registrado<br><b><span style="color:red">Y</span></b> podrá acceder a todas las secciones y funciones de un arrendador en la app.</td>
+            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Registrarse como estudiante</em><br><span style="color:red">Dado</span></b> que el usuario estudiante ingresa por primera vez a la aplicación<br><b><span style="color:red">Y</span></b> quiere registrarse para hacer uso de la aplicación,<br><b><span style="color:red">Cuando</span></b> rellene con sus datos personales los campos obligatorios<br><b><span style="color:red">Y</span></b> de click al botón “Registrar”<br><b><span style="color:red">Entonces</span></b> el usuario estudiante será registrado<br><b><span style="color:red">Y</span></b> podrá acceder a todas las secciones y funciones de un estudiante en la app.<br><br><b><em>Escenario 2: Registrarse como arrendador</em><br><span style="color:red">Dado</span></b> que el usuario arrendador ingresa por primera vez a la aplicación<br><b><span style="color:red">Y</span></b> quiere registrarse para hacer uso de la aplicación,<br><b><span style="color:red">Cuando</span></b> rellene con sus datos personales los campos obligatorios<br><b><span style="color:red">Y</span></b> de click al botón “Registrar”<br><b><span style="color:red">Entonces</span></b> el usuario arrendador será registrado<br><b><span style="color:red">Y</span></b> podrá acceder a todas las secciones y funciones de un arrendador en la app.</td>
         </tr>
     </tbody>
 </table>
-
+<br>
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tbody >
         <tr>
@@ -717,12 +717,12 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
         <tr>
             <td style="background-color: #ccc;">Criterios de aceptación</td>
             <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Iniciar sesión como estudiante</em><br><span style="color:red">Dado</span></b> que el usuario estudiante inicia sesión en la app<br><b><span style="color:red">Cuando</span></b> ingrese sus datos correctos<br><b><span style="color:red">Y</span></b> selecciona el botón “Iniciar sesión”<br><b><span style="color:red">Entonces</span></b> el usuario estudiante tendrá acceso a la aplicación<br><b><span style="color:red">Y</span></b> visualizará los diferentes dormitorios que se alquilan, filtros de búsqueda, entre otras funciones como estudiante.
-<br><b><em>Escenario 2: Iniciar sesión como arrendador</em><br><span style="color:red">Dado</span></b> que el usuario arrendador inicia sesión en la app<br><b><span style="color:red">Cuando</span></b> ingrese sus datos correctos<br><b><span style="color:red">Y</span></b> selecciona el botón “Iniciar sesión”<br><b><span style="color:red">Entonces</span></b> el usuario arrendador tendrá acceso a la aplicación<br><b><span style="color:red">Y</span></b> visualizará sus publicaciones sobre dormitorios, mensajes, entre otras funciones como arrendador.
+<br><br><b><em>Escenario 2: Iniciar sesión como arrendador</em><br><span style="color:red">Dado</span></b> que el usuario arrendador inicia sesión en la app<br><b><span style="color:red">Cuando</span></b> ingrese sus datos correctos<br><b><span style="color:red">Y</span></b> selecciona el botón “Iniciar sesión”<br><b><span style="color:red">Entonces</span></b> el usuario arrendador tendrá acceso a la aplicación<br><b><span style="color:red">Y</span></b> visualizará sus publicaciones sobre dormitorios, mensajes, entre otras funciones como arrendador.
             </td>
         </tr>
     </tbody>
 </table>
-
+<br>
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tbody >
         <tr>
@@ -741,11 +741,11 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
         </tr>
         <tr>
             <td style="background-color: #ccc;">Criterios de aceptación</td>
-            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Recuperar contraseña con un correo electrónico</em><br><span style="color:red">Dado</span></b> que el usuario ha olvidado su contraseña y quiere recuperarla <br><b><span style="color:red">Cuando</span></b> le de click a la opción “Recuperar contraseña” <br><b><span style="color:red">Y</span></b> después selecciona la opción “Correo electrónico”, recibirá un correo de la empresa al correo electrónico asociado con un código <br><b><span style="color:red">Entonces</span></b> luego de ingresar el código en el campo requerido <br><b><span style="color:red">Y</span></b> restablecer su contraseña, tendrá que iniciar sesión otra vez. <br><b><em>Escenario 2: Recuperar contraseña con un mensaje de texto</em><br><span style="color:red">Dado</span></b> que el usuario ha olvidado su contraseña y quiere recuperarla <br><b><span style="color:red">Cuando</span></b> le de click a la opción “Recuperar contraseña” <br><b><span style="color:red">Y</span></b> después selecciona la opción “Mensaje de texto”, recibirá un mensaje de texto de la empresa al teléfono asociado con un código <br><b><span style="color:red">Entonces</span></b> luego de ingresar el código en el campo requerido <br><b><span style="color:red">Y</span></b> restablecer su contraseña, tendrá que iniciar sesión otra vez. </td>
+            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Recuperar contraseña con un correo electrónico</em><br><span style="color:red">Dado</span></b> que el usuario ha olvidado su contraseña y quiere recuperarla <br><b><span style="color:red">Cuando</span></b> le de click a la opción “Recuperar contraseña” <br><b><span style="color:red">Y</span></b> después selecciona la opción “Correo electrónico”, recibirá un correo de la empresa al correo electrónico asociado con un código <br><b><span style="color:red">Entonces</span></b> luego de ingresar el código en el campo requerido <br><b><span style="color:red">Y</span></b> restablecer su contraseña, tendrá que iniciar sesión otra vez. <br><br><b><em>Escenario 2: Recuperar contraseña con un mensaje de texto</em><br><span style="color:red">Dado</span></b> que el usuario ha olvidado su contraseña y quiere recuperarla <br><b><span style="color:red">Cuando</span></b> le de click a la opción “Recuperar contraseña” <br><b><span style="color:red">Y</span></b> después selecciona la opción “Mensaje de texto”, recibirá un mensaje de texto de la empresa al teléfono asociado con un código <br><b><span style="color:red">Entonces</span></b> luego de ingresar el código en el campo requerido <br><b><span style="color:red">Y</span></b> restablecer su contraseña, tendrá que iniciar sesión otra vez. </td>
         </tr>
     </tbody>
 </table>
-
+<br>
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tbody >
         <tr>
@@ -764,12 +764,12 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
         </tr>
         <tr>
             <td style="background-color: #ccc;">Criterios de aceptación</td>
-            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Salir de la cuentae</em><br><span style="color:red">Dado</span></b> que el usuario desea cerrar sesión<br><b><span style="color:red">Cuando</span></b> le de click a su perfil <br><b><span style="color:red">Y</span></b> seleccione la opción “Cerrar sesión” <br><b><span style="color:red">Entonces</span></b> se cerrará su cuenta <br><b><span style="color:red">Y</span></b> será redirigido a la pantalla de inicio de sesión. <br><b><em>Escenario 2: Borrar la cuenta</em><br><span style="color:red">Dado</span></b> que el usuario desea borrar su cuenta<br><b><span style="color:red">Cuando</span></b> le de click a su perfil<br><b><span style="color:red">Y</span></b> seleccione la opción “Borrar cuenta”, le saldrá un mensaje de confirmación para borrar su cuenta  <br><b><span style="color:red">Entonces</span></b> le da click a la opción “Confirmar”, su cuenta será borrada.
+            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Salir de la cuentae</em><br><span style="color:red">Dado</span></b> que el usuario desea cerrar sesión<br><b><span style="color:red">Cuando</span></b> le de click a su perfil <br><b><span style="color:red">Y</span></b> seleccione la opción “Cerrar sesión” <br><b><span style="color:red">Entonces</span></b> se cerrará su cuenta <br><b><span style="color:red">Y</span></b> será redirigido a la pantalla de inicio de sesión. <br><br><b><em>Escenario 2: Borrar la cuenta</em><br><span style="color:red">Dado</span></b> que el usuario desea borrar su cuenta<br><b><span style="color:red">Cuando</span></b> le de click a su perfil<br><b><span style="color:red">Y</span></b> seleccione la opción “Borrar cuenta”, le saldrá un mensaje de confirmación para borrar su cuenta  <br><b><span style="color:red">Entonces</span></b> le da click a la opción “Confirmar”, su cuenta será borrada.
  <br><b><span style="color:red">Y</span></b> será redirigido a la pantalla de inicio de sesión. </td>
         </tr>
     </tbody>
 </table>
-
+<br>
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tbody >
         <tr>
@@ -788,11 +788,11 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
         </tr>
         <tr>
             <td style="background-color: #ccc;">Criterios de aceptación</td>
-            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Notificaciones de estudiante</em><br><span style="color:red">Dado</span></b> que el usuario estudiante desea configurar sus notificaciones <br><b><span style="color:red">Cuando</span></b> le de click a su perfil <br><b><span style="color:red">Y</span></b> seleccione la opción “Configurar Notificaciones” <br><b><span style="color:red">Entonces</span></b> podrá desactivar y activar notificaciones como por ejemplo: mensajes de chat, nuevos dormitorios, entre otros. <br><b><em>Escenario 2: Notificaciones de arrendador</em><br><span style="color:red">Dado</span></b> que el usuario arrendador desea configurar sus notificaciones <br><b><span style="color:red">Cuando</span></b> le de click a su perfil <br><b><span style="color:red">Y</span></b> seleccione la opción “Configurar Notificaciones”<br><b><span style="color:red">Entonces</span></b> podrá desactivar y activar notificaciones como por ejemplo: interacciones con sus publicaciones, mensajes de chat entre otros.</td>
+            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Notificaciones de estudiante</em><br><span style="color:red">Dado</span></b> que el usuario estudiante desea configurar sus notificaciones <br><b><span style="color:red">Cuando</span></b> le de click a su perfil <br><b><span style="color:red">Y</span></b> seleccione la opción “Configurar Notificaciones” <br><b><span style="color:red">Entonces</span></b> podrá desactivar y activar notificaciones como por ejemplo: mensajes de chat, nuevos dormitorios, entre otros. <br><br><b><em>Escenario 2: Notificaciones de arrendador</em><br><span style="color:red">Dado</span></b> que el usuario arrendador desea configurar sus notificaciones <br><b><span style="color:red">Cuando</span></b> le de click a su perfil <br><b><span style="color:red">Y</span></b> seleccione la opción “Configurar Notificaciones”<br><b><span style="color:red">Entonces</span></b> podrá desactivar y activar notificaciones como por ejemplo: interacciones con sus publicaciones, mensajes de chat entre otros.</td>
         </tr>
     </tbody>
 </table>
-
+<br>
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tbody >
         <tr>
@@ -811,11 +811,11 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
         </tr>
         <tr>
             <td style="background-color: #ccc;">Criterios de aceptación</td>
-            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Cambiar contraseña</em><br><span style="color:red">Dado</span></b> que el usuario desea cambiar su contraseña <br><b><span style="color:red">Cuando</span></b> le de click a su perfil <br><b><span style="color:red">Y</span></b> seleccione la opción “Cambiar contraseña” <br><b><span style="color:red">Entonces</span></b> tendrá que ingresar su antigua contraseña <br><b><span style="color:red">Y</span></b> colocar su nueva contraseña. <br><b><em>Escenario 2: Cambiar contraseña vía email</em><br><span style="color:red">Dado</span></b> que el usuario desea cambiar su contraseña pero no recuerda su contraseña actual<br><b><span style="color:red">Cuando</span></b> le de click a su perfil, luego a la opción “Cambiar contraseña” <br><b><span style="color:red">Y</span></b> seleccione la opción “No recuerdo mi contraseña”, la empresa le enviará un email al correo asociado a la cuenta <br><b><span style="color:red">Entonces</span></b> tendrá que ingresar al link que se le envió a su correo <br><b><span style="color:red">Y</span></b> podrá ingresar su nueva contraseña. </td>
+            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Cambiar contraseña</em><br><span style="color:red">Dado</span></b> que el usuario desea cambiar su contraseña <br><b><span style="color:red">Cuando</span></b> le de click a su perfil <br><b><span style="color:red">Y</span></b> seleccione la opción “Cambiar contraseña” <br><b><span style="color:red">Entonces</span></b> tendrá que ingresar su antigua contraseña <br><b><span style="color:red">Y</span></b> colocar su nueva contraseña. <br><br><b><em>Escenario 2: Cambiar contraseña vía email</em><br><span style="color:red">Dado</span></b> que el usuario desea cambiar su contraseña pero no recuerda su contraseña actual<br><b><span style="color:red">Cuando</span></b> le de click a su perfil, luego a la opción “Cambiar contraseña” <br><b><span style="color:red">Y</span></b> seleccione la opción “No recuerdo mi contraseña”, la empresa le enviará un email al correo asociado a la cuenta <br><b><span style="color:red">Entonces</span></b> tendrá que ingresar al link que se le envió a su correo <br><b><span style="color:red">Y</span></b> podrá ingresar su nueva contraseña. </td>
         </tr>
     </tbody>
 </table>
-
+<br>
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tbody >
         <tr>
@@ -835,11 +835,11 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
         </tr>
         <tr>
             <td style="background-color: #ccc;">Criterios de aceptación</td>
-            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Cambiar foto de perfil</em><br><span style="color:red">Dado</span></b> que el usuario desea cambiar su foto de perfil<br><b><span style="color:red">Cuando</span></b> le de click a su perfil <br><b><span style="color:red">Y</span></b> seleccione la opción “Editar foto de perfil” <br><b><span style="color:red">Entonces</span></b> tendrá que seleccionar una foto de su galería <br><b><span style="color:red">Y</span></b> darle aceptar para actualizar su foto de perfil para que sea visible para otros usuarios. <br><b><em>Escenario 2: Cambiar información de perfil</em><br><span style="color:red">Dado</span></b> que el usuario desea cambiar su información de perfil <br><b><span style="color:red">Cuando</span></b> le de click a su perfil <br><b><span style="color:red">Y</span></b> seleccione la opción “Editar información de perfil” <br><b><span style="color:red">Entonces</span></b> tendrá que colocar una pequeña reseña de sí mismo <br><b><span style="color:red">Y</span></b> darle aceptar para actualizar su información de perfil para que sea visible para otros usuarios.</td>
+            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Cambiar foto de perfil</em><br><span style="color:red">Dado</span></b> que el usuario desea cambiar su foto de perfil<br><b><span style="color:red">Cuando</span></b> le de click a su perfil <br><b><span style="color:red">Y</span></b> seleccione la opción “Editar foto de perfil” <br><b><span style="color:red">Entonces</span></b> tendrá que seleccionar una foto de su galería <br><b><span style="color:red">Y</span></b> darle aceptar para actualizar su foto de perfil para que sea visible para otros usuarios. <br><br><b><em>Escenario 2: Cambiar información de perfil</em><br><span style="color:red">Dado</span></b> que el usuario desea cambiar su información de perfil <br><b><span style="color:red">Cuando</span></b> le de click a su perfil <br><b><span style="color:red">Y</span></b> seleccione la opción “Editar información de perfil” <br><b><span style="color:red">Entonces</span></b> tendrá que colocar una pequeña reseña de sí mismo <br><b><span style="color:red">Y</span></b> darle aceptar para actualizar su información de perfil para que sea visible para otros usuarios.</td>
         </tr>
     </tbody>
 </table>
-
+<br>
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tbody >
         <tr>
@@ -858,11 +858,11 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
         </tr>
         <tr>
             <td style="background-color: #ccc;">Criterios de aceptación</td>
-            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Preguntas frecuentes</em><br><span style="color:red">Dado</span></b> que el usuario tiene dudas sobre la app <br><b><span style="color:red">Cuando</span></b> le de click a su perfil <br><b><span style="color:red">Y</span></b> seleccione la opción “Preguntas frecuentes” <br><b><span style="color:red">Entonces</span></b> se le mostrará una sección sobre las preguntas más frecuentes con respecto a la aplicación y empresa. <br><b><em>Escenario 2: Guía de la aplicación</em><br><span style="color:red">Dado</span></b> que el usuario es nuevo en la aplicación <br><b><span style="color:red">Y</span></b> quiere saber cómo funciona la app <br><b><span style="color:red">Cuando</span></b> le de click a su perfil <br><b><span style="color:red">Y</span></b> seleccione la opción “Guía rápida” <br><b><span style="color:red">Entonces</span></b> se le mostrará cuáles son sus funciones según el tipo de usuario.</td>
+            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Preguntas frecuentes</em><br><span style="color:red">Dado</span></b> que el usuario tiene dudas sobre la app <br><b><span style="color:red">Cuando</span></b> le de click a su perfil <br><b><span style="color:red">Y</span></b> seleccione la opción “Preguntas frecuentes” <br><b><span style="color:red">Entonces</span></b> se le mostrará una sección sobre las preguntas más frecuentes con respecto a la aplicación y empresa. <br><br><b><em>Escenario 2: Guía de la aplicación</em><br><span style="color:red">Dado</span></b> que el usuario es nuevo en la aplicación <br><b><span style="color:red">Y</span></b> quiere saber cómo funciona la app <br><b><span style="color:red">Cuando</span></b> le de click a su perfil <br><b><span style="color:red">Y</span></b> seleccione la opción “Guía rápida” <br><b><span style="color:red">Entonces</span></b> se le mostrará cuáles son sus funciones según el tipo de usuario.</td>
         </tr>
     </tbody>
 </table>
-
+<br>
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tbody >
         <tr>
@@ -881,11 +881,11 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
         </tr>
         <tr>
             <td style="background-color: #ccc;">Criterios de aceptación</td>
-            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Crear mi primera publicación</em><br><span style="color:red">Dado</span></b> que el usuario arrendador quiere crear una publicación de su alojamiento a alquilar <br><b><span style="color:red">Cuando</span></b> le de click a “Agregar publicación” en la sección de mis publicaciones <br><b><span style="color:red">Entonces</span></b> se le mostrará una plantilla la cuál tiene que rellenar con especificaciones de la habitación por ejemplo, ubicación, número de habitaciones, etc <br><b><span style="color:red">Y</span></b> agregar fotos de la habitación. <br><b><em>Escenario 2: Crear mi enésima publicación</em><br><span style="color:red">Dado</span></b> que el usuario quiere crear su enésima publicación <br><b><span style="color:red">Cuando</span></b> se ubique en la sección de mis publicaciones <br><b><span style="color:red">Y</span></b> se sitúe en su última publicación, tendrá que hacerle click a “Agregar publicación” <br><b><span style="color:red">Entonces</span></b> se le mostrará una plantilla la cuál tiene que rellenar con especificaciones de la habitación por ejemplo, ubicación, número de habitaciones, etc <br><b><span style="color:red">Y</span></b> agregar fotos de la habitación. </td>
+            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Crear mi primera publicación</em><br><span style="color:red">Dado</span></b> que el usuario arrendador quiere crear una publicación de su alojamiento a alquilar <br><b><span style="color:red">Cuando</span></b> le de click a “Agregar publicación” en la sección de mis publicaciones <br><b><span style="color:red">Entonces</span></b> se le mostrará una plantilla la cuál tiene que rellenar con especificaciones de la habitación por ejemplo, ubicación, número de habitaciones, etc <br><b><span style="color:red">Y</span></b> agregar fotos de la habitación. <br><br><b><em>Escenario 2: Crear mi enésima publicación</em><br><span style="color:red">Dado</span></b> que el usuario quiere crear su enésima publicación <br><b><span style="color:red">Cuando</span></b> se ubique en la sección de mis publicaciones <br><b><span style="color:red">Y</span></b> se sitúe en su última publicación, tendrá que hacerle click a “Agregar publicación” <br><b><span style="color:red">Entonces</span></b> se le mostrará una plantilla la cuál tiene que rellenar con especificaciones de la habitación por ejemplo, ubicación, número de habitaciones, etc <br><b><span style="color:red">Y</span></b> agregar fotos de la habitación. </td>
         </tr>
     </tbody>
 </table>
-
+<br>
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tbody >
         <tr>
@@ -904,11 +904,11 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
         </tr>
         <tr>
             <td style="background-color: #ccc;">Criterios de aceptación</td>
-            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Editar mi publicación</em><br><span style="color:red">Dado</span></b> que el usuario arrendador quiere editar una de sus publicaciones <br><b><span style="color:red">Cuando</span></b> se encuentre la sección mis publicaciones <br><b><span style="color:red">Y</span></b> le de click al icono de un lápiz al lado de la publicación que deseé editar <br><b><span style="color:red">Entonces</span></b> podrá modificar la información o agregar o quitar fotos de la publicación  <br><b><em>Escenario 2:  Borrar mi publicación</em><br><span style="color:red">Dado</span></b> que el usuario arrendador quiere borrar una de sus publicaciones <br><b><span style="color:red">Cuando</span></b> se encuentre la sección mis publicaciones <br><b><span style="color:red">Y</span></b> le de click al icono de un tacho de basura al lado de la publicación que deseé borrar <br><b><span style="color:red">Entonces</span></b> le saldrá un mensaje de confirmación para proceder con la eliminación de la publicación.</td>
+            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Editar mi publicación</em><br><span style="color:red">Dado</span></b> que el usuario arrendador quiere editar una de sus publicaciones <br><b><span style="color:red">Cuando</span></b> se encuentre la sección mis publicaciones <br><b><span style="color:red">Y</span></b> le de click al icono de un lápiz al lado de la publicación que deseé editar <br><b><span style="color:red">Entonces</span></b> podrá modificar la información o agregar o quitar fotos de la publicación  <br><br><b><em>Escenario 2:  Borrar mi publicación</em><br><span style="color:red">Dado</span></b> que el usuario arrendador quiere borrar una de sus publicaciones <br><b><span style="color:red">Cuando</span></b> se encuentre la sección mis publicaciones <br><b><span style="color:red">Y</span></b> le de click al icono de un tacho de basura al lado de la publicación que deseé borrar <br><b><span style="color:red">Entonces</span></b> le saldrá un mensaje de confirmación para proceder con la eliminación de la publicación.</td>
         </tr>
     </tbody>
 </table>
-
+<br>
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tbody >
         <tr>
@@ -927,11 +927,11 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
         </tr>
         <tr>
             <td style="background-color: #ccc;">Criterios de aceptación</td>
-            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Arrendador sin un plan</em><br><span style="color:red">Dado</span></b> que el usuario arrendador no cuenta con un plan <br><b><span style="color:red">Cuando</span></b> le de click a su perfil <br><b><span style="color:red">Y</span></b> seleccione la opción “Mi plan” <br><b><span style="color:red">Entonces</span></b> visualiza cuáles son las características de su plan gratuito por ejemplo, número de publicaciones limitados, publicaciones sin posicionamiento, entre otras. <br><b><em>Escenario 2: Arrendador con un plan</em><br><span style="color:red">Dado</span></b> que el usuario arrendador cuenta con un plan <br><b><span style="color:red">Cuando</span></b> le de click a su perfil  <br><b><span style="color:red">Y</span></b> seleccione la opción “Mi plan” <br><b><span style="color:red">Entonces</span></b> visualiza cuáles son las características de su plan de pago, por ejemplo número de publicaciones ilimitadas, publicaciones con buen posicionamiento, entre otros.</td>
+            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Arrendador sin un plan</em><br><span style="color:red">Dado</span></b> que el usuario arrendador no cuenta con un plan <br><b><span style="color:red">Cuando</span></b> le de click a su perfil <br><b><span style="color:red">Y</span></b> seleccione la opción “Mi plan” <br><b><span style="color:red">Entonces</span></b> visualiza cuáles son las características de su plan gratuito por ejemplo, número de publicaciones limitados, publicaciones sin posicionamiento, entre otras. <br><br><b><em>Escenario 2: Arrendador con un plan</em><br><span style="color:red">Dado</span></b> que el usuario arrendador cuenta con un plan <br><b><span style="color:red">Cuando</span></b> le de click a su perfil  <br><b><span style="color:red">Y</span></b> seleccione la opción “Mi plan” <br><b><span style="color:red">Entonces</span></b> visualiza cuáles son las características de su plan de pago, por ejemplo número de publicaciones ilimitadas, publicaciones con buen posicionamiento, entre otros.</td>
         </tr>
     </tbody>
 </table>
-
+<br>
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tbody >
         <tr>
@@ -950,11 +950,11 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
         </tr>
         <tr>
             <td style="background-color: #ccc;">Criterios de aceptación</td>
-            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Prioridad baja</em><br><span style="color:red">Dado</span></b> que el usuario arrendador tiene un plan gratuito <br><b><span style="color:red">Cuando</span></b> publique su publicación <br><b><span style="color:red">Y</span></b> transcurran 2 días <br><b><span style="color:red">Entonces</span></b> la publicación perderá prioridad e irá descendiendo de posición en la lista de publicaciones de los usuarios estudiantes. <br><b><em>Escenario 2: Prioridad alta</em><br><span style="color:red">Dado</span></b> que el usuario arrendador tiene un plan de pago <br><b><span style="color:red">Cuando</span></b> publique su publicación <br><b><span style="color:red">Entonces</span></b> la publicación no perderá prioridad en la lista de publicaciones de los usuarios estudiantes sino que intentará mantenerse en posiciones altas.</td>
+            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Prioridad baja</em><br><span style="color:red">Dado</span></b> que el usuario arrendador tiene un plan gratuito <br><b><span style="color:red">Cuando</span></b> publique su publicación <br><b><span style="color:red">Y</span></b> transcurran 2 días <br><b><span style="color:red">Entonces</span></b> la publicación perderá prioridad e irá descendiendo de posición en la lista de publicaciones de los usuarios estudiantes. <br><br><b><em>Escenario 2: Prioridad alta</em><br><span style="color:red">Dado</span></b> que el usuario arrendador tiene un plan de pago <br><b><span style="color:red">Cuando</span></b> publique su publicación <br><b><span style="color:red">Entonces</span></b> la publicación no perderá prioridad en la lista de publicaciones de los usuarios estudiantes sino que intentará mantenerse en posiciones altas.</td>
         </tr>
     </tbody>
 </table>
-
+<br>
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tbody >
         <tr>
@@ -973,11 +973,11 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
         </tr>
         <tr>
             <td style="background-color: #ccc;">Criterios de aceptación</td>
-            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Sección publicaciones</em><br><span style="color:red">Dado</span></b> que el usuario estudiante quiere ver publicaciones de habitaciones <br><b><span style="color:red">Cuando</span></b> se dirija a la sección publicaciones <br><b><span style="color:red">Entonces</span></b> podrá visualizar todas las publicaciones de habitaciones en la aplicación <br><b><em>Escenario 2: Sección mensajes</em><br><span style="color:red">Dado</span></b> que el usuario estudiante quiere ver sus chats con los arrendadores <br><b><span style="color:red">Cuando</span></b> se dirija a la sección mensajes  <br><b><span style="color:red">Entonces</span></b> podrá visualizar todas sus conversaciones con los arrendadores </td>
+            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Sección publicaciones</em><br><span style="color:red">Dado</span></b> que el usuario estudiante quiere ver publicaciones de habitaciones <br><b><span style="color:red">Cuando</span></b> se dirija a la sección publicaciones <br><b><span style="color:red">Entonces</span></b> podrá visualizar todas las publicaciones de habitaciones en la aplicación <br><br><b><em>Escenario 2: Sección mensajes</em><br><span style="color:red">Dado</span></b> que el usuario estudiante quiere ver sus chats con los arrendadores <br><b><span style="color:red">Cuando</span></b> se dirija a la sección mensajes  <br><b><span style="color:red">Entonces</span></b> podrá visualizar todas sus conversaciones con los arrendadores </td>
         </tr>
     </tbody>
 </table>
-
+<br>
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tbody >
         <tr>
@@ -996,11 +996,11 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
         </tr>
         <tr>
             <td style="background-color: #ccc;">Criterios de aceptación</td>
-            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Filtro por universidad</em><br><span style="color:red">Dado</span></b> que el usuario estudiante quiere usar el filtro de universidad para encontrar habitaciones <br><b><span style="color:red">Cuando</span></b> se encuentre en la sección publicaciones <br><b><span style="color:red">Y</span></b> le de click a “Filtros”, luego seleccione el filtro de universidad <br><b><span style="color:red">Entonces</span></b> le pedirá el nombre su universidad, su ubicación <br><b><span style="color:red">Y</span></b> luego se le mostrará en orden las habitaciones más cercanas a su universidad<br><b><em>Escenario 2: Filtro por precios</em><br><span style="color:red">Dado</span></b> que el usuario estudiante quiere usar el filtro de precios para encontrar habitaciones <br><b><span style="color:red">Cuando</span></b> se encuentre en la sección publicaciones <br><b><span style="color:red">Y</span></b> le de click a “Filtros”, luego seleccione el filtro de precios <br><b><span style="color:red">Entonces</span></b> se le mostrará las habitaciones en orden de precios del más barato al más caro <br><b><span style="color:red">Y</span></b> puede invertir el orden si así lo desea</td>
+            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Filtro por universidad</em><br><span style="color:red">Dado</span></b> que el usuario estudiante quiere usar el filtro de universidad para encontrar habitaciones <br><b><span style="color:red">Cuando</span></b> se encuentre en la sección publicaciones <br><b><span style="color:red">Y</span></b> le de click a “Filtros”, luego seleccione el filtro de universidad <br><b><span style="color:red">Entonces</span></b> le pedirá el nombre su universidad, su ubicación <br><b><span style="color:red">Y</span></b> luego se le mostrará en orden las habitaciones más cercanas a su universidad<br><br><b><em>Escenario 2: Filtro por precios</em><br><span style="color:red">Dado</span></b> que el usuario estudiante quiere usar el filtro de precios para encontrar habitaciones <br><b><span style="color:red">Cuando</span></b> se encuentre en la sección publicaciones <br><b><span style="color:red">Y</span></b> le de click a “Filtros”, luego seleccione el filtro de precios <br><b><span style="color:red">Entonces</span></b> se le mostrará las habitaciones en orden de precios del más barato al más caro <br><b><span style="color:red">Y</span></b> puede invertir el orden si así lo desea</td>
         </tr>
     </tbody>
 </table>
-
+<br>
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tbody >
         <tr>
@@ -1019,11 +1019,11 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
         </tr>
         <tr>
             <td style="background-color: #ccc;">Criterios de aceptación</td>
-            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Escribir una reseña</em><br><span style="color:red">Dado</span></b> que el usuario estudiante quiere escribir una reseña de la habitación <br><b><span style="color:red">Cuando</span></b> termine su tiempo de alojamiento en la habitación<br><b><span style="color:red">Entonces</span></b> a aplicación le enviará una notificación para dejar una reseña de la habitación. <br><b><em>Escenario 2: Puntuar habitación</em><br><span style="color:red">Dado</span></b> que el usuario estudiante quiere puntuar a la habitación <br><b><span style="color:red">Cuando</span></b> termine su tiempo de alojamiento en la habitación <br><b><span style="color:red">Entonces</span></b> la aplicación le enviará una notificación para que puntúe la habitación en un rango de 0 a 5 estrellas.</td>
+            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Escribir una reseña</em><br><span style="color:red">Dado</span></b> que el usuario estudiante quiere escribir una reseña de la habitación <br><b><span style="color:red">Cuando</span></b> termine su tiempo de alojamiento en la habitación<br><b><span style="color:red">Entonces</span></b> a aplicación le enviará una notificación para dejar una reseña de la habitación. <br><br><b><em>Escenario 2: Puntuar habitación</em><br><span style="color:red">Dado</span></b> que el usuario estudiante quiere puntuar a la habitación <br><b><span style="color:red">Cuando</span></b> termine su tiempo de alojamiento en la habitación <br><b><span style="color:red">Entonces</span></b> la aplicación le enviará una notificación para que puntúe la habitación en un rango de 0 a 5 estrellas.</td>
         </tr>
     </tbody>
 </table>
-
+<br>
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tbody >
         <tr>
@@ -1042,7 +1042,7 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
         </tr>
         <tr>
             <td style="background-color: #ccc;">Criterios de aceptación</td>
-            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Editar reseña</em><br><span style="color:red">Dado</span></b> que el usuario estudiante quiere editar su reseña <br><b><span style="color:red">Y</span></b> la de click a su perfil <br><b><span style="color:red">Cuando</span></b> seleccione la opción “Mis reseñas” <br><b><span style="color:red">Y</span></b> encuentre la reseña que quiere editar <br><b><span style="color:red">Entonces</span></b> le dará click a la imagen de un lápiz <br><b><span style="color:red">Y</span></b> podrá editar su reseña corrigiendo, añadiendo o eliminando palabras. <br><b><em>Escenario 2: Eliminar reseña</em><br><span style="color:red">Dado</span></b> que el usuario estudiante quiere editar su reseña <br><b><span style="color:red">Y</span></b> le da click a su perfil <br><b><span style="color:red">Cuando</span></b> seleccione la opción “Mis reseñas” <br><b><span style="color:red">Y</span></b> encuentre la reseña que quiere eliminar <br><b><span style="color:red">Entonces</span></b> le dará click a la imagen de un tacho de basura<br><b><span style="color:red">Y</span></b> le aparecerá un mensaje de confirmación para proceder a eliminar la reseña. </td>
+            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Editar reseña</em><br><span style="color:red">Dado</span></b> que el usuario estudiante quiere editar su reseña <br><b><span style="color:red">Y</span></b> la de click a su perfil <br><b><span style="color:red">Cuando</span></b> seleccione la opción “Mis reseñas” <br><b><span style="color:red">Y</span></b> encuentre la reseña que quiere editar <br><b><span style="color:red">Entonces</span></b> le dará click a la imagen de un lápiz <br><b><span style="color:red">Y</span></b> podrá editar su reseña corrigiendo, añadiendo o eliminando palabras. <br><br><b><em>Escenario 2: Eliminar reseña</em><br><span style="color:red">Dado</span></b> que el usuario estudiante quiere editar su reseña <br><b><span style="color:red">Y</span></b> le da click a su perfil <br><b><span style="color:red">Cuando</span></b> seleccione la opción “Mis reseñas” <br><b><span style="color:red">Y</span></b> encuentre la reseña que quiere eliminar <br><b><span style="color:red">Entonces</span></b> le dará click a la imagen de un tacho de basura<br><b><span style="color:red">Y</span></b> le aparecerá un mensaje de confirmación para proceder a eliminar la reseña. </td>
         </tr>
     </tbody>
 </table>
@@ -1056,7 +1056,7 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
 ## 3.4. Product Backlog
 
 | #Orden | User Story Id | Titulo | Descripcion | Story Points(1 / 2 / 3 / 5 / 8)|
-|:--------|:------|:----|:-----|:----|
+|:--------|:------|:----|:-----|:-----|
 |01|HU01|Registrarme|Como estudiante o arrendador quiero registrarme para hacer uso de la aplicación.|3|
 |02|HU02|Iniciar sesión|Como estudiante o arrendador quiero iniciar sesión para acceder a mi cuenta y utilizar la aplicación.|2|
 |03|HU03|Recuperar contraseña|Como estudiante o arrendador quiero recuperar mi contraseña para acceder a mi cuenta y utilizar la aplicación.|3|
@@ -1065,6 +1065,14 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
 |06|HU06|Cambiar mi contraseña|Como estudiante o arrendador quiero cambiar mi contraseña para mantener mi cuenta segura.|3|
 |07|HU07|Editar mi perfil|Como estudiante o arrendador quiero modificar mi foto e información de perfil para generar confianza con los demás usuarios.|5|
 |08|HU08|Ayuda y consejos|Como estudiante o arrendador quiero resolver sus dudas y saber cómo funciona la app para poder darle un buen uso.|3|
+|09|HU09|Crear publicación|Como arrendador quiero poder crear una o más publicaciones para poder encontrar inquilinos interesados en mi(s) habitación(es).|8|
+|10|HU10|Editar o borrar una publicación|Como arrendador quiero editar o borrar una de mis publicaciones para arreglar un error o que la habitación ya tiene inquilino.|3|
+|11|HU11|Suscripción|Como arrendador quiero adquirir o conocer los beneficios de un plan para que mi alcance de publicaciones sea más efectiva o evaluar las ventajas de tener un plan.|8|
+|12|HU12|Prioridad de publicación|Como arrendador quiero que mis publicaciones tengan prioridad sobre otras para lograr encontrar inquilinos de manera más rápida.|3|
+|13|HU13|Visualización de apartados|Como estudiante quiero visualizar todas las secciones de la aplicación para darle el mejor uso posible|5|
+|14|HU14|Filtro de búsqueda|Como estudiante quiero usar filtros de búsqueda en la app para poder encontrar las habitaciones que me interesan|8|
+|15|HU15|Colocar reseña y puntuar habitación|Como estudiante quiero escribir una reseña y puntuar a la habitación para que otros estudiantes sepan si la habitación vale la pena o no.|5|
+|16|HU16|Editar o borrar reseña|Como estudiante quiero editar o borrar una de mis reseñas para corregir un error o eliminar la reseña.|2|
 
 # Capítulo IV: Product Design
 
