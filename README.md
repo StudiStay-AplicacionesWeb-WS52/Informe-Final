@@ -1309,21 +1309,638 @@ A continuación, se presenta detalladamente las clases más relevantes con sus a
 
 Enlace del database diagram: [Ver diagrama](https://cdn.discordapp.com/attachments/1146490170917535764/1147639660609278012/StudiStay-2023-09-02_12-23.png)
 
-# Capítulo V: Product Implementation, Validation & Deployment
 
-## 5.1. Software Configuration Management.
-### 5.1.1. Software Development Environment Configuration.
-### 5.1.2. Source Code Management.
-### 5.1.3. Source Code Style Guide & Conventions.
-### 5.1.4. Software Deployment Configuration.
+# Capítulo V: Product Implementation, Validation & Deployment
+## 5.1. Software Configuration Management
+
+### 5.1.1. Software Development Environment Configuration
+**Desarrollo del Landing Page:** Para el desarrollo del landing page, se decidió con el equipo usar HTML, JS y CSS (desarrollo puro) y para llevarlo a cabo se eligieron diversas herramientas tecnológicas de las cuales el equipo ya está familiarizado y tiene dominio. Estas herramientas son las siguientes:
+
+- **Visual Studio Code:** Esta herramienta es un editor de código gratuito, moderno y potente gracias a que cuenta con varias funciones y extensiones para trabajar con casi cualquier lenguaje de programación y framework. Además, esta es bastante conocida por todos los integrantes del equipo y es por dicha razón por la cual se decidió trabajar con Visual Studio Code.
+  ![VSCode](https://media.discordapp.net/attachments/1146490170917535764/1147770083377172532/image.png)
+  Para la instalación del programa, el instalador se puede obtener de su página web oficial [Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/), una vez descargado se puede proceder con la instalación de forma rápida y fácil siguiendo las instrucciones del instalador.
+
+- **Git y GitHub:** Se decidió hacer uso de estas herramientas por la razón de que hoy en día es un estándar usar Git para el control de versiones de software y se eligió GitHub por ser la plataforma más popular y fácil de usar para crear y manejar repositorios de software, tener funciones para ver los cambios, commits, pull requests y entre otros.
+  ![GitHub](https://media.discordapp.net/attachments/1146490170917535764/1147770083633020928/image.png)
+  El enlace de descarga del instalador de GitHub Desktop es [GitHub Desktop | Simple collaboration from your desktop](https://desktop.github.com/).
+
+- **Live server:** Finalmente, para acelerar el desarrollo del landing page, se hizo uso de esta herramienta que es una extensión para editor Visual Studio Code que sirve para visualizar los cambios inmediatamente después de alguna modificación que se hace en el código, así se evita estar recargando la página lo cual se traduce en ahorro de tiempo y comodidad a la hora de desarrollar:
+  ![LiveServer](https://media.discordapp.net/attachments/1146490170917535764/1147770083888869416/image.png?width=1195&height=671)
+
+**Desarrollo de la aplicación web:** Se hizo uso del framework Vue.js para el desarrollo del frontend de la aplicación, mientras que para el backend y los servicios web se usó .Net, puesto que brinda un enfoque más amplio y completo para el desarrollo de cada módulo de la aplicación. Para ello se usaron las siguientes herramientas:
+
+- **JetBrains WebStorm:** Esta herramienta es un potente IDE para desarrollo web que ofrece soporte completo para Vue.js. Facilita la creación eficiente de aplicaciones gracias a su destacado conjunto de herramientas y características de refactorización, depuración y autocompletado.
+  ![WebStorm](https://media.discordapp.net/attachments/1146490170917535764/1147770084157313084/image.png?width=1440&height=612)
+  Para la instalación del programa, este se puede descargar desde su página web [WebStorm: The Smartest JavaScript IDE, by JetBrains](https://www.jetbrains.com/webstorm/)
+
+- **Node.js:** Esta herramienta de desarrollo es un entorno de tiempo de ejecución de JavaScript de alto rendimiento, el cual es necesario para el desarrollo de aplicaciones con Vue.js, ya que se obtiene las características completas de desarrollo JavaScript tanto en el lado del cliente como en el servidor.
+  ![Node.js](https://media.discordapp.net/attachments/1146490170917535764/1147770084392189962/image.png?width=1440&height=327)
+  Esta herramienta se puede descargar desde su página oficial [Node.js (nodejs.org)](https://nodejs.org/es)
+
+- **JetBrains Rider:** Se decidió usar este IDE de desarrollo para .NET por que destaca por su eficiencia y rendimiento y facilita el desarrollo de aplicaciones .NET con herramientas avanzadas y una interfaz más intuitiva.
+  ![Rider](https://media.discordapp.net/attachments/1146490170917535764/1147770084656427008/image.png?width=1440&height=518)
+  Se puede descargar el programa desde su página web [Rider: El IDE .NET multiplataforma de JetBrains](https://www.jetbrains.com/es-es/rider/)
+
+### 5.1.2. Source Code Management
+
+Para mantener el orden al desarrollar una solución y evitar conflictos o superposiciones de información, los proyectos se trabajaron en un organización de GitHub y dentro de esta se encuentran los diferentes repositorios para cada proyecto cuyos enlaces de los repositorios son los siguientes:
+
+1. Repositorio para el landing page: https://github.com/StudiStay-AplicacionesWeb-WS52/landing-page/tree/release/1.0
+2. Repositorio para los tests de aceptación: https://github.com/StudiStay-AplicacionesWeb-WS52/acceptance-test
+3. Repositorio de la aplicación web: **_En Desarrollo_**
+
+Con respecto a la implementación de Gitflow, este se llevará a cabo de la siguiente manera:
+
+- Para cada commit que se realice, ya sea para el landing page o los archivos .feature, se utilizará el formato de mensaje "Conventional Commits" para ayudar a reconocer mejor lo que se hizo en los commits y de esta forma conocer mejor el estado del proyecto.
+
+- Cada repositorio de código tendrá sus respectivas ramas tal como lo describe Vincent Driessen en su artículo “A successful Git branching model”, donde estará presente la rama Master (que almacenará las versiones estables y finales), Develop (donde se irán integrando los cambios implementados por cada feature y estará en constante actualización), Release (donde se encontrará el código final de las versiones release) y Hotfix.
+
+- Además, cada feature desarrollado tendrá su propia rama que seguirá la siguiente convención para el nombre: feature-\<apellidos del colaborador\>
+
+![Insights](https://media.discordapp.net/attachments/1146490170917535764/1148284115498573904/image.png)
+
+### 5.1.3. Source Code Style Guide & Conventions
+
+A continuación, se darán a conocer las convenciones, formatos, estilos y entre otras propiedades de los lenguajes trabajados en la presente solución las cuales son: HTML, JavaScript/TypeScript, CSS. Además, por el lado de las pruebas de aceptación también se darán a conocer dichos temas para el lenguaje Gherkin.
+
+**HTML:** Se hará uso de la guía “HTML Style Guide and Coding” de la página W3Schools, la cual menciona las convenciones y estándares de este lenguaje de etiquetas. Hemos considerado las siguientes como las más importantes:
+
+- _Declarar siempre el tipo documento:_ Es decir, colocar siempre la etiqueta \<!DOCTYPE html\> en la primera línea del código.
+- _Utilizar el nombre de las etiquetas y sus atributos en minúscula:_ Por un tema de estética y orden del código para que este se vea más limpio y sea más fácil de escribir.
+- _Cerrar todas las etiquetas:_ Esto evita futuros problemas o errores de sintaxis.
+- _Siempre coloca comillas para los valores de los atributos de las etiquetas:_ De esta forma los valores son más fáciles de leer y se deben utilizar obligatoriamente si este contiene espacios.
+- _Especificar siempre los atributos alt, width y height para las imágenes:_ Es importante en caso de que la imagen no se pueda mostrar por algún motivo y también ayuda con el tema de la accesibilidad de los usuarios.
+- _No omitir la etiqueta \<title\> ni los metadatos (\<meta\>):_ Estas etiquetas son importantes para la optimización de motores de búsqueda (SEO).
+
+**CSS:** Se siguió la guía “Google HTML/CSS Style Guide” donde se indican las convenciones, reglas y buenas prácticas para este lenguaje. Hemos considerado las siguientes recomendaciones como las más destacadas:
+
+- _Nombre de clases:_ Se recomienda usar nombres generales para las clases, no deben ser específicas por la razón de que deben comportarse como padres.
+- _Usar nombres de clase cortos:_ Se recomienda utilizar nombres de clase que sean cortos y descriptivos, para transmitir la idea de lo que representa de manera concisa.
+- _Usar delimitadores de nombres de clase adecuados:_ Se debe de separar las palabras en los nombres de clase con solo guiones.
+- _Evitar los selectores de ID:_ No se recomienda implementar este tipo de selectores, por la razón de que estos deben ser únicos en toda la página y en proyectos grandes que tengan muchos componentes es difícil de garantizar esa unicidad, es preferible usar selectores de clase.
+- _Usar propiedades abreviadas:_ Es muy recomendable usar propiedades que soporten ser declarados de forma abreviada (por ejemplo, la propiedad padding, margin, border, etc.) por la razón de que reduce de forma significativa la cantidad de líneas de código, y es más legible para el programador o diseñador.
+
+**JavaScript:** Se consideró importante seguir una guía de buenas prácticas para un mejor desarrollo del código, para este caso se eligió la guía de la wiki “JavaScript best practices“ del World Wide Web (W3C). Lo cual se destaca lo siguiente:
+
+- _Usar nombres cortos y fáciles de leer:_ Es recomendable nombrar adecuadamente las variables, clases, funciones y otros elementos para que sea más sencillo de leer y comprender.
+- _Evitar el uso de variables globales (keyword “var”):_ No se recomienda el uso de este tipo de variables en un proyecto, porque pueden generar muchos errores a medida que el proyecto crece y estas pueden sobrescribirse fácilmente afectando el valor y se pueden declarar otros elementos como funciones con el mismo nombre de la variable y generar errores.
+- _Comentar y documentar lo necesario:_ Se recomienda comentar líneas de código que son complejos de entender a simple vista explicando o dejando mensajes para que otros programadores lo entiendan.
+- _Usar notaciones sencillas de entender:_ Javascript cuenta con diversas notaciones y operadores para crear o modificar ciertas estructuras de datos como objetos, arrays, selectivas, etc.
+
+**Gherkin:** Se consideró conveniente usar la guía y convenciones que se mencionan en “Gherkin Conventions for Readable Specifications” para una correcta realización de las pruebas. A continuación, se mencionan los puntos que consideramos más importantes para nuestro trabajo:
+
+- _Los bloques “Give-When-Then” deben ser diferenciados:_ Se recomienda usar una correcta indentación de esos bloques para identificar mejor las secciones de la prueba y también añadiendo la keyword “And” para añadir otra línea en los pasos y otro bloque.
+- _Usar tablas para los pasos:_ Si uno de los pasos requiere de más información es recomendable - usar tablas para organizar dicha información y tenga un aspecto más ordenado.
+- _Usar comillas simples para los parámetros:_ Se recomienda esta práctica para una mejor legibilidad de los parámetros en un paso y tener una sintaxis más simple.
+- _Separar los escenarios con comentarios:_ Si se da el caso de tener muchos escenarios en una prueba, es usar los comentarios como separadores para que visualmente sea más organizado, fácil de leer y distinguir mejor.
+
+**C#:** Para el desarrollo del código en el lenguaje C#, se ha considerado usar la guía de convenciones de Microsoft Common C# code conventions y se destaca las siguientes convenciones:
+
+- _Usar la interpolación de cadenas:_ para concatenar cadenas cortas, en lugar de usar el operador + o String.Format.
+- _Usar StringBuilder:_ para concatenar cadenas en bucles, especialmente cuando se trabaja con grandes cantidades de texto.
+- _Usar var:_ solo cuando el tipo de la variable se pueda inferir de la expresión a la derecha de la asignación.
+- _Usar using:_ para simplificar la gestión de recursos que implementan IDisposable, como archivos o flujos.
+- _Usar los operadores && y ||:_ en lugar de & y | cuando se realizan comparaciones, para evitar errores en tiempo de ejecución por evaluación de cortocircuito.
+- _Usar inicializadores de objetos:_ para simplificar la creación de objetos, asignando valores a las propiedades en la misma línea de declaración.
+- _Usar expresiones lambda:_ para definir delegados anónimos, especialmente para controladores de eventos o métodos de LINQ.
+- _Alinear las cláusulas de consulta:_ debajo de la cláusula from, y usar where antes que otras cláusulas, para mejorar la claridad y el rendimiento de las consultas LINQ.
+
+**Vue.js:** Para el framework de Vue.js se consideraron los style guidelines más importantes de la página oficial de Vue, las cuales son las siguientes:
+
+- _Usar v-bind y v-on:_ para enlazar datos y eventos a los elementos del DOM, en lugar de usar atributos HTML normales. Esto permite una mayor reactividad y flexibilidad.
+- _Usar componentes:_ para dividir la interfaz de usuario en piezas reutilizables y modulares, en lugar de usar un solo archivo HTML. Esto facilita el mantenimiento y la escalabilidad del código.
+- _Usar props y eventos:_ para comunicarse entre componentes padre e hijo, en lugar de usar this.$parent o mutar props1. Esto hace que el flujo de datos sea más claro y predecible.
+- _Usar computed y watch:_ para definir propiedades y funciones que dependen de otros datos reactivos, en lugar de usar métodos o expresiones complejas. Esto mejora el rendimiento y la legibilidad del código.
+- _Usar v-model:_ para crear enlaces bidireccionales entre los datos y los elementos de entrada, en lugar de - v-bind y v-on por separado. Esto simplifica la lógica y evita la duplicación de código.
+- _Usar v-if, v-else y v-show:_ para controlar la condición de renderizado de los elementos, en lugar de usar estilos CSS o JavaScript. Esto hace que el código sea más declarativo y fácil de seguir.
+- _Usar v-for:_ para renderizar una lista de elementos basada en un array o un objeto, en lugar de usar un bucle for o while. Esto hace que el código sea más conciso y reactivo.
+- _Usar Vuex:_ para gestionar el estado global de la aplicación, en lugar de usar this.$root o un bus de eventos global. Esto ofrece una solución centralizada y estructurada para el manejo del estado.
+
+**ASP.Net:** Para el desarrollo con ASP.Net se siguió los coding styles y convenciones del repositorio Engineering guidelines de dotnet, y se destacaron los siguientes:
+
+- _Usar el sufijo Async:_ en todos los métodos asíncronos, y pasar tokens de cancelación como parámetros opcionales.
+- _Seguir los ajustes predeterminados de VS:_ para el formato del código, excepto poner los espacios de nombres System antes que otros.
+- _Usar var siempre que sea posible:_ y usar las palabras clave de C# en lugar de los nombres de tipos .NET.
+- _Ser sensible a las diferencias entre sistemas operativos:_ como los saltos de línea, las variables de entorno y los separadores de directorios.
+- _Evitar los métodos de extensión:_ a menos que sean necesarios para crear cadenas de métodos o mejorar la legibilidad.
+- _Escribir comentarios de documentación:_ para todas las APIs públicas, e indicar si son solo para uso interno.
+- _Nombrar y organizar las clases y métodos de prueba:_ siguiendo un patrón consistente y descriptivo, y separar las etapas Arrange, Act y Assert.
+
+### 5.1.4. Software Deployment Configuration
+
+A continuación, se dará a conocer el proceso del despliegue del las aplicaciones para que estas puedan ser visualizadas por el público y todo internet.
+
+**Landing Page:** Para este caso se usó el servicio “GitHub Pages” en donde se desplegará la aplicación automáticamente desde una rama de GitHub y este generará un enlace con un dominio establecido para acceder a la página. Para realizar esto se realizaron los siguientes pasos:
+
+1. Una vez que se haya lanzado el release al repositorio y las ramas estén actualizadas, se procede a ingresar a GitHub, luego acceder al repositorio del proyecto y seguidamente hacer click en la pestaña “Settings”.
+   ![Paso1](https://media.discordapp.net/attachments/1146490170917535764/1148418849276956762/image.png)
+
+2. Una vez dentro de la pestaña de “Settings”, buscar el ítem “Pages” del menú lateral.
+   ![Paso2](https://media.discordapp.net/attachments/1146490170917535764/1148418849532825630/image.png)
+
+3. Seleccionar la rama de release y confirmar los cambios, luego de esto GitHub comenzará el proceso de deploy.
+   ![Paso3](https://media.discordapp.net/attachments/1146490170917535764/1148418849771880468/image.png)
+   ![Paso33](https://media.discordapp.net/attachments/1146490170917535764/1148418849981599784/image.png)
+
+4. Una vez que el proceso de deploy haya finalizado, se mostrará un mensaje de confirmación y se generará un enlace para acceder a la página, este se podrá ver desde el mismo menú en la parte superior.
+   ![Paso4](https://media.discordapp.net/attachments/1146490170917535764/1148418850233274369/image.png)
+
+5. Finalmente, se podrá acceder a la página desde el enlace generado y se podrá visualizar el landing page.
+   ![Paso5](https://media.discordapp.net/attachments/1146490170917535764/1148418850455552041/image.png?width=918&height=671)
+   Enlace del landing page: https://studistay-aplicacionesweb-ws52.github.io/landing-page/
 
 ## 5.2. Landing Page, Services & Applications Implementation
-### 5.2.1. Sprint n
-#### 5.2.1.1. Sprint Planning n.
-#### 5.2.1.2. Sprint Backlog n.
-#### 5.2.1.3. Development Evidence for Sprint Review.
-#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
-#### 5.2.1.5. Execution Evidence for Sprint Review.
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
-#### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+### 5.2.1. Sprint 1
+
+#### 5.2.1.1. Sprint Planning 1
+<table align="center"  border="1" width="70%" style="text-align:center;">
+  <tr align="center">
+    <td>
+      Sprint 1
+    </td>
+    <td align="left">
+      Implementación de funcionalidades y diseño de la aplicación.
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <b>Sprint Planning Background</b>
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      Date
+    </td>
+    <td align="left">
+      30/08/2023
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      Time
+    </td>
+    <td align="left">
+      17:00
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      Location
+    </td>
+    <td align="left">
+      Reunión realizada mediante Discord
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      Prepared By 
+    </td>
+    <td align="left">
+      Checa Apolinario, Paolo Sebastián
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      Attendees (to planning meeting)
+    </td>
+    <td align="left">
+      Checa Apolinario, Paolo Sebastián / <br>
+      Alejo Cardenas, Luis Angel / <br>
+      Ortega Vélez, Jamutaq Piero / <br>
+      Yance Gutierrez, Franco Felix / <br>
+      Del Carmen Zorrilla, Ray Alessandro
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <b>Sprint Goal & User Stories</b>
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      Sprint 1 Goal
+    </td>
+    <td align="left">
+      Realizar y desplegar el Landing Page
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      Sprint 1 Velocity
+    </td>
+    <td align="left">
+      30
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      Sum of Story Points
+    </td>
+    <td align="left">
+      26
+    </td>
+  </tr>
+</table>
+
+#### 5.2.1.2. Sprint Backlog 1
+<table align="center"  border="1" width="70%" style="text-align:center;">
+  <tr align="center">
+    <td>
+      <b>Sprint #</b>
+    </td>
+    <td colspan=7>
+      Sprint 1
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <b>User Story</b>
+    </td>
+    <td colspan=6>
+      Work-Item / Task
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      <b>Id</b>
+    </td>
+    <td>
+      <b>Title</b>
+    </td>
+    <td>
+      <b>Id</b>
+    </td>
+    <td>
+      <b>Title</b>
+    </td>
+    <td>
+      <b>Description</b>
+    </td>
+    <td>
+      <b>Estimation (Hours)</b>
+    </td>
+    <td>
+      <b>Assigned To</b>
+    </td>
+    <td>
+      <b>Status</b>
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      SS01
+    </td>
+    <td>
+      Apartado del Header
+    </td>
+    <td>
+      S01
+    </td>
+    <td>
+      Header responsivos (Desarrollado en HTML y CSS)
+    </td>
+    <td>
+      Desarrollo e implementación de los estilos que corresponden al encabezado (Header) de manera responsive
+    </td>
+    <td>
+      3
+    </td>
+    <td>
+      Jamutaq Ortega
+    </td>
+    <td>
+      Done
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      SS02
+    </td>
+    <td>
+      Apartado del Footer
+    </td>
+    <td>
+      S02
+    </td>
+    <td>
+      Footer responsivos (Desarrollado en HTML y CSS)
+    </td>
+    <td>
+      Desarrollo e implementación de los estilos que corresponden al pie de página (Footer) de manera responsive
+    </td>
+    <td>
+      2
+    </td>
+    <td>
+      Jamutaq Ortega
+    </td>
+    <td>
+      Done
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      SS03
+    </td>
+    <td>
+      Sección Hero
+    </td>
+    <td>
+      S03
+    </td>
+    <td>
+      Apartado “Hero” (Desarrollado en HTML y CSS)
+    </td>
+    <td>
+      Desarrollo e implementación de los estilos que corresponden a la sección Hero de manera responsive
+    </td>
+    <td>
+      3
+    </td>
+    <td>
+      Franco Yance
+    </td>
+    <td>
+      Done
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      SS04
+    </td>
+    <td>
+      Barra de Navegación
+    </td>
+    <td>
+      S04
+    </td>
+    <td>
+      Apartado “Navbar” (Desarrollado en HTML y CSS)
+    </td>
+    <td>
+      Desarrollo e implementación de los estilos que corresponden a la Barra de Navegación. Debe ser responsive
+    </td>
+    <td>
+      2
+    </td>
+    <td>
+      Jamutaq Ortega
+    </td>
+    <td>
+      Done
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      SS05
+    </td>
+    <td>
+      Testimonials
+    </td>
+    <td>
+      S05
+    </td>
+    <td>
+      Sección “Testimonios”(Desarrollado en HTML y CSS)
+    </td>
+    <td>
+      Desarrollo e implementación de los estilos que corresponden a los testimonios de manera responsive
+    </td>
+    <td>
+      3
+    </td>
+    <td>
+      Ray Del Carmen
+    </td>
+    <td>
+      Done
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      SS06
+    </td>
+    <td>
+      Sección Sobre Nosotros
+    </td>
+    <td>
+      S06
+    </td>
+    <td>
+      Información del equipo (Desarrollado en HTML y CSS)
+    </td>
+    <td>
+      Desarrollo e implementación de los estilos que corresponden a la información del equipo de manera responsive
+    </td>
+    <td>
+      3
+    </td>
+    <td>
+      Luis Alejo
+    </td>
+    <td>
+      Done
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      SS07
+    </td>
+    <td>
+      Sección Services
+    </td>
+    <td>
+      S07
+    </td>
+    <td>
+      Sección Services (Desarrollado en HTML y CSS)
+    </td>
+    <td>
+      Desarrollo e implementación de los estilos que corresponden a los servicios de la página de manera responsive
+    </td>
+    <td>
+      3
+    </td>
+    <td>
+      Paolo Checa
+    </td>
+    <td>
+      Done
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      SS08
+    </td>
+    <td>
+      Interfaz Responsive
+    </td>
+    <td>
+      S08
+    </td>
+    <td>
+      Desarrollo responsive de la página (Desarrollado en HTML y CSS)
+    </td>
+    <td>
+      Desarrollo e implementación de un estilo Responsive en toda la página
+    </td>
+    <td>
+      3
+    </td>
+    <td>
+      Luis Alejo
+    </td>
+    <td>
+      Done
+    </td>
+  </tr>
+</table>
+
+![Trello](https://cdn.discordapp.com/attachments/1146490170917535764/1147947967278493847/image.png)
+Link del Trello: https://trello.com/b/NZppmPMI/sprint-1 
+
+#### 5.2.1.3. Development Evidence for Sprint Review
+<table align="center" border="1" width="70%" style="text-align:center;">
+  <tr>
+    <td>
+      <b>Repository</b>
+    </td>
+    <td>
+      <b>Branch</b>
+    </td>
+    <td>
+      <b>Commit Id</b>
+    </td>
+    <td>
+      <b>Commit Message</b>
+    </td>
+    <td>
+      <b>Commit Message Body</b>
+    </td>
+    <td>
+      <b>Commited on (Date)</b>
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      landing-page
+    </td>
+    <td>
+      feature/services (then develop)
+    </td>
+    <td>
+      99fcad5
+    </td>
+    <td>
+      add: services
+    </td>
+    <td>
+      -
+    </td>
+    <td>
+      03/09/2023
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      landing-page
+    </td>
+    <td>
+      feature/about (then develop)
+    </td>
+    <td>
+      99fcad5
+    </td>
+    <td>
+      add: about
+    </td>
+    <td>
+      -
+    </td>
+    <td>
+      03/09/2023
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      landing-page
+    </td>
+    <td>
+      feature/hero-application (then develop)
+    </td>
+    <td>
+      9b2582f
+    </td>
+    <td>
+      add: hero-application
+    </td>
+    <td>
+      -
+    </td>
+    <td>
+      03/09/2023
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      landing-page
+    </td>
+    <td>
+      feature/testimonials (then develop)
+    </td>
+    <td>
+      5e5ee3c
+    </td>
+    <td>
+      add: testimonials
+    </td>
+    <td>
+      -
+    </td>
+    <td>
+      03/09/2023
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      landing-page
+    </td>
+    <td>
+      feature/add-navbar-footer
+    </td>
+    <td>
+      3a9b712
+    </td>
+    <td>
+      add: navbar, footer & styles/js
+    </td>
+    <td>
+      -
+    </td>
+    <td>
+      03/09/2023
+    </td>
+  </tr>
+</table>
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+*Para esta entrega, no se implementó el conjunto de apartados relacionados con Web Services, ya que el desarrollo se hizo en base al Landing Page.*
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
+Enlace del vídeo: [Execution Evidence for Sprint Review.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201911703_upc_edu_pe/EZadjAqqE0xPnzXQCkjMtaYBPXBF9K4SwCd7Wtws3XaFUA?e=IrSX7A&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+![preview](https://media.discordapp.net/attachments/1146490170917535764/1148433343688482878/image.png)
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+*Este primer Sprint solo trata la implementación del landing page, por lo que no se empleó ningún servicio adicional.*
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+Para realizar el despliegue automático de nuestra Landing Page, utilizamos la herramienta Github Pages, el cual permite generar páginas web desde un repositorio público dentro del cual se aloja el código con el que se implementa la página. El link de nuestra Landing Page es el siguiente: https://studistay-aplicacionesweb-ws52.github.io/landing-page/ 
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+Para la realización de los commits de nuestro primer Sprint, hemos hecho uso de la herramienta Visual Studio Code, además del uso de Git. Uno de los integrantes realizó un primer commit para la creación del repositorio, luego utilizando Git clonamos el repositorio, para luego realizar los cambios en Visual Code y crear los branches correspondientes a dichos cambios, para finalmente realizar el commit, el cual deberá ser revisado dentro del repositorio de Github.
+
+![Commits](https://cdn.discordapp.com/attachments/1146490170917535764/1148279319098036434/image.png )
+
+![Commits2](https://cdn.discordapp.com/attachments/1146490170917535764/1148283254596702218/image.png)
