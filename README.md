@@ -1230,17 +1230,19 @@ En nuestra aplicación web, utilizaremos un proceso similar al descrito, con div
 
 [Enlace a "Ver Diagrama"](https://lucid.app/lucidchart/8975e733-6286-4b90-b156-2075b44cfd2f/edit?viewport_loc=-6144%2C-2594%2C16249%2C8205%2C0_0&invitationId=inv_d8502013-fa85-466f-90de-b813cccb25a3)
 
-### 4.4.2. Web Applications Mock-ups.
+### 4.4.3. Web Applications Mock-ups.
 
 ![X1](https://media.discordapp.net/attachments/1146490170917535764/1148381361959342141/c1.jpg)
 ![X1](https://media.discordapp.net/attachments/1146490170917535764/1148381362190024794/c2.jpg)
 ![X1](https://media.discordapp.net/attachments/1146490170917535764/1148381362399760484/c3.jpg)
-![X1](https://media.discordapp.net/attachments/1146490170917535764/1148381362924032092/c4.jpg)
+![X1](https://media.discordapp.net/attachments/1146490170917535764/1148769549387321344/image.png)
+![X1](https://media.discordapp.net/attachments/1146490170917535764/1148769549659934801/image.png)
+![X1](https://media.discordapp.net/attachments/1146490170917535764/1148769549899014274/image.png)
 ![X1](https://media.discordapp.net/attachments/1146490170917535764/1148381363347652619/c5.jpg)
 
 [Enlace a Figma "Ver Diseños"](https://www.figma.com/file/ceXZ987xbS3HnR0A1ISTwf/Mockups?type=design&node-id=45%3A255&mode=design&t=HcpJIjoBHU1Hyp6C-1)
 
-### 4.4.3. Web Applications User Flow Diagrams.
+### 4.4.4. Web Applications User Flow Diagrams.
 **User Goal:** Ingresar a la pantalla principal de la aplicación
 
 ![C1](https://media.discordapp.net/attachments/1146490170917535764/1148381363825807360/xx1.jpg)
