@@ -1215,11 +1215,12 @@ En nuestra aplicación web, utilizaremos un proceso similar al descrito, con div
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 
-![m001](https://media.discordapp.net/attachments/1146490170917535764/1148373229904343140/x1.jpg)
-![m002](https://media.discordapp.net/attachments/1146490170917535764/1148373230143414414/x2.jpg)
-![m003](https://media.discordapp.net/attachments/1146490170917535764/1148373230386692126/x3.jpg)
-![m004](https://media.discordapp.net/attachments/1146490170917535764/1148373230642540604/x4.jpg)
-![m005](https://media.discordapp.net/attachments/1146490170917535764/1148373230894194799/x5.jpg)
+![m001](https://media.discordapp.net/attachments/1146490170917535764/1149035767809724466/image.png)
+![m002](https://media.discordapp.net/attachments/1146490170917535764/1149035768090738818/image.png)
+![m003](https://media.discordapp.net/attachments/1146490170917535764/1149035768371761212/image.png)
+![m004](https://media.discordapp.net/attachments/1146490170917535764/1149035768682135684/image.png)
+![m005](https://media.discordapp.net/attachments/1146490170917535764/1149035769026056292/image.png)
+![m006](https://media.discordapp.net/attachments/1146490170917535764/1149035769630048348/image.png)
 
 [Enlace a Figma "Ver Diseños"](https://www.figma.com/file/ceXZ987xbS3HnR0A1ISTwf/Mockups?type=design&node-id=45%3A255&mode=design&t=HcpJIjoBHU1Hyp6C-1)
 
@@ -1233,12 +1234,24 @@ En nuestra aplicación web, utilizaremos un proceso similar al descrito, con div
 ### 4.4.3. Web Applications Mock-ups.
 
 ![X1](https://media.discordapp.net/attachments/1146490170917535764/1147768942547456011/image.png)
-![X1](https://media.discordapp.net/attachments/1146490170917535764/1147768942971072552/image.png)
-![X1](https://media.discordapp.net/attachments/1146490170917535764/1147768943205957663/image.png)
-![X1](https://media.discordapp.net/attachments/1146490170917535764/1148769549387321344/image.png)
-![X1](https://media.discordapp.net/attachments/1146490170917535764/1148769549659934801/image.png)
-![X1](https://media.discordapp.net/attachments/1146490170917535764/1148769549899014274/image.png)
-![X1](https://media.discordapp.net/attachments/1146490170917535764/1147768943772188782/image.png)
+![X2](https://media.discordapp.net/attachments/1146490170917535764/1147768942971072552/image.png)
+![X3](https://media.discordapp.net/attachments/1146490170917535764/1147768943205957663/image.png)
+![X4](https://media.discordapp.net/attachments/1146490170917535764/1148769549387321344/image.png)
+![X5](https://media.discordapp.net/attachments/1146490170917535764/1148769549659934801/image.png)
+![X6](https://media.discordapp.net/attachments/1146490170917535764/1148769549899014274/image.png)
+![X7](https://media.discordapp.net/attachments/1146490170917535764/1147768943772188782/image.png)
+
+**Versión mobile:**
+
+![XD1](https://media.discordapp.net/attachments/1146490170917535764/1149036909708988466/image.png)
+
+![XD2](https://media.discordapp.net/attachments/1146490170917535764/1149036909981601834/image.png)
+
+![XD3](https://media.discordapp.net/attachments/1146490170917535764/1149036910208102440/image.png)
+
+![XD4](https://media.discordapp.net/attachments/1146490170917535764/1149036910489129071/image.png)
+
+![XD5](https://media.discordapp.net/attachments/1146490170917535764/1149036910736576594/image.png)
 
 [Enlace a Figma "Ver Diseños"](https://www.figma.com/file/ceXZ987xbS3HnR0A1ISTwf/Mockups?type=design&node-id=45%3A255&mode=design&t=HcpJIjoBHU1Hyp6C-1)
 
@@ -1251,11 +1264,11 @@ En nuestra aplicación web, utilizaremos un proceso similar al descrito, con div
 
 ### 4.5. Web Applications Prototyping.
 
-Enlace del Prototipo:![ver Prototipo](https://www.figma.com/proto/ceXZ987xbS3HnR0A1ISTwf/Mockups?page-id=45%3A255&type=design&node-id=111-5174&viewport=486%2C537%2C0.16&t=Gu1HFfmg5NgkcG5j-1&scaling=scale-down&starting-point-node-id=111%3A5174&mode=design)
+Enlace del Prototipo:[ver Prototipo](https://www.figma.com/proto/ceXZ987xbS3HnR0A1ISTwf/Mockups?page-id=45%3A255&type=design&node-id=111-5174&viewport=486%2C537%2C0.16&t=Gu1HFfmg5NgkcG5j-1&scaling=scale-down&starting-point-node-id=111%3A5174&mode=design)
 
-Enlace del video: ![ver video](()
+Enlace del video: [ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201911703_upc_edu_pe/Ee5dZ-hsfCRMmou0a4mpMkgBbBqwJWWy8JP_SxVX9JPcSA?e=G3ELA0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
-![X1](https://media.discordapp.net/attachments/1146490170917535764/1148381363557388298/ccc1.jpg)
+![X1](https://media.discordapp.net/attachments/1146490170917535764/1149037520798097508/image.png)
 
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
