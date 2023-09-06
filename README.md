@@ -1320,7 +1320,7 @@ A continuación, se presenta detalladamente las clases más relevantes con sus a
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
 
-![C1](https://media.discordapp.net/attachments/1146490170917535764/1148394536389836800/N9.jpg)
+![C1](https://cdn.discordapp.com/attachments/1146490170917535764/1149071371826122923/StudiStay-2023-09-06_14-58.png)
 
 Enlace del database diagram: [Ver diagrama](https://cdn.discordapp.com/attachments/1146490170917535764/1147639660609278012/StudiStay-2023-09-02_12-23.png)
 
