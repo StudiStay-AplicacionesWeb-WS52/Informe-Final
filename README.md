@@ -1232,13 +1232,13 @@ En nuestra aplicación web, utilizaremos un proceso similar al descrito, con div
 
 ### 4.4.3. Web Applications Mock-ups.
 
-![X1](https://media.discordapp.net/attachments/1146490170917535764/1148381361959342141/c1.jpg)
-![X1](https://media.discordapp.net/attachments/1146490170917535764/1148381362190024794/c2.jpg)
-![X1](https://media.discordapp.net/attachments/1146490170917535764/1148381362399760484/c3.jpg)
+![X1](https://media.discordapp.net/attachments/1146490170917535764/1147768942547456011/image.png)
+![X1](https://media.discordapp.net/attachments/1146490170917535764/1147768942971072552/image.png)
+![X1](https://media.discordapp.net/attachments/1146490170917535764/1147768943205957663/image.png)
 ![X1](https://media.discordapp.net/attachments/1146490170917535764/1148769549387321344/image.png)
 ![X1](https://media.discordapp.net/attachments/1146490170917535764/1148769549659934801/image.png)
 ![X1](https://media.discordapp.net/attachments/1146490170917535764/1148769549899014274/image.png)
-![X1](https://media.discordapp.net/attachments/1146490170917535764/1148381363347652619/c5.jpg)
+![X1](https://media.discordapp.net/attachments/1146490170917535764/1147768943772188782/image.png)
 
 [Enlace a Figma "Ver Diseños"](https://www.figma.com/file/ceXZ987xbS3HnR0A1ISTwf/Mockups?type=design&node-id=45%3A255&mode=design&t=HcpJIjoBHU1Hyp6C-1)
 
