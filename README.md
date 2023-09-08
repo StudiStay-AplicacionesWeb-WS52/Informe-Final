@@ -429,6 +429,47 @@ La aplicación generará ganancias por medio de publicidad mostrada en la plataf
 * <b>How much</b>
     <br>Según el Instituto Nacional de Estadística e Informática en el año 2014, el 43% de estudiantes de universidades públicas eligió su centro de estudios debido a su prestigio, siendo solo el 8.4% por la cercanía a su domicilio. La problemática se origina debido a la escasa cantidad de información que podemos encontrar sobre habitaciones en las que los estudiantes puedan alojarse. Además que en internet, la información se encuentra de forma desordenada en las páginas web o aplicaciones, lo que genera fastidio y descontento en los usuarios. 
 
+### 1.2.2. Lean UX Process
+#### 1.2.2.1. Lean UX Problem Statements   
+A los estudiantes de universidades e institutos se les presentan dificultades al momento de encontrar un lugar o una habitación en la cual puedan alojarse durante la duración de su ciclo de estudios, impidiéndoles tener un buen desempeño en sus calificaciones. Por lo tanto, se necesita implementar un sistema en el que se puedan visualizar las habitaciones que cumplan con sus necesidades y posibilidades, además de una opción para los arrendadores en las que puedan publicar la información necesaria. Como startup, solucionaremos la siguiente pregunta: ¿De qué manera se puede realizar una solución tecnológica y novedosa en la que se pueda recolectar esta información y facilite la elección de los estudiantes?
+
+#### 1.2.2.2. Lean UX Assumptions
+*   Business outcomes:
+<br>
+    <ol>
+    <li>Los usuarios de la aplicación están interesados en buscar habitaciones según sus necesidades.</li>
+    <li>Los usuarios confiarán en la seguridad y privacidad de la aplicación para administrar su información personal. </li>
+    <li>Los usuarios aceptan proporcionar información detallada sobre su dirección, nombre real y foto en la aplicación. </li>
+    <li>Los usuarios desean una interfaz de aplicación intuitiva, responsive y fácil de usar para la búsqueda y publicación de las habitaciones. </li>
+    <li>Los usuarios buscan funciones adicionales, como que se incluya servicios de alimentación, seguridad y otros servicios de necesidad.  </li>
+    <li>Los usuarios deben poder ver y analizar las opciones de renta de habitación de forma clara y precisa en la aplicación. </li>
+    <li>Los usuarios esperan notificaciones y recordatorios para realizar un seguimiento del proceso de reserva o publicación en la aplicación. </li>
+    <li>La aplicación debe ser compatible con múltiples navegadores modernos.</li>
+    <li>Los usuarios están dispuestos a pagar por funciones premium o servicios adicionales en la aplicación.</li>
+    </ol>
+
+<br>
+
+* User assumptions:
+
+  - <b>¿Quién es el usuario?</b>
+    <br>Los usuarios interesados en la aplicación son aquellos que buscan un lugar donde poder descansar o aquellos que viven lejos de la universidad y desean pasar la noche en un lugar cercano a la universidad sin tener que preocuparse por el largo trayecto a su casa el cual le facilita y ahorra tiempo para eventos importantes como un examen a primera hora. Además, de personas que tienen su casa cerca a la universidad y deseen compartir una habitación para obtener ingresos extra. Nuestros usuarios son: estudiantes de educación superior de entre 18 a 29 años y personas propietarias de casas o departamentos.
+
+  - <b>¿Dónde encaja nuestro producto en su trabajo o vida?</b>
+    <br>Nuestra aplicación es aplicable principalmente en los períodos académicos. Puesto que, en su gran mayoría los servicios tienen gran demanda cuando hay clases y/o exámenes. 
+
+  - <b>¿Qué problema tiene nuestro producto? ¿Cómo se resuelve?</b>
+    <br>El problema que aborda nuestro producto es la dificultad de encontrar alojamiento conveniente y seguro para estudiantes durante períodos académicos. Se resuelve al proporcionar una plataforma que conecta estudiantes con habitaciones disponibles cercanas a instituciones educativas. Esto brinda a los estudiantes opciones asequibles y cómodas, y permite a los propietarios generar ingresos adicionales al alquilar sus habitaciones.
+
+  - <b>¿Cuándo y cómo es usado nuestro producto?</b>
+    <br>Nuestro producto se emplea en épocas académicas, cuando la demanda de alojamiento es alta. Los estudiantes encuentran habitaciones cercanas para descansar entre clases y estudiar, asegurando tranquilidad para los exámenes. Los propietarios publican habitaciones disponibles, generando ingresos extra. La app optimiza la experiencia de búsqueda y oferta de alojamiento, siendo eficaz y beneficiando a ambas partes. 
+
+  - ¿Qué características son importantes?
+    <br>La característica más importante son las sugerencias basadas en los intereses y cercanía del usuario, así como también el ofrecer otros servicios de gran importancia.
+
+  - ¿Cómo debe verse nuestro producto y comportarse?
+    <br>Nuestro producto debe cumplir con su propósito sin falla alguna. El producto debe tener un uso intuitivo, ágil y eficiente. 
+
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
