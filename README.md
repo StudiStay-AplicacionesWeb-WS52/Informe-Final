@@ -214,6 +214,182 @@ del ABET – EAC - Student Outcome 5.
 
 <br><br>
 
+# Capítulo I: Introducción
+## 1.1. StartUp Profile
+### 1.1.1. Description de la StartUp
+
+StudiStay Connect nació como una startup creada por un grupo de estudiantes universitarios especializados en Ingeniería de Software. Su principal propósito es desarrollar soluciones de software que aborden las necesidades y resuelvan los desafíos diarios a los que se enfrenta la gente en su rutina.
+
+Como su primer proyecto, dieron vida a StudiStay, una plataforma diseñada para solucionar el problema de encontrar alojamiento para estudiantes universitarios e institucionales, a través de una innovadora aplicación web. Esta plataforma permite conectar a estudiantes en búsqueda de alojamiento con proveedores que ofrecen habitaciones adecuadas para sus necesidades.
+
+La interfaz intuitiva de StudiStay posibilita a los estudiantes explorar una amplia gama de opciones, desde habitaciones individuales hasta apartamentos compartidos. Los proveedores de alojamiento pueden registrar sus ofertas de manera efectiva, alcanzando a su público objetivo de forma directa. Al actuar como mediadores entre la demanda y la oferta de alojamiento estudiantil, simplificamos el proceso y fomentamos la creación de comunidades sólidas entre los estudiantes. Estamos transformando por completo la experiencia de búsqueda de alojamiento, facilitando a los estudiantes encontrar su hogar ideal mientras persiguen sus metas académicas.
+
+<b>Nuestra visión</b> consiste en liderar la redefinición de la experiencia de alojamiento estudiantil, estableciendo conexiones significativas y enriqueciendo la vida estudiantil mediante la aplicación de tecnología avanzada.
+
+<b>Nuestra misión</b> se centra en simplificar la búsqueda y oferta de alojamiento para estudiantes, a través de una plataforma innovadora y amigable que promueva el crecimiento y el aprendizaje a través de la construcción de comunidades sólidas.
+
+StudiStay no solo cambiará cómo los estudiantes encuentran alojamiento, sino que también transformará sus vidas al proporcionar un entorno en el que puedan crecer, aprender y construir conexiones significativas. Más que una solución tecnológica, estamos creando un espacio para que los sueños y objetivos de los estudiantes florezcan.
+
+### 1.1.2. Perfiles de integrantes del equipo
+
+<table align="center"  border="1" width="70%" style="text-align:center;">
+    <tr align="center">
+        <td rowspan="4">
+            <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1148756119347544094/43178475.png" alt="Integrante1" style="margin-bottom: 5px;" width="600"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            Alejo Cardenas, Luis Angel
+        </td>
+    </tr>
+   <tr>
+        <td align="left">
+        <b>Codigo:</b>
+        <br>
+        U202122519
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Descripción de carrera:</b>
+        <br>
+        En Ingeniería de Software nos centramos en la programación, adaptabilidad, naturaleza dinámica y gestión de la calidad de un software existente o en la creación de un nuevo software, basándonos en técnicas y métodos proporcionados por la ingeniería. Además, brindamos mantenimiento y soporte operacional de software.
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Conocimiento y habilidades:</b>
+        <br>
+       Tengo conocimientos en programación en C++ y Python. Además, soy bueno haciendo cálculos matemáticos, me comprometo a apoyar a mi equipo en todo lo posible y ser responsable con cada actividad que se me asigne.
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="4">
+            <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1148734074811322458/pic_1.png" alt="Integrante2" style="margin-bottom: 5px;" width="600"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            Checa Apolinario, Paolo Sebastián
+        </td>
+    </tr>
+   <tr>
+        <td align="left">
+        <b>Codigo:</b>
+        <br>
+        U202112749
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Descripción de carrera:</b>
+        <br>
+        En la Ingeniería de Software uno consigue los instrumentos necesarios para poder desarrollar programas o aplicaciones. El camino para lograr aquello se basa en un proceso donde el ingeniero deberá analizar lo requerido, planificar el desarrollo del proceso y comprobar su funcionamiento correcto hasta que este se ejecute sin errores. Las estrategias usadas para simplificar y acelerar estos procesos serán clave en esta rama pues estas serán las soluciones innovadoras que el ingeniero deberá crear.
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Conocimiento y habilidades:</b>
+        <br>
+         Poseo conocimientos en programación en el entorno del lenguaje C++. Estoy dispuesto a aportar nuevas ideas al equipo, tengo fácil adaptación a los roles designados y buena organización. Soy responsable y dispongo de la capacidad para aportar ideas innovadoras en beneficio de nuestro proyecto.
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="4">
+            <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1146491022994571424/0540202124061.jpg" alt="Integrante3" style="margin-bottom: 5px;" width="600"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+           Del Carmen Zorrilla, Ray Alessandro
+        </td>
+    </tr>
+   <tr>
+        <td align="left">
+        <b>Codigo:</b>
+        <br>
+        U202124061
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Descripción de carrera:</b>
+        <br>
+        La Ingeniería de Software nos dota de habilidades para resolver problemas en el uso del software de manera creativa. Aprendemos técnicas sólidas de diseño y desarrollo, priorizando la calidad y eficiencia de las soluciones. Además, la Ingeniería de Software no solo se centra en aspectos técnicos, sino que también pone un fuerte énfasis en la dimensión ética y social de la creación tecnológica. A medida que diseñamos y desarrollamos soluciones de software, nos enfrentamos a decisiones que pueden tener un impacto significativo en la sociedad y en la vida de las personas.
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Conocimiento y habilidades:</b>
+        <br>
+        Tengo experiencia en el lenguaje C++, además de contar con habilidades interpersonales que facilitan el trabajo colaborativo. Mi enfoque creativo me capacita para proponer ideas innovadoras y abordar de manera efectiva los desafíos que puedan surgir durante el desarrollo de este proyecto.
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="4">
+            <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1148757218565570612/photo_2020-11-29_17-19-46_2.jpg" alt="Integrante4" style="margin-bottom: 5px;" width="600"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            Ortega Vélez, Jamutaq Piero 
+        </td>
+    </tr>
+   <tr>
+        <td align="left">
+        <b>Codigo:</b>
+        <br>
+        U201911703
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Descripción de carrera:</b>
+        <br>
+        Tengo 21 años y actualmente estudio la carrera de Ingeniería de Software, me interesó dicha carrera por mi afición a los programas, sistemas y mi curiosidad por saber cómo estaban realizados y entender todo a detalle. 
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Conocimiento y habilidades:</b>
+        <br>
+        Como persona me considero alguien responsable, comprometido, honesto y con ganas de aprender más.
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="4">
+            <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1149739764501708930/WIN_20230905_23_02_52_Pro-fotor-bg-remover-2023090523956-fotor-bg-remover-2023090523127.png" alt="Integrante5" style="margin-bottom: 5px;" width="600"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            Yance Gutierrez, Franco Felix
+        </td>
+    </tr>
+   <tr>
+        <td align="left">
+        <b>Codigo:</b>
+        <br>
+         U202013614
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Descripción de carrera:</b>
+        <br>
+        Carrera Estudiante 5
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Conocimiento y habilidades:</b>
+        <br>
+        Descripcion Estudiante 5
+        </td>
+    </tr>
+</table>
+
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
 
