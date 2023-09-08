@@ -489,6 +489,39 @@ A los estudiantes de universidades e institutos se les presentan dificultades al
     <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1148758549137199216/image.png" alt="Canvas"  width="100%"/>
 </div>
 
+## 1.3. Segmentos Objetivo
+
+<br>
+<table align="center" border="1" width="70%" style="text-align:left;">
+  <tr>
+    <th style="text-align:center;">Tipo de Usuario</th>
+    <td><b>Estudiantes que buscan información sobre habitaciones</b></td>
+    <td><b>Arrendadores que buscan alquilar habitaciones</b></td>
+  </tr>
+  <tr>
+    <th style="text-align:center;">Geográfico</th>
+    <td><b>País:</b> Perú <br><b>Zona residencial:</b> Actualmente se encuentran en zonas alejadas de sus centros educativos.</td>
+    <td><b>País:</b> Perú <br><b>Zona residencial:</b> Zonas urbanizadas y centralizadas.<br><br></td>
+  </tr>
+  <tr>
+    <th style="text-align:center;">Psicográfico</th>
+    <td><b>Clase Social:</b> La mayoría de estos estudiantes se encuentran en una clase social media o media baja.<br><br>
+    <b>Estilo de vida:</b> Son estudiantes comprometidos con sus estudios, a pesar de las adversidades que se les puedan presentar.</td>
+    <td><b>Clase Social:</b> Abarcan clases sociales desde la clase media a la clase alta.<br><br>
+    <b>Estilo de vida:</b> Deben ser personas que se comprometan a cumplir con brindar un buen espacio donde alojarse.</td>
+  </tr>
+  <tr>
+    <th style="text-align:center;">Demográfico</th>
+    <td><b>Edad:</b> Personas de edades entre 18 y 40 años.<br><br>
+        <b>Nacionalidad:</b> Nacionalidad peruana. En el caso de ser extranjero, deberá identificarse con su pasaporte.<br><br>
+        <b>Nivel de Ingreso:</b> No es relevante, ya que se pueden hacer comparaciones entre los lugares que se ofrecen.
+    </td>
+    <td><b>Edad:</b> Deben ser mayores de edad, preferiblemente mayores de 30 años.<br><br>
+        <b>Nacionalidad:</b> Nacionalidad peruana. En el caso de ser extranjero, deberá identificarse con su pasaporte.<br><br>
+        <b>Estudios:</b> Debe contar con secundaria completa o superior.<br><br></td>
+  </tr>
+</table>
+
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
 
