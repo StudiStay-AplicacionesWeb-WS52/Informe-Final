@@ -155,6 +155,65 @@
 ### [Anexos](#anexos-1)
 
 <br><br>
+# Student Outcome
+Criterio: Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo; crea un entorno colaborativo e inclusivo y establece metas, planifica tareas y cumple objetivos.
+
+En el siguiente cuadro se describe las acciones realizadas y enunciados de 
+conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro 
+del ABET – EAC - Student Outcome 5.
+
+<table>
+  <tr>
+    <td><b>Criterio específico</b></td>
+    <td><b>Acciones realizadas</b></td>
+    <td><b>Conclusiones</b></td>
+  </tr>
+  <tr>
+    <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
+    <td> TB1<br><br>
+         <b>Checa Apolinario, Paolo Sebastián </b><br>
+        - Realizamos la planificación necesaria para formar de manera efectiva el plan de desarrollo de nuestra solución.
+        <br><br> 
+         <b>Del Carmen Zorrilla, Ray Alessandro </b><br>
+        - Trabajamos en equipo para repartirnos todos los puntos de la entrega, llevar a cabo una lluvia de ideas y colaborar de manera efectiva en cada fase del proyecto.
+        <br><br>
+        <b>Alejo Cardenas, Luis Angel </b><br>
+        - Nos hemos organizado para identificar todos los aspectos del Lean UX Process con el fin de reconocer la problemática y darle solución en la mayor parte posible.
+        <br><br> 
+        <b>Ortega Vélez, Jamutaq Piero </b>
+        - Colaboramos con los miembros del equipo para acordar cómo serán los prototipos, íconos y otros diseños.
+        <br><br>
+        <b>Yance Gutierrez, Franco Felix </b><br>
+        - Realicé Empathy Mapping, As-is Scenario Mapping y To-Be Scenario Mapping para comprender las necesidades de los usuarios y definir la dirección del proyecto, garantizando una experiencia centrada en el usuario.
+   </td>
+    <td>TB1<br><br>
+    Elegimos un servicio acerca de renta de habitaciones para estudiantes, en el cual desarrollamos el problem statement y las hypothesis statements para dimensionar el desarrollo y solución de la problemática.</td>
+  </tr>
+  <tr>
+    <td><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
+    <td> TB1<br><br>
+         <b>Checa Apolinario, Paolo Sebastián </b><br>
+        - Se realizó un análisis para poder ofrecer una solución innovadora a un sector que tenga falta de apoyo.
+        <br><br> 
+         <b>Del Carmen Zorrilla, Ray Alessandro </b><br>
+        - Realizamos una investigación exhaustiva sobre cada uno de nuestros segmentos objetivos en el proyecto, con el objetivo de asegurarnos de que nuestra aplicación satisfaga todas las necesidades de nuestros usuarios objetivo.
+        <br><br>
+        <b>Alejo Cardenas, Luis Angel </b><br>
+        - Realicé una entrevista a un miembro de uno de los segmentos objetivos con el fin de obtener información relevante para la realización de algunos de los puntos del trabajo.
+        <br><br> 
+        <b>Ortega Vélez, Jamutaq Piero </b>
+        - Se realizó la elaboración de los prototipos según las propuestas realizadas por los usuarios en las entrevistas y lo acordado con el grupo.
+        <br><br>
+        <b>Yance Gutierrez, Franco Felix </b><br>
+        - Realizamos una investigación exhaustiva de nuestros segmentos objetivos para garantizar que nuestra aplicación satisfaga sus necesidades. Además, realicé una entrevista con un miembro de uno de los segmentos para obtener información clave para el proyecto.
+   </td>
+    <td>TB1<br><br>
+    Recopilamos información necesaria para poder hacer frente a los competidores y ofrecer un producto novedoso basado en la tecnología.</td>
+  </tr>
+</table>
+
+<br><br>
+
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
 
