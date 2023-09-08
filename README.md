@@ -470,6 +470,24 @@ A los estudiantes de universidades e institutos se les presentan dificultades al
   - ¿Cómo debe verse nuestro producto y comportarse?
     <br>Nuestro producto debe cumplir con su propósito sin falla alguna. El producto debe tener un uso intuitivo, ágil y eficiente. 
 
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+- <b>Creemos que</b> nuestro aplicativo será de gran ayuda para los estudiantes que busquen alojarse lo más cerca posible de su institución educativa. <b>Sabremos que </b> tuvimos éxito <b>cuando</b> las reseñas hechas por estudiantes sobre la aplicación sean más del 70% positivas.
+
+- <b>Creemos que</b> el aplicativo es rentable para los arrendadores que alquilan alojamiento para estudiantes. <b>Sabremos que</b> tuvimos éxito <b>cuando</b> la actividad de usuarios sea superior en un 40% a la actividad media durante inicios de los ciclos universitarios.
+
+- <b>Creemos que</b> los estudiantes podrán encontrar alojamiento cerca de sus instituciones educativas. <b>Sabremos que</b>tuvimos éxito <b>cuando</b> más del 50% de usuarios lleguen a un acuerdo con los usuarios arrendadores.
+
+- <b>Creemos que</b> nuestra aplicación será utilizada por personas entre 18 a 24 años, ya que nuestro público objetivo son los practicantes. <b>Sabremos que</b> tuvimos éxito <b>cuando</b> el 40% de usuarios pertenezca al rango de edades mencionado.
+
+- <b>Creemos que</b> la notificación al recibir un mensaje de cómo va el acuerdo de alojamiento, será de gran utilidad para ambos usuarios. <b>Sabremos que</b> tuvimos éxito <b>cuando</b> los estudiantes y arrendadores califiquen 3 o más de 5 estrellas al chat de comunicación.
+
+- <b>Creemos que</b> la aplicación será intuitiva y fácil de gestionar para ambos usuarios. <b>Sabremos que</b> tuvimos éxito <b>cuando</b> más del 60% de usuarios encuestados se sientan satisfechos con la interfaz de usuario.
+
+#### 1.2.2.4. Lean UX Canvas
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1148758549137199216/image.png" alt="Canvas"  width="100%"/>
+</div>
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
