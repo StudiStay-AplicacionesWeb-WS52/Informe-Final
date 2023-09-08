@@ -1651,10 +1651,13 @@ En nuestra aplicación web, utilizaremos un proceso similar al descrito, con div
 <div align=center>
     <img src="https://media.discordapp.net/attachments/1146490170917535764/1148344164497494046/05.jpg" alt="m5"  width="100%"/>
 </div> 
+<br>
+<center>
 
-<div align=center>
-    <img src="https://www.figma.com/file/ceXZ987xbS3HnR0A1ISTwf/Mockups?type=design&node-id=0%3A1&mode=design&t=HcpJIjoBHU1Hyp6C-1" alt="Enlace a Figma Ver Diseños"  width="100%"/>
-</div> 
+[Enlace a Figma "Ver Diseños"](https://www.figma.com/file/ceXZ987xbS3HnR0A1ISTwf/Mockups?type=design&node-id=0%3A1&mode=design&t=HcpJIjoBHU1Hyp6C-1)
+
+</center>
+
 
 
 ### 4.3.2. Landing Page Mock-up.
