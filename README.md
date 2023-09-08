@@ -1523,33 +1523,43 @@ En esta sección se analizará los diseños que se consideraron para nuestra mar
 
 **-Logo:** 
 Nuestro logo está conformado por dos imágenes principales, las cuales son una casa y un árbol, esto hace referencia al servicio que se está brindando (el cual es la renta de habitaciones). Los colores usados fueron derivados del azul y blanco, el cual crea una paleta de colores que hace alusión a la paz, tranquilidad y seriedad, y refuerza la confianza de nuestros usuarios en el servicio que se brindará.
-
-![Logo](https://media.discordapp.net/attachments/1146490170917535764/1147743612243824691/logo.JPG)
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1147743612243824691/logo.JPG" alt="Logo"  width="100%"/>
+</div>
 
 **-Tipografía:**
 Se requirió dos tipos de tipografías claras, legibles y fáciles de leer en diferentes dispositivos. Fueron seleccionadas Poppins y Jost.
 
 
-![cuadro01](https://media.discordapp.net/attachments/1146490170917535764/1148327842019557407/Captura_de_pantalla_2023-09-04_134346.jpg)
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148338251543888053/Captura_de_pantalla_2023-09-04_142543.jpg" alt="cuadro01"  width="100%"/>
+</div>
 
 **-Colores empleados:**
 Para la elección de colores, se tuvo en cuenta el propósito de la aplicación y el servicio y lo que esta debería transmitir al usuario. 
 
-![cuadro02 ](https://media.discordapp.net/attachments/1146490170917535764/1148338251543888053/Captura_de_pantalla_2023-09-04_142543.jpg)
-![cuadro03](https://media.discordapp.net/attachments/1146490170917535764/1148338251313188905/Captura_de_pantalla_2023-09-04_142346.jpg)
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148338251543888053/Captura_de_pantalla_2023-09-04_142543.jpg" alt="cuadro02"  width="100%"/>
+</div>
 
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148338251313188905/Captura_de_pantalla_2023-09-04_142346.jpg" alt="cuadro03"  width="100%"/>
+</div>
 
 **-Íconos:** 
 Con respecto a la parte de los iconos, estos serán simples y minimalistas para transmitir la información de manera sencilla y eficiente. Estos deben de adaptarse perfectamente a la interfaz de la aplicación, ocupando un espacio óptimo sin comprometer la legibilidad. Es por ello que su diseño minimalista ayuda a evitar la sobrecarga visual y permite una navegación fluida. Para este caso se usarán los íconos: Tabler-Icons
 
-![Cuadro04](https://media.discordapp.net/attachments/1146490170917535764/1148339213637525626/Captura_de_pantalla_2023-09-04_142940.jpg)
-
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148339213637525626/Captura_de_pantalla_2023-09-04_142940.jpg" alt="cuadro04"  width="100%"/>
+</div>
 
 ### 4.1.2. Web Style Guidelines.
 En esta sección se explicará el estilo y patrón que hace uso nuestra interfaz tanto del landing page y la aplicación web.
 **-Landing Page:** Esta utiliza el Patrón Z, una estructura diseñada para guiar al usuario por la página de manera natural y efectiva. En la parte superior se encontrará la barra de navegación con un tono oscuro, que brinda un aspecto serio y confiable. Esta barra contiene el logo y secciones como "Servicios", "Quiénes somos", "Testimonios" y "Aplicación". Se usaron colores derivados del azul el cual añade un toque de seriedad y paz al diseño y contrasta con el resto de la página para invitar al usuario a descargar y probar la aplicación.
 
-![Cuadro05](https://media.discordapp.net/attachments/1146490170917535764/1148339886923972658/Captura_de_pantalla_2023-09-04_143224.jpg)
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148339886923972658/Captura_de_pantalla_2023-09-04_143224.jpg" alt="cuadro05"  width="100%"/>
+</div>
 
 ## 4.2. Information Architecture.
 En esta sección, estableceremos la estructura y forma del software en relación a nuestros segmentos objetivos, así como los elementos y características que se usarán dentro de la navegación de la aplicación.
@@ -1626,60 +1636,134 @@ En nuestra aplicación web, utilizaremos un proceso similar al descrito, con div
 
 ### 4.3.1. Landing Page Wireframe.
 
-![m1](https://media.discordapp.net/attachments/1146490170917535764/1148344163218243655/01.jpg)
-![m2](https://media.discordapp.net/attachments/1146490170917535764/1148344163478278164/02.jpg)
-![m3](https://media.discordapp.net/attachments/1146490170917535764/1148344163801243759/03.jpg)
-![m4](https://media.discordapp.net/attachments/1146490170917535764/1148344164107436122/04.jpg)
-![m5](https://media.discordapp.net/attachments/1146490170917535764/1148344164497494046/05.jpg)
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148344163218243655/01.jpg" alt="m1"  width="100%"/>
+</div> 
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148344163478278164/02.jpg" alt="m2"  width="100%"/>
+</div> 
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148344163801243759/03.jpg" alt="m3"  width="100%"/>
+</div> 
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148344164107436122/04.jpg" alt="m4"  width="100%"/>
+</div> 
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148344164497494046/05.jpg" alt="m5"  width="100%"/>
+</div> 
 
-[Enlace a Figma "Ver Diseños"](https://www.figma.com/file/ceXZ987xbS3HnR0A1ISTwf/Mockups?type=design&node-id=0%3A1&mode=design&t=HcpJIjoBHU1Hyp6C-1)
+<div align=center>
+    <img src="https://www.figma.com/file/ceXZ987xbS3HnR0A1ISTwf/Mockups?type=design&node-id=0%3A1&mode=design&t=HcpJIjoBHU1Hyp6C-1" alt="Enlace a Figma Ver Diseños"  width="100%"/>
+</div> 
+
 
 ### 4.3.2. Landing Page Mock-up.
 
-![m01](https://media.discordapp.net/attachments/1146490170917535764/1148347277824491660/001.jpg)
-![m02](https://media.discordapp.net/attachments/1146490170917535764/1148347278558494770/002.jpg)
-![m03](https://media.discordapp.net/attachments/1146490170917535764/1148347279217000479/003.jpg)
-![m04](https://media.discordapp.net/attachments/1146490170917535764/1148347279544172604/004.jpg)
-![m05](https://media.discordapp.net/attachments/1146490170917535764/1148347279774863453/005.jpg)
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148347277824491660/001.jpg" alt="m01"  width="100%"/>
+</div> 
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148347278558494770/002.jpg" alt="m02"  width="100%"/>
+</div> 
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148347279217000479/003.jpg" alt="m03"  width="100%"/>
+</div> 
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148347279544172604/004.jpg" alt="m04"  width="100%"/>
+</div> 
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148347279774863453/005.jpg" alt="m05"  width="100%"/>
+</div> 
 
 **Version Mobile**
 
-![m0001](https://media.discordapp.net/attachments/1146490170917535764/1148347277572853831/0001.jpg)
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148347277572853831/0001.jpg" alt="m0001"  width="100%"/>
+</div> 
 
-![m0002](https://media.discordapp.net/attachments/1146490170917535764/1148347278206193794/0002.jpg)
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148347278206193794/0002.jpg" alt="m0002"  width="100%"/>
+</div> 
 
-![m0003](https://media.discordapp.net/attachments/1146490170917535764/1148347278847918090/0003.jpg)
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148347278847918090/0003.jpg" alt="m0003"  width="100%"/>
+</div> 
+<br>
+<center>
 
 [Enlace a Figma "Ver Diseños"](https://www.figma.com/file/ceXZ987xbS3HnR0A1ISTwf/Mockups?type=design&node-id=0%3A1&mode=design&t=HcpJIjoBHU1Hyp6C-1)
+
+</center>
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
 
-![m001](https://media.discordapp.net/attachments/1146490170917535764/1149035767809724466/image.png)
-![m002](https://media.discordapp.net/attachments/1146490170917535764/1149035768090738818/image.png)
-![m003](https://media.discordapp.net/attachments/1146490170917535764/1149035768371761212/image.png)
-![m004](https://media.discordapp.net/attachments/1146490170917535764/1149035768682135684/image.png)
-![m005](https://media.discordapp.net/attachments/1146490170917535764/1149035769026056292/image.png)
-![m006](https://media.discordapp.net/attachments/1146490170917535764/1149035769630048348/image.png)
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1149035767809724466/image.png" alt="m001"  width="100%"/>
+</div> 
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1149035768090738818/image.png" alt="m002"  width="100%"/>
+</div> 
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1149035768371761212/image.png" alt="m003"  width="100%"/>
+</div> 
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1149035768682135684/image.png" alt="m004"  width="100%"/>
+</div> 
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1149035769026056292/image.png" alt="m005"  width="100%"/>
+</div> 
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1149035769630048348/image.png" alt="m006"  width="100%"/>
+</div> 
+<br>
+<center>
 
 [Enlace a Figma "Ver Diseños"](https://www.figma.com/file/ceXZ987xbS3HnR0A1ISTwf/Mockups?type=design&node-id=45%3A255&mode=design&t=HcpJIjoBHU1Hyp6C-1)
+
+</center>
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 **User goal:**  Ingresar a la pantalla principal de la aplicación 
 
-![y1](https://media.discordapp.net/attachments/1146490170917535764/1148373882747752618/y1.jpg)
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148373882747752618/y1.jpg" alt="wf"  width="100%"/>
+</div>
+<br> 
+<center>
 
 [Enlace a "Ver Diagrama"](https://lucid.app/lucidchart/8975e733-6286-4b90-b156-2075b44cfd2f/edit?viewport_loc=-6144%2C-2594%2C16249%2C8205%2C0_0&invitationId=inv_d8502013-fa85-466f-90de-b813cccb25a3)
 
+</center>
+
 ### 4.4.3. Web Applications Mock-ups.
 
-![X1](https://media.discordapp.net/attachments/1146490170917535764/1147768942547456011/image.png)
-![X2](https://media.discordapp.net/attachments/1146490170917535764/1147768942971072552/image.png)
-![X3](https://media.discordapp.net/attachments/1146490170917535764/1147768943205957663/image.png)
-![X4](https://media.discordapp.net/attachments/1146490170917535764/1148769549387321344/image.png)
-![X5](https://media.discordapp.net/attachments/1146490170917535764/1148769549659934801/image.png)
-![X6](https://media.discordapp.net/attachments/1146490170917535764/1148769549899014274/image.png)
-![X7](https://media.discordapp.net/attachments/1146490170917535764/1147768943772188782/image.png)
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1147768942547456011/image.png" alt="X1"  width="100%"/>
+</div> 
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1147768942971072552/image.png" alt="X2"  width="100%"/>
+</div> 
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1147768943205957663/image.png" alt="X3"  width="100%"/>
+</div> 
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148769549387321344/image.png" alt="X4"  width="100%"/>
+</div> 
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148769549659934801/image.png" alt="X5"  width="100%"/>
+</div> 
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148769549899014274/image.png" alt="X6"  width="100%"/>
+</div> 
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1147768943772188782/image.png" alt="X7"  width="100%"/>
+</div> 
+
 
 **Versión mobile:**
 
