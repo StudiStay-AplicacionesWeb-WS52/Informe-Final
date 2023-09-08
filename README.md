@@ -390,6 +390,46 @@ StudiStay no solo cambiará cómo los estudiantes encuentran alojamiento, sino q
     </tr>
 </table>
 
+## 1.2. Solution Profile
+<br>
+<b>Nombre del Producto:</b>
+
+Nuestra aplicación web recibe el nombre de “StudiStay”, haciendo referencia tanto a uno de nuestros segmentos objetivos, los estudiantes, como a la posibilidad de poder encontrar un lugar cercano a sus centro educativos en el que puedan alojarse y quedarse durante todo el ciclo de estudios que poseen. Consideramos que esta representación es importante para poder llegar al público al que apuntamos.
+
+<br>
+<b>Descripción del Producto:</b>
+
+Proponemos un servicio innovador y tecnológico, en el que se implementen todas las características necesarias para que los usuarios puedan concretar sus objetivos de manera eficiente y concreta. En nuestra aplicación, se podrán aplicar diversos filtros para que se pueda encontrar el lugar ideal, que corresponda con los requisitos y posibilidades de quien lo solicite.
+
+<br>
+<b>Monetización:</b> 
+
+La aplicación generará ganancias por medio de publicidad mostrada en la plataforma, preferiblemente relacionada a nuestro tema tratado, por lo que el sitio será más vistoso y se podrá obtener ganancia del proyecto.
+
+### 1.2.1. Antecedentes y problemática
+
+* <b>Who</b>
+  <br>Nuestros usuarios son los estudiantes universitarios y de institutos que buscan una habitación que se encuentre cerca de su centro de estudios, en la cual puedan alojarse durante la duración de sus ciclos.
+
+* <b>What</b>
+    <br>El problema de nuestros usuarios es la falta de información acerca de habitaciones con las que puedan cumplir las condiciones, y que se encuentren cerca de su centro de estudios. Existe una gran cantidad de estudiantes que viven alejados de sus centros de estudio, los cuales se enfrentan diariamente a las largas distancias, debido al ineficiente sistema de transporte público.
+
+* <b>Where</b>
+  <br>El problema se encuentra en la poca información que se encuentran en los lugares cercanos a las instituciones, en la que la mayoría de opciones se encuentran fuera del alcance de nuestros usuarios.
+
+* <b>When</b>
+    <br>El problema suscitado se presenta cada vez que nuestros usuarios buscan información acerca de habitaciones que les puedan brindar beneficios para continuar con sus estudios.
+
+* <b>Why</b>
+    <br>Usualmente los usuarios no logran encontrar la información necesaria sobre las habitaciones, por lo que deben buscar por medio de internet, indagar con amigos o familia para encontrar lo más adecuado. Además, la distancia que existe entre la vivienda del estudiante y su centro de estudios es demasiada, haciendo uso del transporte público. Esta sentencia perjudica a los estudiantes en una ciudad como Lima, que en el 2018 fue considerada como una de las ciudades con el peor tráfico del mundo.
+
+* <b>How</b>
+    <br>La mayoría de veces resulta demasiado complicado el poder encontrar una habitación que coincida con las posibilidades de nuestros usuarios. Debido a esta problemática, surge nuestra aplicación, la cual servirá de apoyo a todos aquellos estudiantes, dentro de la cual podrán visualizar de forma ordenada las habitaciones de acuerdo a los filtros que apliquen.
+
+* <b>How much</b>
+    <br>Según el Instituto Nacional de Estadística e Informática en el año 2014, el 43% de estudiantes de universidades públicas eligió su centro de estudios debido a su prestigio, siendo solo el 8.4% por la cercanía a su domicilio. La problemática se origina debido a la escasa cantidad de información que podemos encontrar sobre habitaciones en las que los estudiantes puedan alojarse. Además que en internet, la información se encuentra de forma desordenada en las páginas web o aplicaciones, lo que genera fastidio y descontento en los usuarios. 
+
+
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
 
