@@ -1770,64 +1770,92 @@ En nuestra aplicación web, utilizaremos un proceso similar al descrito, con div
 
 **Versión mobile:**
 
-![XD1](https://media.discordapp.net/attachments/1146490170917535764/1149036909708988466/image.png)
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1149036909708988466/image.png" alt="X8"  width="100%"/>
+</div> 
 
-![XD2](https://media.discordapp.net/attachments/1146490170917535764/1149036909981601834/image.png)
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1149036909981601834/image.png" alt="X9"  width="100%"/>
+</div> 
 
-![XD3](https://media.discordapp.net/attachments/1146490170917535764/1149036910208102440/image.png)
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1149036910208102440/image.png" alt="X10"  width="100%"/>
+</div> 
 
-![XD4](https://media.discordapp.net/attachments/1146490170917535764/1149036910489129071/image.png)
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1149036910489129071/image.png" alt="X11"  width="100%"/>
+</div> 
 
-![XD5](https://media.discordapp.net/attachments/1146490170917535764/1149036910736576594/image.png)
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1149036910736576594/image.png" alt="X12"  width="100%"/>
+</div>
 
 [Enlace a Figma "Ver Diseños"](https://www.figma.com/file/ceXZ987xbS3HnR0A1ISTwf/Mockups?type=design&node-id=45%3A255&mode=design&t=HcpJIjoBHU1Hyp6C-1)
 
 ### 4.4.4. Web Applications User Flow Diagrams.
 **User Goal:** Ingresar a la pantalla principal de la aplicación
 
-![C1](https://media.discordapp.net/attachments/1146490170917535764/1148381363825807360/xx1.jpg)
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148381363825807360/xx1.jpg"/>
+</div>
 
 [Enlace a "Ver Diagrama"](https://lucid.app/lucidchart/14f1c5b0-7747-40c4-8298-e6cc1d0b5afb/edit?viewport_loc=-6385%2C-3534%2C16999%2C8584%2C0_0&invitationId=inv_cc954451-ffd1-4093-b615-7b9c212da4d9)
 
 ### 4.5. Web Applications Prototyping.
 
-Enlace del Prototipo:[ver Prototipo](https://www.figma.com/proto/ceXZ987xbS3HnR0A1ISTwf/Mockups?page-id=45%3A255&type=design&node-id=111-5174&viewport=486%2C537%2C0.16&t=Gu1HFfmg5NgkcG5j-1&scaling=scale-down&starting-point-node-id=111%3A5174&mode=design)
+Enlace del Prototipo:[Ver Prototipo](https://www.figma.com/proto/ceXZ987xbS3HnR0A1ISTwf/Mockups?page-id=45%3A255&type=design&node-id=111-5174&viewport=486%2C537%2C0.16&t=Gu1HFfmg5NgkcG5j-1&scaling=scale-down&starting-point-node-id=111%3A5174&mode=design)
 
-Enlace del video: [ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201911703_upc_edu_pe/Ee5dZ-hsfCRMmou0a4mpMkgBbBqwJWWy8JP_SxVX9JPcSA?e=G3ELA0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+Enlace del video: [Ver video de explicación](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201911703_upc_edu_pe/Ee5dZ-hsfCRMmou0a4mpMkgBbBqwJWWy8JP_SxVX9JPcSA?e=G3ELA0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
-![X1](https://media.discordapp.net/attachments/1146490170917535764/1149037520798097508/image.png)
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1149037520798097508/image.png"/>
+</div>
 
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
 
-![C1](https://media.discordapp.net/attachments/1146490170917535764/1148386215662460999/11.jpg)
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148386215662460999/11.jpg"/>
+</div>
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
-![C1](https://media.discordapp.net/attachments/1146490170917535764/1148386216220307476/12.jpg)
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148386216220307476/12.jpg"/>
+</div>
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
 Payment Context Component Diagram
 
-![C1](https://media.discordapp.net/attachments/1146490170917535764/1148389849179623464/B1.jpg)
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148389849179623464/B1.jpg"/>
+</div>
 
 User Profile Context Component Diagram
 
-![C1](https://media.discordapp.net/attachments/1146490170917535764/1148389849443881061/B2.jpg)
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148389849443881061/B2.jpg"/>
+</div>
 
 Chat Context Component Diagram
 
-![C1](https://media.discordapp.net/attachments/1146490170917535764/1148389849645203486/B3.jpg)
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148389849645203486/B3.jpg"/>
+</div>
 
 Accommodation Search Context  Component Diagram
 
-![C1](https://media.discordapp.net/attachments/1146490170917535764/1148389849888460820/B4.jpg)
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148389849888460820/B4.jpg"/>
+</div>
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 
-![C1](https://media.discordapp.net/attachments/1146490170917535764/1148389850093998140/XY1.jpg)
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148389850093998140/XY1.jpg"/>
+</div>
 
 Enlace del diagrama: [Ver diagrama](https://drive.google.com/file/d/1GioUkvq4ETebL9ievODw4UMom4wApiTO/view?usp=sharing)
 
@@ -1835,19 +1863,44 @@ Enlace del diagrama: [Ver diagrama](https://drive.google.com/file/d/1GioUkvq4ETe
 
 A continuación, se presenta detalladamente las clases más relevantes con sus atributos y métodos correspondientes:
 
-![C1](https://media.discordapp.net/attachments/1146490170917535764/1148394534531764244/N1.jpg)
-![C1](https://media.discordapp.net/attachments/1146490170917535764/1148394534720524329/N2.jpg)
-![C1](https://media.discordapp.net/attachments/1146490170917535764/1148394534946996274/N3.jpg)
-![C1](https://media.discordapp.net/attachments/1146490170917535764/1148394535144132638/N4.jpg)
-![C1](https://media.discordapp.net/attachments/1146490170917535764/1148394535400001617/N5.jpg)
-![C1](https://media.discordapp.net/attachments/1146490170917535764/1148394535622279228/N6.jpg)
-![C1](https://media.discordapp.net/attachments/1146490170917535764/1148394535848775751/N7.jpg)
-![C1](https://media.discordapp.net/attachments/1146490170917535764/1148394536092061737/N8.jpg)
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148394534531764244/N1.jpg"/>
+</div>
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148394534720524329/N2.jpg"/>
+</div>
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148394534946996274/N3.jpg"/>
+</div>
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148394535144132638/N4.jpg"/>
+</div>
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148394535400001617/N5.jpg"/>
+</div>
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148394535622279228/N6.jpg"/>
+</div>
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148394535848775751/N7.jpg"/>
+</div>
+
+<div align=center>
+    <img src="https://media.discordapp.net/attachments/1146490170917535764/1148394536092061737/N8.jpg"/>
+</div>
 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
 
-![C1](https://cdn.discordapp.com/attachments/1146490170917535764/1149071371826122923/StudiStay-2023-09-06_14-58.png)
+<div align=center>
+    <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1149071371826122923/StudiStay-2023-09-06_14-58.png"/>
+</div>
 
 Enlace del database diagram: [Ver diagrama](https://cdn.discordapp.com/attachments/1146490170917535764/1147639660609278012/StudiStay-2023-09-02_12-23.png)
 
@@ -2513,3 +2566,20 @@ Para la realización de los commits de nuestro primer Sprint, hemos hecho uso de
 <br><br>
 
 # Anexos
+
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1147743612243824691/logo.JPG">
+</div>
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1147770083633020928/image.png">
+</div>
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1148327842019557407/Captura_de_pantalla_2023-09-04_134346.jpg">
+</div>
+
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1148339886923972658/Captura_de_pantalla_2023-09-04_143224.jpg">
+</div>
