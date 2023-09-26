@@ -395,7 +395,7 @@ StudiStay no solo cambiará cómo los estudiantes encuentran alojamiento, sino q
     </tr>
     <tr align="center">
         <td rowspan="4">
-            <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1149739764501708930/WIN_20230905_23_02_52_Pro-fotor-bg-remover-2023090523956-fotor-bg-remover-2023090523127.png" alt="Integrante5" style="margin-bottom: 5px;" width="600"/>
+            <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1156237601515257936/WIN_20230926_09_34_37_Pro.jpg?ex=65143dae&is=6512ec2e&hm=2f2f4ca4eb6d32e2a58e59769bf7fb2cddd0e4a705f02dc06dba20d89a714a02&" alt="Integrante5" style="margin-bottom: 5px;" width="600"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
