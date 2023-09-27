@@ -270,6 +270,9 @@ del ABET – EAC - Student Outcome 5.
         <b>Checa Apolinario, Paolo Sebastián</b><br>
         - Vue nos permite realizar la parte Front-End de nuestro servicio, con diversos componentes con los que podemos desarrollar las funcionalidades necesarias.
         <br><br>
+         <b>Del Carmen Zorrilla, Ray Alessandro </b><br>
+        - La coordinación y comunicación efectiva del equipo nos permitieron establecer con éxito todos los elementos necesarios para llevar a cabo el primer avance de la Aplicación Web Frontend, demostrando nuestro compromiso con la entrega exitosa del proyecto.
+        <br><br>
         <b>Alejo Cardenas, Luis Angel</b><br>
         - Vue y su documentación nos ayudó a agilizar el proceso de implementación de cada apartado del Front-End acorde a nuestros MocksUp
         <br><br>
@@ -309,6 +312,9 @@ del ABET – EAC - Student Outcome 5.
         TP1<br><br>
         <b>Checa Apolinario, Paolo Sebastián</b><br>
         - Plasmamos nuestros Mock-ups en nuestro desarrollo de Front-End, respetando las convenciones establecidas en el proyecto.
+        <br><br>
+         <b>Del Carmen Zorrilla, Ray Alessandro </b><br>
+        - La exitosa implementación de los user stories seleccionados durante el sprint en nuestra Aplicación Web Frontend demuestra nuestro enfoque en la ejecución efectiva de nuestro plan y en la entrega de una solución que realmente aborda las necesidades del sector con falta de apoyo.
         <br><br>
         <b>Alejo Cardenas, Luis Angel</b><br>
         - Implementé la sección universidades y sus funcionalidades, la cual sería el filtro de búsqueda.
