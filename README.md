@@ -8,7 +8,7 @@
     <strong>Ingeniería de Software - 5to Ciclo</strong><br>
     <strong>Aplicaciones Web - WS52</strong><br>
     <strong>Profesor: Juan Carlos Tinoco Licas</strong><br>
-    <br>INFORME DE TRABAJO FINAL - TB1
+    <br>INFORME DE TRABAJO FINAL - TP1
 </p>
 
 <p align="center">
@@ -47,21 +47,22 @@
 </div>
 <br>
 
-### <center>Ciclo: 2023-02 | Agosto, 2023</center>
+### <center>Ciclo: 2023-02 | Septiembre, 2023</center>
 <br><br>
 
 # Registro de Versiones del Informe
 
 | Versión | Fecha | Autor | Descripción de modificación | 
 |:-------:|:-----:|:-----:|:----------------------------| 
-|TB1|05/09/2023|  Todos los integrantes del equipo|Se definió la propuesta de solución, análisis Lean UX, definición de segmento objetivo, se recogieron los requisitos necesarios para la creación de las herramientas necesarias (User Persons, User stories, Product Backlog, Impact Mapping , entre otros). Luego, se diseñó los mockups y prototipos de la landing page en base a la información obtenida. Finalmente se realizó la landing page con ayuda del sprint backlog para tener un control de los avances.| 
+|TB1|05/09/2023|  Todos los integrantes del equipo | Se definió la propuesta de solución, análisis Lean UX, definición de segmento objetivo, se recogieron los requisitos necesarios para la creación de las herramientas necesarias (User Persons, User stories, Product Backlog, Impact Mapping , entre otros). Luego, se diseñó los mockups y prototipos de la landing page en base a la información obtenida. Finalmente se realizó la landing page con ayuda del sprint backlog para tener un control de los avances.|
+| TP1 | 25/09/2023 | Todos los integrantes del equipo | Se realizaron los puntos del capítulo V: Sprint 2, Sprint Planning 2, Sprint Backlog 2, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint.
 
 
 <br><br>
 
 # Project Report Collaboration Insights
 
-- TB1: Para esta entrega, realizamos como equipo las actividades correspondientes a los capítulos asignados en el siguiente repositorio dentro de nuestra organización de grupo:
+- **TB1:** Para esta entrega, realizamos como equipo las actividades correspondientes a los capítulos asignados en el siguiente repositorio dentro de nuestra organización de grupo:
 
     Link del repositorio del Informe Final: [Github - Informe Final StudiStay](https://github.com/StudiStay-AplicacionesWeb-WS52/Informe-Final)
 
@@ -75,15 +76,48 @@
     - Capítulo IV: Product Design
     - Capítulo V: Product Implementation, Validation & Deployment
 
+    <br>
+
     <div align=center>
       <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1149763631228141608/image.png"/>      
     </div>
+
+    <br>
 
     <div align=center>
       <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1149763850263080960/image.png"/>
     </div>
 
 <br><br>
+
+- **TP1:** Para esta entrega, realizamos como equipo las actividades correspondientes al capítulo asignado en el siguiente repositorio dentro de nuestra organización de grupo:
+
+    Link del repositorio del Informe Final: [Github - Informe Final StudiStay](https://github.com/StudiStay-AplicacionesWeb-WS52/Informe-Final)
+
+    <br>
+
+    A continuación, se muestran las capturas de evidencia correspondientes al desarrollo de los siguientes puntos:
+
+    - Sprint 2
+    - Sprint Planning 2
+    - Sprint Backlog 2
+    - Development Evidence for Sprint Review
+    - Testing Suite Evidence for Sprint Review
+    - Execution Evidence for Sprint Review
+    - Services Documentation Evidence for Sprint Review
+    - Software Deployment Evidence for Sprint Review
+    - Team Collaboration Insights during Sprint
+
+    <br>
+
+    <div align=center>
+      <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1156352703425949817/image.png"/>      
+    </div>
+
+
+<br><br>
+
+    
 
 # Contenido
 
@@ -172,6 +206,7 @@
   - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
   - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
 - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
+
   - [5.2.1. Sprint 1](#521-sprint-1)
     - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
     - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
@@ -181,6 +216,16 @@
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+
+    - [5.2.2. Sprint 2](#522-sprint-2)
+    - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+    - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
+    - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+    - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+    - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+    - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+    - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+    - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
 
 ### [Conclusiones](#conclusiones)
 
@@ -207,10 +252,10 @@ del ABET – EAC - Student Outcome 5.
   <tr>
     <td><b>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.</b></td>
     <td> TB1<br><br>
-         <b>Checa Apolinario, Paolo Sebastián </b><br>
+        <b>Checa Apolinario, Paolo Sebastián </b><br>
         - Realizamos la planificación necesaria para formar de manera efectiva el plan de desarrollo de nuestra solución.
         <br><br> 
-         <b>Del Carmen Zorrilla, Ray Alessandro </b><br>
+        <b>Del Carmen Zorrilla, Ray Alessandro </b><br>
         - Trabajamos en equipo para repartirnos todos los puntos de la entrega, llevar a cabo una lluvia de ideas y colaborar de manera efectiva en cada fase del proyecto.
         <br><br>
         <b>Alejo Cardenas, Luis Angel </b><br>
@@ -220,10 +265,29 @@ del ABET – EAC - Student Outcome 5.
         - Colaboramos con los miembros del equipo para acordar cómo serán los prototipos, íconos y otros diseños.
         <br><br>
         <b>Yance Gutierrez, Franco Felix </b><br>
-        - Realicé Empathy Mapping, As-is Scenario Mapping y To-Be Scenario Mapping para comprender las necesidades de los usuarios y definir la dirección del proyecto, garantizando una experiencia centrada en el usuario.
+        - Realicé Empathy Mapping, As-is Scenario Mapping y To-Be Scenario Mapping para comprender las necesidades de los usuarios y definir la dirección del proyecto, garantizando una experiencia centrada en el usuario.<br><br> 
+        TP1<br><br>
+        <b>Checa Apolinario, Paolo Sebastián</b><br>
+        - Vue nos permite realizar la parte Front-End de nuestro servicio, con diversos componentes con los que podemos desarrollar las funcionalidades necesarias.
+        <br><br>
+        <b>Alejo Cardenas, Luis Angel</b><br>
+        - Vue y su documentación nos ayudó a agilizar el proceso de implementación de cada apartado del Front-End acorde a nuestros MocksUp
+        <br><br>
+        <b>Ortega Vélez, Jamutaq Piero</b><br>
+        - Se realizaron las interfaces y componentes de la aplicación web con ayuda del catálogo de componentes PrimeVue, el cual facilitó la parte de los estilos y se hizo más enfoque en la parte lógica.
+        <br><br>
+        <b>Yance Gutierrez, Franco Felix</b><br>
+        - Vue nos permitió realizar las views de nuestra plataforma en la cual destacaron login, post, universities, details y profile.
+        <br><br>
+        <b>Del Carmen Zorrilla, Ray Alessandro</b><br>
+        -
+    
+        
    </td>
     <td>TB1<br><br>
-    Elegimos un servicio acerca de renta de habitaciones para estudiantes, en el cual desarrollamos el problem statement y las hypothesis statements para dimensionar el desarrollo y solución de la problemática.</td>
+    Elegimos un servicio acerca de renta de habitaciones para estudiantes, en el cual desarrollamos el problem statement y las hypothesis statements para dimensionar el desarrollo y solución de la problemática. <br><br> TP1 <br><br> Realizamos la implementación de nuestro Front-End utilizando el framework Vue.
+    </td>
+    
   </tr>
   <tr>
     <td><b>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.</b></td>
@@ -241,10 +305,27 @@ del ABET – EAC - Student Outcome 5.
         - Se realizó la elaboración de los prototipos según las propuestas realizadas por los usuarios en las entrevistas y lo acordado con el grupo.
         <br><br>
         <b>Yance Gutierrez, Franco Felix </b><br>
-        - Realizamos una investigación exhaustiva de nuestros segmentos objetivos para garantizar que nuestra aplicación satisfaga sus necesidades. Además, realicé una entrevista con un miembro de uno de los segmentos para obtener información clave para el proyecto.
+        - Realizamos una investigación exhaustiva de nuestros segmentos objetivos para garantizar que nuestra aplicación satisfaga sus necesidades. Además, realicé una entrevista con un miembro de uno de los segmentos para obtener información clave para el proyecto.<br><br>
+        TP1<br><br>
+        <b>Checa Apolinario, Paolo Sebastián</b><br>
+        - Plasmamos nuestros Mock-ups en nuestro desarrollo de Front-End, respetando las convenciones establecidas en el proyecto.
+        <br><br>
+        <b>Alejo Cardenas, Luis Angel</b><br>
+        - Implementé la sección universidades y sus funcionalidades, la cual sería el filtro de búsqueda.
+        <br><br>
+        <b>Ortega Vélez, Jamutaq Piero</b><br>
+        - Me encargué de implementar el listado de posts de las habitaciones y también el diseño de la aplicación web.
+        <br><br>
+        <b>Yance Gutierrez, Franco Felix</b><br>
+        - Implementé los detalles a la vista  post-list, la cual muestra información más detallada de las ofertas.
+        <br><br>
+        <b>Del Carmen Zorrilla, Ray Alessandro</b><br>
+        -
+
    </td>
     <td>TB1<br><br>
-    Recopilamos información necesaria para poder hacer frente a los competidores y ofrecer un producto novedoso basado en la tecnología.</td>
+    Recopilamos información necesaria para poder hacer frente a los competidores y ofrecer un producto novedoso basado en la tecnología. <br><br> TP1 <br><br> Reunimos información para realizar el despliegue automático de nuestro desarrollo Front-End.
+    </td>
   </tr>
 </table>
 
@@ -395,7 +476,7 @@ StudiStay no solo cambiará cómo los estudiantes encuentran alojamiento, sino q
     </tr>
     <tr align="center">
         <td rowspan="4">
-            <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1156237601515257936/WIN_20230926_09_34_37_Pro.jpg?ex=65143dae&is=6512ec2e&hm=2f2f4ca4eb6d32e2a58e59769bf7fb2cddd0e4a705f02dc06dba20d89a714a02&" alt="Integrante5" style="margin-bottom: 5px;" width="600"/>
+            <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1156251884647092394/WIN_20230926_09_34_37_Pro.jpg" alt="Integrante5" style="margin-bottom: 5px;" width="600"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -489,21 +570,21 @@ A los estudiantes de universidades e institutos se les presentan dificultades al
 * User assumptions:
 
   - <b>¿Quién es el usuario?</b>
-    <br>Los usuarios interesados en la aplicación son aquellos que buscan un lugar donde poder descansar o aquellos que viven lejos de la universidad y desean pasar la noche en un lugar cercano a la universidad sin tener que preocuparse por el largo trayecto a su casa el cual le facilita y ahorra tiempo para eventos importantes como un examen a primera hora. Además, de personas que tienen su casa cerca a la universidad y deseen compartir una habitación para obtener ingresos extra. Nuestros usuarios son: estudiantes de educación superior de entre 18 a 29 años y personas propietarias de casas o departamentos.
+    <br>Los usuarios interesados en la aplicación son aquellos que buscan un lugar donde poder descansar o aquellos que viven lejos de la universidad y desean pasar la noche en un lugar cercano a la universidad sin tener que preocuparse por el largo trayecto a su casa el cual le facilita y ahorra tiempo para eventos importantes como un examen a primera hora. Además, de personas que tienen su casa cerca a la universidad y deseen compartir una habitación para obtener ingresos extra. Nuestros usuarios son: estudiantes de educación superior de entre 18 a 29 años y personas propietarias de casas o departamentos.<br><br>
 
   - <b>¿Dónde encaja nuestro producto en su trabajo o vida?</b>
-    <br>Nuestra aplicación es aplicable principalmente en los períodos académicos. Puesto que, en su gran mayoría los servicios tienen gran demanda cuando hay clases y/o exámenes. 
+    <br>Nuestra aplicación es aplicable principalmente en los períodos académicos. Puesto que, en su gran mayoría los servicios tienen gran demanda cuando hay clases y/o exámenes.<br><br>
 
   - <b>¿Qué problema tiene nuestro producto? ¿Cómo se resuelve?</b>
-    <br>El problema que aborda nuestro producto es la dificultad de encontrar alojamiento conveniente y seguro para estudiantes durante períodos académicos. Se resuelve al proporcionar una plataforma que conecta estudiantes con habitaciones disponibles cercanas a instituciones educativas. Esto brinda a los estudiantes opciones asequibles y cómodas, y permite a los propietarios generar ingresos adicionales al alquilar sus habitaciones.
+    <br>El problema que aborda nuestro producto es la dificultad de encontrar alojamiento conveniente y seguro para estudiantes durante períodos académicos. Se resuelve al proporcionar una plataforma que conecta estudiantes con habitaciones disponibles cercanas a instituciones educativas. Esto brinda a los estudiantes opciones asequibles y cómodas, y permite a los propietarios generar ingresos adicionales al alquilar sus habitaciones.<br><br>
 
   - <b>¿Cuándo y cómo es usado nuestro producto?</b>
-    <br>Nuestro producto se emplea en épocas académicas, cuando la demanda de alojamiento es alta. Los estudiantes encuentran habitaciones cercanas para descansar entre clases y estudiar, asegurando tranquilidad para los exámenes. Los propietarios publican habitaciones disponibles, generando ingresos extra. La app optimiza la experiencia de búsqueda y oferta de alojamiento, siendo eficaz y beneficiando a ambas partes. 
+    <br>Nuestro producto se emplea en épocas académicas, cuando la demanda de alojamiento es alta. Los estudiantes encuentran habitaciones cercanas para descansar entre clases y estudiar, asegurando tranquilidad para los exámenes. Los propietarios publican habitaciones disponibles, generando ingresos extra. La app optimiza la experiencia de búsqueda y oferta de alojamiento, siendo eficaz y beneficiando a ambas partes.<br><br>
 
-  - ¿Qué características son importantes?
-    <br>La característica más importante son las sugerencias basadas en los intereses y cercanía del usuario, así como también el ofrecer otros servicios de gran importancia.
+  - <b>¿Qué características son importantes?</b>
+    <br>La característica más importante son las sugerencias basadas en los intereses y cercanía del usuario, así como también el ofrecer otros servicios de gran importancia.<br><br>
 
-  - ¿Cómo debe verse nuestro producto y comportarse?
+  - <b>¿Cómo debe verse nuestro producto y comportarse?</b>
     <br>Nuestro producto debe cumplir con su propósito sin falla alguna. El producto debe tener un uso intuitivo, ágil y eficiente. 
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
@@ -1522,6 +1603,29 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
         </tr>
     </tbody>
 </table>
+<br>
+<table align="center"  border="1" width="70%" style="text-align:center;">
+    <tbody >
+        <tr>
+            <td style="background-color: #ccc;">HU:</td>
+            <td>US17 </td>
+            <td style="background-color: #ccc;">Título:</td>
+            <td style="text-align:left;"> Gestionar publicaciones realizadas </td>
+        </tr>
+        <tr>
+            <td style="background-color: #ccc;">Usuario:</td>
+            <td colspan="3" style="text-align:left;"> Arrendador </td>
+        </tr>
+        <tr>
+            <td style="background-color: #ccc;">Descripción</td>
+            <td colspan="3" style="text-align:left;"><b>Como</b> arrendador <b>quiero</b> ver las publicaciones que he realizado <b>para</b> poder gestionar mis habitaciones de manera eficiente. </td>
+        </tr>
+        <tr>
+            <td style="background-color: #ccc;">Criterios de aceptación</td>
+            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Ver publicaciones</em><br><span style="color:red">Dado</span></b> que el usuario arrendador ha iniciado sesión y quiere ver sus publicaciones <br><b><span style="color:red">Cuando</span></b> hace clic en “Ver mis Publicaciones” <br><b><span style="color:red">Entonces</span></b> el sistema le muestra un listado con todas sus publicaciones <br><b><span style="color:red">Y</span></b> el arrendador puede ver los detalles de cada publicación, como fotos y descripción. <br><br><b><em>Escenario 2: Editar publicación</em><br><span style="color:red">Dado</span></b> que el usuario arrendador se encuentra viendo sus publicaciones <br><b><span style="color:red">Y</span></b> tiene una publicación registrada en el sistema <br><b><span style="color:red">Cuando</span></b> hace clic en la opción “Editar Publicación” <br><b><span style="color:red">Y</span></b> realiza las modificaciones necesarias <br><b><span style="color:red">Y</span></b> le da clic en guardar cambios<br><b><span style="color:red">Entonces </span></b> el sistema guarda los cambio y actualiza la publicación con la nueva información<br><b><span style="color:red">Y</span></b> muestra un mensaje de confirmación al arrendador.<br><br><b><em>Escenario 3: Eliminar publicación</em><br><span style="color:red">Dado</span></b> que el usuario arrendador ha iniciado sesión en su cuenta <br><b><span style="color:red">Y</span></b> tiene una publicación de habitación registrada en el sistema <br><b><span style="color:red">Cuando</span></b> hace clic en la opción “Eliminar publicación” <br><b><span style="color:red">Y</span></b> hace clic en el botón “Confirmar” <br><b><span style="color:red">Entonces</span></b> el sistema elimina la publicación<br><b><span style="color:red"> Y </span></b>muestra un mensaje de confirmación.</td>
+        </tr>
+    </tbody>
+</table>
 
 ## 3.3. Impact Mapping
 
@@ -1549,6 +1653,7 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
 |14|HU14|Filtro de búsqueda|Como estudiante quiero usar filtros de búsqueda en la app para poder encontrar las habitaciones que me interesan|8|
 |15|HU15|Colocar reseña y puntuar habitación|Como estudiante quiero escribir una reseña y puntuar a la habitación para que otros estudiantes sepan si la habitación vale la pena o no.|5|
 |16|HU16|Editar o borrar reseña|Como estudiante quiero editar o borrar una de mis reseñas para corregir un error o eliminar la reseña.|2|
+|17|HU17|Gestionar publicaciones realizadas|Como arrendador quiero ver las publicaciones que he realizado para poder gestionar mis habitaciones de manera eficiente.|5|
 
 # Capítulo IV: Product Design
 
@@ -1557,13 +1662,13 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
 ### 4.1.1. General Style Guidelines.
 En esta sección se analizará los diseños que se consideraron para nuestra marca. Debido a que es importante expresar las intenciones que tenemos con nuestros clientes. Además, se tendrá en cuenta que la tipografía y composición adopten un tono Casual/Formal, esto teniendo en cuenta nuestro público objetivo.
 
-**-Logo:** 
+**- Logo:** 
 Nuestro logo está conformado por dos imágenes principales, las cuales son una casa y un árbol, esto hace referencia al servicio que se está brindando (el cual es la renta de habitaciones). Los colores usados fueron derivados del azul y blanco, el cual crea una paleta de colores que hace alusión a la paz, tranquilidad y seriedad, y refuerza la confianza de nuestros usuarios en el servicio que se brindará.
 <div align=center>
     <img src="https://media.discordapp.net/attachments/1146490170917535764/1147743612243824691/logo.JPG" alt="Logo"  width="100%"/>
 </div>
 
-**-Tipografía:**
+**- Tipografía:**
 Se requirió dos tipos de tipografías claras, legibles y fáciles de leer en diferentes dispositivos. Fueron seleccionadas Poppins y Jost.
 
 
@@ -1571,7 +1676,7 @@ Se requirió dos tipos de tipografías claras, legibles y fáciles de leer en di
     <img src="https://media.discordapp.net/attachments/1146490170917535764/1148338251543888053/Captura_de_pantalla_2023-09-04_142543.jpg" alt="cuadro01"  width="100%"/>
 </div>
 
-**-Colores empleados:**
+**- Colores empleados:**
 Para la elección de colores, se tuvo en cuenta el propósito de la aplicación y el servicio y lo que esta debería transmitir al usuario. 
 
 <div align=center>
@@ -2578,16 +2683,164 @@ Para la realización de los commits de nuestro primer Sprint, hemos hecho uso de
 
 <br><br>
 
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2.
+
+| Sprint 2                         | Implementación de la primera versión del Front-End                                                                                    |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint Planning Background**       |
+| Date                             | 24/09/2023                                                                                                                                      |
+| Time                             | 17:00                                                                                                                                           |
+| Location                         | Reunión realizada mediante Discord                                                                                                              |
+| Prepared By                      | Checa Apolinario, Paolo Sebastián                                                                                                               |
+| Attendees  (to planning meeting) | Checa Apolinario, Paolo Sebastián / Alejo Cardenas, Luis Angel / Ortega Vélez, Jamutaq Piero / Yance Gutierrez, Franco Felix / Del Carmen Zorrilla, Ray Alessandro |
+| **Sprint Goal & User Stories**   |
+| Sprint 2 Goal                    | Realizar y desplegar el Front-End                                                                                                            |
+| Sprint 2 Velocity                | 75                                                                                                                                              |
+| Sum of Story Points              | 73                                                                                                                                              |
+
+
+#### 5.2.2.2. Sprint Backlog 2.
+
+| id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
+| ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
+| SSF01 | View Login    | SF01 | View Login (Desarrollado con el Framework Vue)         | Desarrollo e implementación de la vista Login, con sus estilos correspondientes       | 5                  | Paolo Checa  | Done                                   |
+| SSF02 | View Register    | SF02 | View Register (Desarrollado con el Framework Vue)         | Desarrollo e implementación de la vista Register, con sus estilos correspondientes   | 5                  | Paolo Checa | Done                                   |
+| SSF03 | View Universities          | SF03 | View Universities (Desarrollado con el Framework Vue)                             | Desarrollo e implementación de la vista Universities, con sus estilos correspondientes           | 5                  | Luis Alejo   | Done                                   |
+| SSF04 | View Profile    | SF04 | View Profile (Desarrollado con el Framework Vue)                             | Desarrollo e implementación de la vista Profile, con sus estilos correspondientes    | 5                  | Ray Del Carmen  | Done                                   |
+| SSF05 | View Publicaciones           | SF05 | View Publicaciones (Desarrollado con el Framework Vue)        | Desarrollo e implementación de la vista Publicaciones, con sus estilos correspondientes    | 5                  | Jamutaq Ortega   | Done                                   |
+| SSF06 | View Detalles | SF06 | View Detalles (Desarrollado con el Framework Vue)      | Desarrollo e implementación de la vista Detalles, con sus estilos correspondientes | 5                  | Franco Yance  | Done                                   |
+| SSF07 | Función Crear Publicación     | SF07 | Función Crear Publicación (Desarrollado con el Framework Vue) | Desarrollo e implementación de la función Crear Publicación, con sus estilos correspondientes  | -                  | Jamutaq Ortega | In process                                   |
+| SSF08 | Función Ver Publicaciones creadas    | SF08 | Función Ver Publicaciones creadas (Desarrollado con el Framework Vue)                       | Desarrollo e implementación de la función Ver Publicaciones creadas, con sus estilos correspondientes                                        | -                  | Ray Del Carmen   | In process                                   |
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1155928531050700830/image.png">
+
+</div>
+
+Link del trello: https://trello.com/b/3U5pwa3R/sprint-2
+
+#### 5.2.2.3. Development Evidence for Sprint Review.
+
+| Repository   | Branch                                      | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
+| ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
+| studistay-app | feature/login-register | b08a8da   | feature: log in and register | -                   | 22/09/2023         |
+| studistay-app | feature/post-list                    | 29fcb1b   | feat: post list      | -                   | 21/09/2023         |
+| studistay-app | feature/universities                            | 7eaa491   | feature: universities                | -                   | 23/09/2023         |
+| studistay-app | feature/user-profile                               | db2b219   | feat: user profile added                   | -                   | 23/09/2023         |
+| studistay-app | feature/details                         | 73622c5   | feature: details             | -                   | 26/09/2023         |
+
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+
+A continuación, se muestra la evidencia en forma de capturas sobre el testeo de nuestro Front-End.
+
+Tenemos la compilación en consola, la cual se completó satisfactoriamente.
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1156320788471881760/image.png">
+
+</div>
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1156320874492854414/image.png">
+
+</div>
+
+<br>
+
+Tenemos nuestro localhost, el cual se muestra correctamente de acuerdo a lo que se ha desarrollado.
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1156321066285801582/image.png">
+
+</div>
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1156321105955524668/image.png">
+
+</div>
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1156321146006933567/image.png">
+
+</div>
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1156400880090886164/image.png">
+
+</div>
+
+Link al video: [Ver video de Ejecución del Front-End](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/ERWw4oLHJ5NNtplP56z1DpABqvRyTwf3ph1FUO8hmBNzog?e=TEaDSq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+| Endpoint | Detalles |
+| - | - | 
+| / (default) | En esta ruta se muestra la primera vista del servicio, la cual es el login o registro de usuario | 
+| /register | En esta ruta se muestran el registro de usuarios | 
+| /posts  | En esta ruta se muestra la pantalla relacionada a las publicaciones de habitaciones disponibles | 
+| /details  | En esta ruta se muestra la pantalla relacionada a los detalles de la habitación seleccionada | 
+| /universities  | En esta ruta se muestra la pantalla relacionada a las universidades a la que el usuario pueda ser integrante |
+| /profile | En esta ruta se muestra la pantalla relacionada al perfil del usuario |
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+Para realizar el despliegue automático de nuestro Front-End, utilizamos la herramienta Vercel, la cual nos permite realizar el despliegue de manera sencilla y rápida, además de no generar errores en la compilación, por lo que podemos generar una página web. El link de nuestro Front-End es el siguiente: https://studistay-app.vercel.app 
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+Para la realización de los commits de nuestro segundo Sprint, utilizamos los IDEs Webstorm y Visual Studio Code, además del uso de Git. Uno de los integrantes realizó un primer commit para la creación del repositorio, luego utilizando Git clonamos el repositorio, para luego realizar los cambios y crear los branches correspondientes a dichos cambios, para finalmente realizar el commit, el cual deberá ser revisado dentro del repositorio de Github.
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1156326411095781496/image.png">
+
+</div>
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1156326579853602866/image.png">
+
+</div>
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1156326658362589235/image.png">
+
+</div>
+
 # Conclusiones 
 
--   Realizar el análisis de competidores nos permite conocer nuestras fortalezas y debilidades, para finalmente ofrecer al público un servicio que cumpla con sus necesidades. 
+-   Realizar el análisis de competidores nos permite conocer nuestras fortalezas y debilidades, para finalmente ofrecer al público un servicio que cumpla con sus necesidades.<br><br>
 
--   Las User Stories nos permiten estar en el lugar de los usuarios, para poder comprender exactamente lo que buscan de un servicio novedoso que pueda satisfacer las dificultades que se les presenta.
+-   Las User Stories nos permiten estar en el lugar de los usuarios, para poder comprender exactamente lo que buscan de un servicio novedoso que pueda satisfacer las dificultades que se les presenta.<br><br>
 
--   Las entrevistas con nuestros segmentos objetivos han sido esenciales para nuestro proyecto. Nos brindaron información valiosa, ayudaron a comprender las necesidades y emociones de nuestros usuarios, y nos inspiraron a diseñar una aplicación que va más allá de las expectativas funcionales. Estamos comprometidos en aplicar estas percepciones para crear una solución que tenga un impacto positivo en la vida de nuestros usuarios.
+-   Las entrevistas con nuestros segmentos objetivos han sido esenciales para nuestro proyecto. Nos brindaron información valiosa, ayudaron a comprender las necesidades y emociones de nuestros usuarios, y nos inspiraron a diseñar una aplicación que va más allá de las expectativas funcionales. Estamos comprometidos en aplicar estas percepciones para crear una solución que tenga un impacto positivo en la vida de nuestros usuarios.<br><br>
 
--   El uso de UXPRESSIA ha sido fundamental en nuestra metodología, proporcionándonos valiosas herramientas como modelos para las personas usuarias y mapas de impacto. Estas herramientas nos han permitido comprender a fondo las necesidades de nuestros usuarios y mapear de manera efectiva cómo nuestro producto puede influir positivamente en sus vidas.
-<br><br>
+-   El uso de UXPRESSIA ha sido fundamental en nuestra metodología, proporcionándonos valiosas herramientas como modelos para las personas usuarias y mapas de impacto. Estas herramientas nos han permitido comprender a fondo las necesidades de nuestros usuarios y mapear de manera efectiva cómo nuestro producto puede influir positivamente en sus vidas.<br><br>
+
+- El framework Vue es una excelente opción para el desarrollo de Front-end debido a su facilidad de uso, su enfoque en la reactividad y la componentización, su creciente ecosistema de herramientas y su rendimiento sólido.<br><br>
+
+- Los elementos de Prime Vue fueron de gran utilidad para poder realizar nuestro Front-End, gracias a la variedad de componentes que ofrece y la forma sencilla en la que se pueden hacer uso, permitiéndonos desarrollar de manera excelente nuestro proyecto.<br><br>
+
+- Para esta entrega se pudo concluir que existen diversas formas de desplegar la aplicación y hacerla pública para todo internet, desde SaaS o IaaS como Amazon Web Services, para este caso se optó por la primera opción usando Vercel debido a su facilidad y rapidez, donde con unos pocos clicks la aplicación se despliega y ya tiene un dominio por defecto.<br><br>
+
+- La documentación de la página de Prime Vue fue de gran utilidad para agilizar y facilitar el proceso de cada apartado del Front-End al igual que las funcionalidades implementadas hasta la presente entrega.<br><br>
+
+- Vue es un framework de Front-end completo y versátil que ofrece una gran variedad de herramientas y recursos para el desarrollo de aplicaciones web, el cual fue esencial en la implementación de las vistas: post-list, profile, universities y details.<br><br>
+
+
+
 
 # Bibliografía
 -   Instituto Nacional de Estadística e Informática. (2014). Encuesta Nacional a Egresados Universitarios y Universidades, 2014. Recuperado de https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1298/Libro.pdf [Consulta: 30/08/2023]
