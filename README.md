@@ -48,7 +48,13 @@
 <br>
 
 ### <center>Ciclo: 2023-02 | Septiembre, 2023</center>
-<br><br>
+<br>
+
+<div align="center">
+
+Link al video de exposición: [Video de exposición TP1 - StudiStay](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124061_upc_edu_pe/ETJ01AyYxpNFoCQVarpkD0EB_v5pYdPzaFBXrpIILOcUbg?e=Zm5YUj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+</div>
 
 # Registro de Versiones del Informe
 
@@ -217,7 +223,7 @@
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 
-    - [5.2.2. Sprint 2](#522-sprint-2)
+  - [5.2.2. Sprint 2](#522-sprint-2)
     - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
     - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
     - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
@@ -225,7 +231,7 @@
     - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
     - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
     - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
-    - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint-2)
 
 ### [Conclusiones](#conclusiones)
 
@@ -281,9 +287,7 @@ del ABET – EAC - Student Outcome 5.
         <br><br>
         <b>Yance Gutierrez, Franco Felix</b><br>
         - Vue nos permitió realizar las views de nuestra plataforma en la cual destacaron login, post, universities, details y profile.
-        <br><br>
-        <b>Del Carmen Zorrilla, Ray Alessandro</b><br>
-        -
+        <br>
     
         
    </td>
@@ -304,7 +308,7 @@ del ABET – EAC - Student Outcome 5.
         <b>Alejo Cardenas, Luis Angel </b><br>
         - Realicé una entrevista a un miembro de uno de los segmentos objetivos con el fin de obtener información relevante para la realización de algunos de los puntos del trabajo.
         <br><br> 
-        <b>Ortega Vélez, Jamutaq Piero </b>
+        <b>Ortega Vélez, Jamutaq Piero </b><br>
         - Se realizó la elaboración de los prototipos según las propuestas realizadas por los usuarios en las entrevistas y lo acordado con el grupo.
         <br><br>
         <b>Yance Gutierrez, Franco Felix </b><br>
@@ -324,9 +328,7 @@ del ABET – EAC - Student Outcome 5.
         <br><br>
         <b>Yance Gutierrez, Franco Felix</b><br>
         - Implementé los detalles a la vista  post-list, la cual muestra información más detallada de las ofertas.
-        <br><br>
-        <b>Del Carmen Zorrilla, Ray Alessandro</b><br>
-        -
+        <br>
 
    </td>
     <td>TB1<br><br>
@@ -2803,7 +2805,7 @@ Link al video: [Ver video de Ejecución del Front-End](https://upcedupe-my.share
 
 Para realizar el despliegue automático de nuestro Front-End, utilizamos la herramienta Vercel, la cual nos permite realizar el despliegue de manera sencilla y rápida, además de no generar errores en la compilación, por lo que podemos generar una página web. El link de nuestro Front-End es el siguiente: https://studistay-app.vercel.app 
 
-#### 5.2.2.8. Team Collaboration Insights during Sprint.
+#### 5.2.2.8. Team Collaboration Insights during Sprint 2.
 
 Para la realización de los commits de nuestro segundo Sprint, utilizamos los IDEs Webstorm y Visual Studio Code, además del uso de Git. Uno de los integrantes realizó un primer commit para la creación del repositorio, luego utilizando Git clonamos el repositorio, para luego realizar los cambios y crear los branches correspondientes a dichos cambios, para finalmente realizar el commit, el cual deberá ser revisado dentro del repositorio de Github.
 
@@ -2849,13 +2851,12 @@ Para la realización de los commits de nuestro segundo Sprint, utilizamos los ID
 
 
 # Bibliografía
--   Instituto Nacional de Estadística e Informática. (2014). Encuesta Nacional a Egresados Universitarios y Universidades, 2014. Recuperado de https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1298/Libro.pdf [Consulta: 30/08/2023]
+-   Instituto Nacional de Estadística e Informática. (2014). Encuesta Nacional a Egresados Universitarios y Universidades, 2014. Recuperado de https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1298/Libro.pdf [Consulta: 30/08/2023] <br><br>
 
--   Instituto Nacional de Estadística e Informática. (2020). El 27,2% de la población de 15 y más años de edad fue víctima de algún hecho delictivo en el semestre agosto 2019-enero 2020. Recuperado de https://m.inei.gob.pe/prensa/noticias/el-272-de-la-poblacion-de-15-y-mas-anos-de-edad-fue-victima-de-algun-hecho-delictivo-en-el-semestre-agosto-2019-enero-2020-12102/ [Consulta: 30/08/2023]
+-   Instituto Nacional de Estadística e Informática. (2020). El 27,2% de la población de 15 y más años de edad fue víctima de algún hecho delictivo en el semestre agosto 2019-enero 2020. Recuperado de https://m.inei.gob.pe/prensa/noticias/el-272-de-la-poblacion-de-15-y-mas-anos-de-edad-fue-victima-de-algun-hecho-delictivo-en-el-semestre-agosto-2019-enero-2020-12102/ [Consulta: 30/08/2023] <br><br>
+-   Microsoft Learn. (2023). Common C# code conventions. Recuperado de https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions [Consulta: 28/08/2023] <br><br>
 
--   Microsoft Learn. (2023). Common C# code conventions. Recuperado de https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions [Consulta: 28/08/2023]
-
--   .NET Platform. (2022). Engineering guidelines: Coding guidelines. Recuperado de https://github.com/dotnet/aspnetcore/wiki/Engineering-guidelines#coding-guidelines [Consulta: 28/08/2023] 
+-   .NET Platform. (2022). Engineering guidelines: Coding guidelines. Recuperado de https://github.com/dotnet/aspnetcore/wiki/Engineering-guidelines#coding-guidelines [Consulta: 28/08/2023] <br><br>
 
 -   Vue.js. (2023). Style Guide. Recuperado de https://v2.vuejs.org/v2/style-guide/ [Consulta: 28/08/2023]
 <br><br>
