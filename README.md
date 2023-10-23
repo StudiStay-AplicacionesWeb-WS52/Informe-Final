@@ -1201,21 +1201,21 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
     <tbody style="text-align:left;">
         <tr>
             <td rowspan="4">E03</td>
-            <td rowspan="4"><b>Funciones de arrendador<br>Como</b> arrendador <b>quiero</b> gestionar todas mis habitaciones que alquilo y contactarme con el estudiante en la app <b>para</b> facilitar la búsqueda de inquilinos y medios de publicación.</td>
+            <td rowspan="4"><b>Funciones de arrendador<br>Como</b> arrendador <b>quiero</b> crear, visualizar, editar y borrar publicaciones <b>para</b> gestionar todas mis habitaciones que alquilo.</td>
             <td style="background-color: #fce5cd;">US09</td>
             <td>Crear publicación</td>
         </tr>
         <tr>
             <td style="background-color: #fce5cd;">US10</td>
-            <td>Editar o borrar una publicación</td>
+            <td>Visualizar publicación</td>
         </tr>
         <tr>
             <td style="background-color: #fce5cd;">US11</td>
-            <td>Suscripción</td>
+            <td>Editar una publicación</td>
         </tr>
         <tr>
             <td style="background-color: #fce5cd;">US12</td>
-            <td>Prioridad de publicación</td>
+            <td>Borrar una publicación</td>
         </tr>
     </tbody>
     <tbody style="text-align:left;">
