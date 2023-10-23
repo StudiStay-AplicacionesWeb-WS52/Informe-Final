@@ -1769,6 +1769,7 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
 |15|HU15|Colocar reseña y puntuar habitación|Como estudiante quiero escribir una reseña y puntuar a la habitación para que otros estudiantes sepan si la habitación vale la pena o no.|5|
 |16|HU16|Editar o borrar reseña|Como estudiante quiero editar o borrar una de mis reseñas para corregir un error o eliminar la reseña.|2|
 |17|HU17|Reservar una habitación|Como estudiante quiero reservar una habitación para hospedarme un cierto tiempo cerca de mi universidad o instituto.|5|
+|18|HU18|Añadir método de pago|Como estudiante quiero añadir algún método de pago para efectuar el pago de mi reserva.|5|
 
 # Capítulo IV: Product Design
 
