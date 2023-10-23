@@ -1505,7 +1505,7 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
             <td style="background-color: #ccc;">HU:</td>
             <td>US11 </td>
             <td style="background-color: #ccc;">Título:</td>
-            <td style="text-align:left;"> Suscripción </td>
+            <td style="text-align:left;"> Editar una publicación </td>
         </tr>
         <tr>
             <td style="background-color: #ccc;">Usuario:</td>
@@ -1513,11 +1513,11 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
         </tr>
         <tr>
             <td style="background-color: #ccc;">Descripción</td>
-            <td colspan="3" style="text-align:left;"><b>Como</b> arrendador <b>quiero</b> adquirir o conocer los beneficios de un plan <b>para</b> que mi alcance de publicaciones sea más efectiva o evaluar las ventajas de tener un plan. </td>
+            <td colspan="3" style="text-align:left;"><b>Como</b> arrendador <b>quiero</b> amodificar o editar una publicació <b>para</b> corregir uno o varios errores o actualizar la información de la publicación. </td>
         </tr>
         <tr>
             <td style="background-color: #ccc;">Criterios de aceptación</td>
-            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Arrendador sin un plan</em><br><span style="color:red">Dado</span></b> que el usuario arrendador no cuenta con un plan <br><b><span style="color:red">Cuando</span></b> le de click a su perfil <br><b><span style="color:red">Y</span></b> seleccione la opción “Mi plan” <br><b><span style="color:red">Entonces</span></b> visualiza cuáles son las características de su plan gratuito por ejemplo, número de publicaciones limitados, publicaciones sin posicionamiento, entre otras. <br><br><b><em>Escenario 2: Arrendador con un plan</em><br><span style="color:red">Dado</span></b> que el usuario arrendador cuenta con un plan <br><b><span style="color:red">Cuando</span></b> le de click a su perfil  <br><b><span style="color:red">Y</span></b> seleccione la opción “Mi plan” <br><b><span style="color:red">Entonces</span></b> visualiza cuáles son las características de su plan de pago, por ejemplo número de publicaciones ilimitadas, publicaciones con buen posicionamiento, entre otros.</td>
+            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Editar mi publicación</em><br><span style="color:red">Dado</span></b> que el usuario arrendador quiere editar una de sus publicaciones <br><b><span style="color:red">Cuando</span></b> se encuentre la sección mis publicaciones <br><b><span style="color:red">Y</span></b> le de click al icono de un lápiz al lado de la publicación que deseé editar <br><b><span style="color:red">Entonces</span></b> podrá modificar la información o agregar o quitar fotos de la publicación.  <br><br><b><em>Escenario 2: Cancelar edición de mi publicación</em><br><span style="color:red">Dado</span></b> que el usuario arrendador por error le dió a editar una de sus publicaciones <br><b><span style="color:red">Cuando</span></b> se encuentre dentro de la pantalla de modificación  <br><b><span style="color:red">Y</span></b>  le de click al botón cancelar <br><b><span style="color:red">Entonces</span></b> ninguna modificación será efectuada.</td>
         </tr>
     </tbody>
 </table>
