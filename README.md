@@ -1692,6 +1692,30 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
         </tr>
     </tbody>
 </table>
+<br>
+<table align="center"  border="1" width="70%" style="text-align:center;">
+    <tbody >
+        <tr>
+            <td style="background-color: #ccc;">HU:</td>
+            <td>US19 </td>
+            <td style="background-color: #ccc;">Título:</td>
+            <td style="text-align:left;"> Modificar método de pago </td>
+        </tr>
+        <tr>
+            <td style="background-color: #ccc;">Usuario:</td>
+            <td colspan="3" style="text-align:left;"> Estudiante </td>
+        </tr>
+        <tr>
+            <td style="background-color: #ccc;">Descripción</td>
+            <td colspan="3" style="text-align:left;"><b>Como</b> estudiante  <b>quiero</b> editar un método de pago <b>para</b> actualizar o cambiar el método de pago. </td>
+        </tr>
+        <tr>
+            <td style="background-color: #ccc;">Criterios de aceptación</td>
+            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Editar método de pago</em><br><span style="color:red">Dado</span></b> que el usuario estudiante quiere editar un método de pago
+ <br><b><span style="color:red">Cuando</span></b> se encuentre en la pantalla de elegir método de pago <br><b><span style="color:red">Y</span></b>  le de click al botón editar de uno de sus métodos de pago <br><b><span style="color:red">Entonces </span></b> se le mostrará una pantalla para editar la información del método de pago seleccionado.<br><br><b><em>Escenario 2: Cancelar edición de método de pago</em><br><span style="color:red">Dado</span></b> que el usuario estudiante quiere cancelar la edición de un método de pago
+ <br><b><span style="color:red">Cuando</span></b> se encuentre en la pantalla para editar la información de un método de pago <br><b><span style="color:red">Y</span></b> le de click al botón cancelar <br><b><span style="color:red">Entonces </span></b> se cancelará el proceso para editar un método de pago.</tr>
+    </tbody>
+</table>
 
 ## 3.3. Impact Mapping
 
