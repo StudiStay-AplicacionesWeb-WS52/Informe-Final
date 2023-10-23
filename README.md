@@ -1770,6 +1770,7 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
 |16|HU16|Editar o borrar reseña|Como estudiante quiero editar o borrar una de mis reseñas para corregir un error o eliminar la reseña.|2|
 |17|HU17|Reservar una habitación|Como estudiante quiero reservar una habitación para hospedarme un cierto tiempo cerca de mi universidad o instituto.|5|
 |18|HU18|Añadir método de pago|Como estudiante quiero añadir algún método de pago para efectuar el pago de mi reserva.|5|
+|19|HU19|Modificar método de pago|Como estudiante quiero editar un método de pago para actualizar o cambiar el método de pago|3|
 
 # Capítulo IV: Product Design
 
