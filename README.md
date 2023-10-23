@@ -1238,6 +1238,26 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
             <td>Editar o borrar reseña</td>
         </tr>
     </tbody>
+    <tbody style="text-align:left;">
+        <tr>
+            <td rowspan="4">E05</td>
+            <td rowspan="4"><b>Funciones de pago<br>Como</b> estudiante <b>quiero</b> reservar y realizar mis pagos de manera virtual <b>para</b> efectuar los pagos de mis reservas.</td>
+            <td style="background-color: #fce5cd;">US17</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="background-color: #fce5cd;">US18</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="background-color: #fce5cd;">US19</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="background-color: #fce5cd;">US20</td>
+            <td></td>
+        </tr>
+    </tbody>
 </table>
 <br>
 <table align="center"  border="1" width="70%" style="text-align:center;">
