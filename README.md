@@ -1479,7 +1479,7 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
             <td style="background-color: #ccc;">HU:</td>
             <td>US10 </td>
             <td style="background-color: #ccc;">Título:</td>
-            <td style="text-align:left;"> Editar o borrar una publicación </td>
+            <td style="text-align:left;"> Visualizar publicación </td>
         </tr>
         <tr>
             <td style="background-color: #ccc;">Usuario:</td>
@@ -1487,11 +1487,14 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
         </tr>
         <tr>
             <td style="background-color: #ccc;">Descripción</td>
-            <td colspan="3" style="text-align:left;"><b>Como</b> arrendador <b>quiero</b> editar o borrar una de mis publicaciones <b>para</b> arreglar un error o que la habitación ya tiene inquilino. </td>
+            <td colspan="3" style="text-align:left;"><b>Como</b> arrendador <b>quiero</b> ver las publicaciones que he realizado <b>para</b> poder gestionar mis habitaciones de manera eficiente. </td>
         </tr>
         <tr>
             <td style="background-color: #ccc;">Criterios de aceptación</td>
-            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Editar mi publicación</em><br><span style="color:red">Dado</span></b> que el usuario arrendador quiere editar una de sus publicaciones <br><b><span style="color:red">Cuando</span></b> se encuentre la sección mis publicaciones <br><b><span style="color:red">Y</span></b> le de click al icono de un lápiz al lado de la publicación que deseé editar <br><b><span style="color:red">Entonces</span></b> podrá modificar la información o agregar o quitar fotos de la publicación  <br><br><b><em>Escenario 2:  Borrar mi publicación</em><br><span style="color:red">Dado</span></b> que el usuario arrendador quiere borrar una de sus publicaciones <br><b><span style="color:red">Cuando</span></b> se encuentre la sección mis publicaciones <br><b><span style="color:red">Y</span></b> le de click al icono de un tacho de basura al lado de la publicación que deseé borrar <br><b><span style="color:red">Entonces</span></b> le saldrá un mensaje de confirmación para proceder con la eliminación de la publicación.</td>
+            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Ver publicaciones
+</em><br><span style="color:red">Dado</span></b> que el usuario arrendador ha iniciado sesión y quiere ver sus publicaciones <br><b><span style="color:red">Cuando</span></b> hace clic en “Ver mis Publicaciones”
+ <br><b><span style="color:red">Entonces</span></b> el sistema le muestra un listado con todas sus publicaciones <br><b><span style="color:red">Y</span></b> el arrendador puede ver los detalles de cada publicación, como fotos y descripción. <br><br><b><em>Escenario 2:  Ver funciones de mis publicaciones</em><br><span style="color:red">Dado</span></b> que quiere ver las funciones de sus publicaciones
+ <br><b><span style="color:red">Cuando</span></b> hace clic en “Ver mis Publicaciones” <br><b><span style="color:red">Entonces</span></b> lel sistema le muestra un listado con todas sus publicaciones<br><b><span style="color:red">Y</span></b> dentro de cada publicación verá botones para editar y eliminar. </td>
         </tr>
     </tbody>
 </table>
