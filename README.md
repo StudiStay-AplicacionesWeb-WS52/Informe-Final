@@ -1763,7 +1763,7 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
 |09|HU09|Crear publicación|Como arrendador quiero poder crear una o más publicaciones para poder encontrar inquilinos interesados en mi(s) habitación(es).|8|
 |10|HU10|Visualizar publicación|Como arrendador quiero ver las publicaciones que he realizado para poder gestionar mis habitaciones de manera eficiente.|3|
 |11|HU11|Editar una publicación|Como arrendador quiero modificar o editar una publicación para corregir uno o varios errores o actualizar la información de la publicación.|3|
-|12|HU12|Prioridad de publicación|Como arrendador quiero que mis publicaciones tengan prioridad sobre otras para lograr encontrar inquilinos de manera más rápida.|3|
+|12|HU12|Borrar una publicación|Como arrendador quiero eliminar una publicación para informar que esa habitación ya no está disponible.|3|
 |13|HU13|Visualización de apartados|Como estudiante quiero visualizar todas las secciones de la aplicación para darle el mejor uso posible|5|
 |14|HU14|Filtro de búsqueda|Como estudiante quiero usar filtros de búsqueda en la app para poder encontrar las habitaciones que me interesan|8|
 |15|HU15|Colocar reseña y puntuar habitación|Como estudiante quiero escribir una reseña y puntuar a la habitación para que otros estudiantes sepan si la habitación vale la pena o no.|5|
