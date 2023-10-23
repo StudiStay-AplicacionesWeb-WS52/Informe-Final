@@ -1528,7 +1528,7 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
             <td style="background-color: #ccc;">HU:</td>
             <td>US12 </td>
             <td style="background-color: #ccc;">Título:</td>
-            <td style="text-align:left;"> Prioridad de publicación </td>
+            <td style="text-align:left;"> Borrar una publicación </td>
         </tr>
         <tr>
             <td style="background-color: #ccc;">Usuario:</td>
@@ -1536,11 +1536,15 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
         </tr>
         <tr>
             <td style="background-color: #ccc;">Descripción</td>
-            <td colspan="3" style="text-align:left;"><b>Como</b> arrendador  <b>quiero</b> que mis publicaciones tengan prioridad sobre otras <b>para</b> lograr encontrar inquilinos de manera más rápida. </td>
+            <td colspan="3" style="text-align:left;"><b>Como</b> arrendador  <b>quiero</b> eliminar una publicación <b>para</b> informar que esa habitación ya no está disponible. </td>
         </tr>
         <tr>
             <td style="background-color: #ccc;">Criterios de aceptación</td>
-            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Prioridad baja</em><br><span style="color:red">Dado</span></b> que el usuario arrendador tiene un plan gratuito <br><b><span style="color:red">Cuando</span></b> publique su publicación <br><b><span style="color:red">Y</span></b> transcurran 2 días <br><b><span style="color:red">Entonces</span></b> la publicación perderá prioridad e irá descendiendo de posición en la lista de publicaciones de los usuarios estudiantes. <br><br><b><em>Escenario 2: Prioridad alta</em><br><span style="color:red">Dado</span></b> que el usuario arrendador tiene un plan de pago <br><b><span style="color:red">Cuando</span></b> publique su publicación <br><b><span style="color:red">Entonces</span></b> la publicación no perderá prioridad en la lista de publicaciones de los usuarios estudiantes sino que intentará mantenerse en posiciones altas.</td>
+            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Borrar mi publicación</em><br><span style="color:red">Dado</span></b> que el usuario arrendador quiere borrar una de sus publicaciones <br><b><span style="color:red">Cuando</span></b> se encuentre la sección mis publicaciones
+ <br><b><span style="color:red">Y</span></b> le de click al icono de un tacho de basura al lado de la publicación que deseé borrar <br><b><span style="color:red">Entonces</span></b> le saldrá un mensaje de confirmación para proceder con la eliminación de la publicación.
+ <br><br><b><em>Escenario 2: Cancelar borrado de mi publicación
+</em><br><span style="color:red">Dado</span></b> que el usuario arrendador quiere cancelar el borrado de una de sus publicaciones <br><b><span style="color:red">Cuando</span></b> se encuentre con el mensaje de confirmación <br><b><span style="color:red">Y</span></b> le de click al botón cancelar <br><b><span style="color:red">Entonces</span></b> se cancelará el proceso de borrado.
+</td>
         </tr>
     </tbody>
 </table>
