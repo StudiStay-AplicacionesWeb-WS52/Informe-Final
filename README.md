@@ -1666,6 +1666,32 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
         </tr>
     </tbody>
 </table>
+<br>
+<table align="center"  border="1" width="70%" style="text-align:center;">
+    <tbody >
+        <tr>
+            <td style="background-color: #ccc;">HU:</td>
+            <td>US18 </td>
+            <td style="background-color: #ccc;">Título:</td>
+            <td style="text-align:left;"> Añadir método de pago </td>
+        </tr>
+        <tr>
+            <td style="background-color: #ccc;">Usuario:</td>
+            <td colspan="3" style="text-align:left;"> Estudiante </td>
+        </tr>
+        <tr>
+            <td style="background-color: #ccc;">Descripción</td>
+            <td colspan="3" style="text-align:left;"><b>Como</b> estudiante  <b>quiero</b> añadir algún método de pago <b>para</b> efectuar el pago de mi reserva. </td>
+        </tr>
+        <tr>
+            <td style="background-color: #ccc;">Criterios de aceptación</td>
+            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Añadir método de pago</em><br><span style="color:red">Dado</span></b> que el usuario estudiante quiera añadir un método de pago
+ <br><b><span style="color:red">Cuando</span></b> se encuentre en la pantalla de elegir método de pago <br><b><span style="color:red">Y</span></b> le de click a añadir método de pago <br><b><span style="color:red">Entonces </span></b> rellenará todos los campos necesarios
+ <br><b><span style="color:red">Y</span></b> se guardará el método de pago  <br><br><b><em>Escenario 2: Cancelar método de pago</em><br><span style="color:red">Dado</span></b> que el usuario estudiante quiere cancelar agregar un método de pago
+ <br><b><span style="color:red">Cuando</span></b> se encuentre en el formulario de rellenar los campos necesarios para agregar un método de pago <br><b><span style="color:red">Y</span></b> le de click al botón de cancelar. <br><b><span style="color:red">Entonces </span></b> se cancelará el proceso de agregar método de pago.</td>
+        </tr>
+    </tbody>
+</table>
 
 ## 3.3. Impact Mapping
 
