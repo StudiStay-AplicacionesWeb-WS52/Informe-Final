@@ -1716,6 +1716,31 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
  <br><b><span style="color:red">Cuando</span></b> se encuentre en la pantalla para editar la información de un método de pago <br><b><span style="color:red">Y</span></b> le de click al botón cancelar <br><b><span style="color:red">Entonces </span></b> se cancelará el proceso para editar un método de pago.</tr>
     </tbody>
 </table>
+<br>
+<table align="center"  border="1" width="70%" style="text-align:center;">
+    <tbody >
+        <tr>
+            <td style="background-color: #ccc;">HU:</td>
+            <td>US20 </td>
+            <td style="background-color: #ccc;">Título:</td>
+            <td style="text-align:left;"> Eliminar método de pago </td>
+        </tr>
+        <tr>
+            <td style="background-color: #ccc;">Usuario:</td>
+            <td colspan="3" style="text-align:left;"> Estudiante </td>
+        </tr>
+        <tr>
+            <td style="background-color: #ccc;">Descripción</td>
+            <td colspan="3" style="text-align:left;"><b>Como</b> estudiante  <b>quiero</b> borrar uno de mis métodos de pago <b>para</b> eliminarlo de mi lista de métodos de pago. </td>
+        </tr>
+        <tr>
+            <td style="background-color: #ccc;">Criterios de aceptación</td>
+            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Eliminar método de pago </em><br><span style="color:red">Dado</span></b> que el usuario estudiante quiere eliminar un método de pago
+ <br><b><span style="color:red">Cuando</span></b> se encuentre en la pantalla de elegir método de pago <br><b><span style="color:red">Y</span></b> le de click al icono de un tacho de basura del método de pago que desea eliminar
+ <br><b><span style="color:red">Entonces </span></b> le saldrá una pantalla de confirmación para eliminar el método de pago <br><b><span style="color:red">Y</span></b> le de click a confirmar, se procederá a eliminar el método de pago seleccionado. <br><br><b><em>Escenario 2: Cancelar eliminación de método de pago </em><br><span style="color:red">Dado</span></b> que el usuario estudiante quiere cancelar el borrado de un método de pago <br><b><span style="color:red">Cuando</span></b> se encuentre en la pantalla de confirmación para eliminar el método de pago <br><b><span style="color:red">Y</span></b> le de click a cancelar <br><b><span style="color:red">Entonces </span></b> se cancelará el proceso de eliminación de método de pago.</td>
+        </tr>
+    </tbody>
+</table>
 
 ## 3.3. Impact Mapping
 
