@@ -1648,19 +1648,21 @@ En este segmento, se analizaron entrevistas con arrendadores que buscan alquilar
             <td style="background-color: #ccc;">HU:</td>
             <td>US17 </td>
             <td style="background-color: #ccc;">Título:</td>
-            <td style="text-align:left;"> Gestionar publicaciones realizadas </td>
+            <td style="text-align:left;"> Reservar una habitación </td>
         </tr>
         <tr>
             <td style="background-color: #ccc;">Usuario:</td>
-            <td colspan="3" style="text-align:left;"> Arrendador </td>
+            <td colspan="3" style="text-align:left;"> Estudiante </td>
         </tr>
         <tr>
             <td style="background-color: #ccc;">Descripción</td>
-            <td colspan="3" style="text-align:left;"><b>Como</b> arrendador <b>quiero</b> ver las publicaciones que he realizado <b>para</b> poder gestionar mis habitaciones de manera eficiente. </td>
+            <td colspan="3" style="text-align:left;"><b>Como</b> estudiante  <b>quiero</b> reservar una habitación <b>para</b> hospedarme un cierto tiempo cerca de mi universidad o instituto. </td>
         </tr>
         <tr>
             <td style="background-color: #ccc;">Criterios de aceptación</td>
-            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Ver publicaciones</em><br><span style="color:red">Dado</span></b> que el usuario arrendador ha iniciado sesión y quiere ver sus publicaciones <br><b><span style="color:red">Cuando</span></b> hace clic en “Ver mis Publicaciones” <br><b><span style="color:red">Entonces</span></b> el sistema le muestra un listado con todas sus publicaciones <br><b><span style="color:red">Y</span></b> el arrendador puede ver los detalles de cada publicación, como fotos y descripción. <br><br><b><em>Escenario 2: Editar publicación</em><br><span style="color:red">Dado</span></b> que el usuario arrendador se encuentra viendo sus publicaciones <br><b><span style="color:red">Y</span></b> tiene una publicación registrada en el sistema <br><b><span style="color:red">Cuando</span></b> hace clic en la opción “Editar Publicación” <br><b><span style="color:red">Y</span></b> realiza las modificaciones necesarias <br><b><span style="color:red">Y</span></b> le da clic en guardar cambios<br><b><span style="color:red">Entonces </span></b> el sistema guarda los cambio y actualiza la publicación con la nueva información<br><b><span style="color:red">Y</span></b> muestra un mensaje de confirmación al arrendador.<br><br><b><em>Escenario 3: Eliminar publicación</em><br><span style="color:red">Dado</span></b> que el usuario arrendador ha iniciado sesión en su cuenta <br><b><span style="color:red">Y</span></b> tiene una publicación de habitación registrada en el sistema <br><b><span style="color:red">Cuando</span></b> hace clic en la opción “Eliminar publicación” <br><b><span style="color:red">Y</span></b> hace clic en el botón “Confirmar” <br><b><span style="color:red">Entonces</span></b> el sistema elimina la publicación<br><b><span style="color:red"> Y </span></b>muestra un mensaje de confirmación.</td>
+            <td colspan="3" style="text-align:left;"><b><em>Escenario 1: Reservar habitación</em><br><span style="color:red">Dado</span></b> que el usuario estudiante quiere reservar una habitación
+ <br><b><span style="color:red">Cuando</span></b> seleccione la opción “Reservar” <br><b><span style="color:red">Entonces</span></b> le saldrá una ventana para elegir el método de pago <br><br><b><em>Escenario 2: Cancelar reserva</em><br><span style="color:red">Dado</span></b> que el usuario estudiante quiere cancelar su reserva antes de completarla
+ <br><b><span style="color:red">Cuando</span></b> se encuentre en la pantalla de elegir método de pago <br><b><span style="color:red">Y</span></b> le de click al botón de cancelar <br><b><span style="color:red">Entonces </span></b> se cancelará la reserva exitosamente.</td>
         </tr>
     </tbody>
 </table>
