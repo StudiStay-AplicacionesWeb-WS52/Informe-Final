@@ -2201,7 +2201,8 @@ Para mantener el orden al desarrollar una solución y evitar conflictos o superp
 
 1. Repositorio para el landing page: https://github.com/StudiStay-AplicacionesWeb-WS52/landing-page/tree/release/1.0
 2. Repositorio para los tests de aceptación: https://github.com/StudiStay-AplicacionesWeb-WS52/acceptance-test
-3. Repositorio de la aplicación web: **_En Desarrollo_**
+3. Repositorio de la aplicación web: https://github.com/StudiStay-AplicacionesWeb-WS52/studistay-app
+4. Repositorio del Back-end: https://github.com/StudiStay-AplicacionesWeb-WS52/StudiStayAPI
 
 Con respecto a la implementación de Gitflow, este se llevará a cabo de la siguiente manera:
 
