@@ -3289,6 +3289,32 @@ Recomendación:
 
 Desarrollar la funcionalidad del botón mencionado en futuras actualizaciones, así el usuario pueda visualizar de mejor manera las habitaciones de su interés y se le presente una mayor facilidad en el uso de la aplicación.
 
+<br>
+
+***PROBLEMA #2:*** Los precios mostrados en el apartado Post no corresponden con los mostrados en el apartado Details.
+
+***Severidad:*** 3
+
+Heurística violada: IA Heuristics - Is it credible?
+
+Problema:
+
+En la vista Post se encuentran las habitaciones con sus precios respectivos, pero al dirigirnos a los detalles, estos precios difieren con lo presentado anteriormente, generando disconformidad hacia los usuarios.
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1165791078054633502/image.png">
+  
+</div>
+
+<br>
+
+Recomendación:
+
+Actualizar los precios con los datos correspondientes, para que no genere confusión en los estudiantes al momento de querer reservar una habitación de su agrado, y de esta manera se pueda concretar satisfactoriamente con el proceso.
+
+<br>
+
 ## 5.4. Video About-the-Product
 
 
