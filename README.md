@@ -3160,6 +3160,73 @@ Resumen de la entrevista:
 
 ### 5.3.3. Evaluaciones según heurísticas
 
+**UX Heuristics & Principles Evaluation**
+---
+
+En esta sección se realizará el reporte de Heurísticas de usabilidad que se ecnotnraron en la realización de la valdiación con posibles usuarios según su segmento.
+
+**UX Heuristics & Principles Evaluation**
+--- 
+
+**Usability – Inclusive Design – Information Architecture**
+
+**CARRERA : Ingeniería de Software**
+
+**CURSO : Aplicaciones Web**
+
+**SECCIÓN : WS52**
+
+**PROFESORES : Todos**
+
+**AUDITOR : StudiStay Connect**
+
+**CLIENTE(S) : StudiStay Connect**
+
+**SITE o APP A EVALUAR: StudiStay**
+
+TAREAS A EVALUAR:
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Desktop landing page
+
+    1. Información y descripción de la aplicación y sus funcionalidades
+    2. Información y breve descripción sobre el equipo de trabajo
+    3. Visualización de testimonios
+    4. Header y footer funcionales
+
+<br>
+
+2. Desktop Web Applications
+
+    1. Registro de nuevo usuario
+    2. Inicio de sesión de usuario existente
+    3. Header y footer funcionales
+    4. Pestañas de navegación dentro de la aplicación
+    5. Botones interactivos y de uso intuitivo
+    6. Reserva de habitaciones
+    7. Publicación de habitaciones
+    8. Visualización de habitaciones cercanas
+
+<br>
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Desktop landing page
+
+    1. Formulario para crear cuenta o iniciar sesión
+    2. Redes sociales asociadas a la startup
+    3. Política de privacidad y condiciones de uso
+
+<br>
+
+2. Desktop Web Applications
+
+    1. Visualización de Perfil de usuario
+    2. Notificaciones de la aplicación
+    3. Política de privacidad y condiciones de uso
+
+<br>
 
 ## 5.4. Video About-the-Product
 
