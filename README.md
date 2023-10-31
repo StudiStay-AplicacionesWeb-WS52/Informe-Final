@@ -3315,6 +3315,30 @@ Actualizar los precios con los datos correspondientes, para que no genere confus
 
 <br>
 
+***PROBLEMA #3:*** No se puede elegir entre ingresar el email o el número telefónico para iniciar sesión en la aplicación.
+
+***Severidad:*** 2
+
+Heurística violada: Usability - Flexibility and efficiency of use
+
+Problema: 
+
+Al momento de realizar los pasos para el registro, se solicita tanto el email como el teléfono del usuario, pero al iniciar sesión, no se puede elegir con qué datos ingresar, estando solo habilitada la opción de email.
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1165798959965540363/image.png">
+  
+</div>
+
+<br>
+
+Recomendación: 
+
+Desarrollar la opción de Iniciar Sesión con opción a elegir entre el email y el teléfono del usuario, así puede sentirse más cómodo al momento de hacer uso del servicio.
+
+<br>
+
 ## 5.4. Video About-the-Product
 
 
