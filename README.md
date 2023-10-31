@@ -3006,6 +3006,36 @@ En la entrevista, Carlos Fernandes, un estudiante en busca de una habitación ce
 
 <br>
 
+- **Entrevista 02**
+
+Nombre y apellidos: Fabio Sebastian Portella Nina
+
+Edad: 19 años
+
+Ubicación: Carabayllo, Lima
+
+Evidencia de la reunión:
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1168949627593183332/image.png">
+
+</div>
+
+<br>
+
+Inicio:
+
+Fin:
+
+Enlace de la entrevista:
+
+Resumen de la entrevista:
+
+El entrevistado Fabio Portella, quien es un estudiante en busca de una habitación cercana a su centro de estudios desde hace 3 meses,se le describe la aplicación Studistay que ofrece habitaciones seguras, ubicación estratégica y flexibilidad de reserva. La aplicación consta de 3 secciones, las cuales son Posts, Universidades y Perfil. Al entrevistado le agrada que ningún apartado esté repleto de información, las imágenes agregadas son muy útiles, no ve ningún inconveniente al navegar en la aplicación. Califica el diseño de la página como un 7/10 y sugiere agregar más imágenes. También destaca la intuitiva y fácil uso de reservas de habitación. Sugiere la adición de una función de agregar una lista de favoritos, a la vez menciona que debería haber un filtro de búsqueda por fechas. Considera que el diseño es adecuado pero podría añadirse más funcionalidades para los usuarios en el aplicativo y mejorar un poco más el landing page.
+
+<br>
+
 ### 5.3.3. Evaluaciones según heurísticas
 
 
