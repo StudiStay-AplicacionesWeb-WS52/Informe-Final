@@ -3098,6 +3098,66 @@ En esta oportunidad entrevistamos a Jorge Gonzales, un joven arrendador que est�
 
 <br>
 
+- **Entrevista 02**
+
+Nombre y apellidos:  Alex Espinoza Rosales
+
+Edad: 20 años
+
+Ubicación: Ayacucho, Perú
+
+Evidencia de la reunión:
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1168957395234459668/image.png">
+
+</div>
+
+<br>
+
+Inicio:
+
+Fin:
+
+Enlace de la entrevista: 
+
+Resumen de la entrevista:
+
+En la entrevista, el entrevistado, Alex Espinoza Rosales, de 20 años, expresa su interés en promocionar habitaciones. Se le describe la aplicación StudiStay, destacando una página de inicio con información sobre servicios, seguridad de las habitaciones y ubicación estratégica. También menciona la flexibilidad en las reservas, testimonios de usuarios y una aplicación web. Alex encuentra atractiva la promoción del producto, aunque sugiere mejoras en el diseño de la página de inicio y le otorga una calificación de 7/10. En la aplicación, los usuarios pueden publicar habitaciones y buscar opciones cerca de universidades. Alex sugiere añadir características como correo electrónico y una mejor comunicación con la plataforma. Finalmente, considera que el diseño es moderno y adecuado.
+
+<br>
+
+- **Entrevista 03**
+
+Nombre y apellidos:
+
+Edad:
+
+Ubicación:
+
+Evidencia de la reunión:
+
+<div align="center">
+
+  <img src="">
+
+</div>
+
+<br>
+
+Inicio:
+
+Fin:
+
+Enlace de la entrevista: 
+
+Resumen de la entrevista:
+
+
+
+<br>
+
 ### 5.3.3. Evaluaciones según heurísticas
 
 
