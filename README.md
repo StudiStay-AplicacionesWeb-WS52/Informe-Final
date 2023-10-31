@@ -2938,6 +2938,51 @@ Para la realización de los commits de nuestro segundo Sprint, utilizamos los ID
 
 </div>
 
+
+### 5.2.3. Sprint 3
+
+
+#### 5.2.3.1. Spring Planning 3
+
+
+#### 5.2.3.2. Sprint Backlog 3
+
+
+#### 5.2.3.3. Development Evidence for Sprint Review
+
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+
+## 5.3. Validation Interviews
+
+
+### 5.3.1. Diseño de Entrevistas
+
+
+### 5.3.2. Registro de Entrevistas
+
+
+### 5.3.3. Evaluaciones según heurísticas
+
+
+## 5.4. Video About-the-Product
+
+
+## 5.5. Video About-the-Team
+
 # Conclusiones 
 
 -   Realizar el análisis de competidores nos permite conocer nuestras fortalezas y debilidades, para finalmente ofrecer al público un servicio que cumpla con sus necesidades.<br><br>
