@@ -3339,6 +3339,32 @@ Desarrollar la opción de Iniciar Sesión con opción a elegir entre el email y 
 
 <br>
 
+**2. Landing Page**
+
+***PROBLEMA #1:*** Las cards presentadas en el apartado “Nuestros Servicios” presentan diferencias en su tamaño.
+
+***Severidad:*** 1
+
+Heurística violada: Usability - Consistency and standards
+
+Problema: 
+
+En la sección “Nuestros Servicios” se presentan cards describiendo las bondades de la aplicación, sin embargo estas difieren en su tamaño, lo cual puede generar molestia e incomodidad en los usuarios, al no presentar un diseño consistente y uniforme.
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1165856439198306344/image.png">
+  
+</div>
+
+<br>
+
+Recomendación:
+
+Ajustar las cards en la sección mencionada para que puedan mantener un tamaño constante.
+
+<br>
+
 ## 5.4. Video About-the-Product
 
 
