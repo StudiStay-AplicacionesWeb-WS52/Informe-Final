@@ -3066,6 +3066,38 @@ En la entrevista, Agustín Aguilar, un estudiante, compartió sus impresiones so
 
 <br>
 
+**Segmento 02: Arrendadores que buscan alquilar habitaciones**
+
+- **Entrevista 01**
+
+Nombre y apellidos: Jorge Gonzales
+
+Edad: 25 años
+
+Ubicación: Surco, Lima
+
+Evidencia de la reunión:
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1167920068202602627/image.png">
+
+</div>
+
+<br>
+
+Inicio:
+
+Fin:
+
+Enlace de la entrevista: 
+
+Resumen de la entrevista:
+
+En esta oportunidad entrevistamos a Jorge Gonzales, un joven arrendador que está en búsqueda de un servicio en el cual pueda publicitar las habitaciones que posee, hacia estudiantes que tienen la necesidad de una. Mencionó que tanto la landing page como la aplicación web poseen un buen diseño, pero que en la sección de Posts las habitaciones podrían separarse con una línea negra o con algún elemento para que se pueda percibir de mejor manera. Comentó además que el apartado de agregar post le resulta fácil de usar, por lo que no generaría inconveniente al utilizarlo. Por último, calificó el servicio como eficiente y agradable.
+
+<br>
+
 ### 5.3.3. Evaluaciones según heurísticas
 
 
