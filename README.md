@@ -3036,6 +3036,36 @@ El entrevistado Fabio Portella, quien es un estudiante en busca de una habitaci�
 
 <br>
 
+- **Entrevista 03**
+
+Nombre: Agustin Alejandro Aguilar Lindo
+
+Edad: 22 años
+
+Distrito: Breña, Lima
+
+Evidencia de la reunión:
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1168954690537533470/image.png">
+
+</div>
+
+<br>
+
+Inicio:
+
+Fin:
+
+Enlace de la entrevista:
+
+Resumen de la entrevista:
+
+En la entrevista, Agustín Aguilar, un estudiante, compartió sus impresiones sobre nuestra aplicación StudiStay. Agustín expresó su entusiasmo por el diseño y la organización de la aplicación, destacando cómo estos aspectos facilitan el acceso a las diversas funcionalidades que ofrece. Sin embargo, también mencionó que tenía ciertas reservas con respecto al tamaño de los botones y el texto, los cuales consideraba demasiado pequeños. Este problema resultaba especialmente inconveniente para él debido a que utiliza lentes, lo que dificultaba su experiencia de lectura en la aplicación. A pesar de esta preocupación, al final de la entrevista, Agustín calificó la aplicación StudiStay con un impresionante 9 sobre 10. Esta calificación refleja su aprecio por la aplicación debido a su facilidad de uso y la innovación que incorpora. Agustín anticipa que esta aplicación será de gran utilidad para estudiantes que enfrentan desafíos al buscar una habitación para alquilar cerca de sus centros de estudios. Sus comentarios resaltan la importancia de abordar la accesibilidad en términos de diseño y la satisfacción del usuario, lo que, a su vez, contribuye a la mejora constante de nuestra aplicación.
+
+<br>
+
 ### 5.3.3. Evaluaciones según heurísticas
 
 
