@@ -2974,6 +2974,37 @@ Para la realización de los commits de nuestro segundo Sprint, utilizamos los ID
 
 ### 5.3.2. Registro de Entrevistas
 
+**Segmento 01: Estudiantes que buscan información sobre habitaciones**
+
+- **Entrevista 01**
+
+Nombre y apellidos: Carlos Fernandes
+
+Edad: 20 años
+
+Ubicación: Surco, Lima
+
+Evidencia de la reunión:
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1168945706803941416/image.png">
+
+</div>
+
+<br>
+
+Inicio:
+
+Fin:
+
+Enlace de la entrevista:
+
+Resumen de la entrevista:
+
+En la entrevista, Carlos Fernandes, un estudiante en busca de una habitación cercana a su centro de estudios desde hace 3 meses,se le describe la aplicación Studistay que ofrece habitaciones seguras, ubicación estratégica y flexibilidad de reserva. La aplicación consta de secciones para publicar anuncios de habitaciones, buscar universidades cercanas y gestionar perfiles. Carlos elogia la página de inicio de la aplicación por su interactividad y la falta de información excesiva. Califica el diseño de la página como un 8/10 y sugiere hacerlo visualmente más atractivo. También destaca la simplicidad y facilidad de uso de la sección de publicación de habitaciones. En general, describe la aplicación como versátil y sugiere la adición de una función de soporte en tiempo real. Considera que el diseño es adecuado pero podría ser más atractivo visualmente para los usuarios.
+
+<br>
 
 ### 5.3.3. Evaluaciones según heurísticas
 
