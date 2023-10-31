@@ -3389,6 +3389,30 @@ Implementar la redirección automática hacia la aplicación al hacer uso del bo
 
 <br>
 
+***PROBLEMA #3:*** El logo del proyecto no se visualiza con claridad.
+
+***Severidad:*** 1
+
+Heurística violada: IA - Is it clear?
+
+Problema: 
+
+El logo mostrado en la esquina superior izquierda presenta un tamaño reducido, lo cual puede generar que los usuarios no asocien esta característica hacia el proyecto que se está desarrollando
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1165871931963220028/image.png">
+  
+</div>
+
+<br>
+
+Recomendación: 
+
+Ajustar el tamaño de la imagen del logo para una mejor apreciación por parte de los usuarios.
+
+<br>
+
 ## 5.4. Video About-the-Product
 
 
