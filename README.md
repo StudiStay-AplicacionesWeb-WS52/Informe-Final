@@ -3228,6 +3228,41 @@ No están incluidas en esta versión de la evaluación las siguientes tareas:
 
 <br>
 
+**ESCALA DE SEVERIDAD:**
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción |
+| :- | :- |
+| **1** | Problema superficial: puede ser fácilmente superado por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo |
+| **2** | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| **3** | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| **4** | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+<br>
+
+**TABLA RESUMEN:**
+
+- **Web Application**
+
+| # | Problema | Escala de severidad | Heurística/Principio violada(o) |
+| :- | :- | :- | :- |
+| 1 | No se puede hacer uso del botón “Favorito” en la sección de habitaciones. | 3 | IA Heuristics - Is it usable? |
+| 2 | Los precios mostrados en el apartado Post no corresponden con los mostrados en el apartado Details. | 3 | IA Heuristics - Is it credible? |
+| 3 | No se puede elegir entre ingresar el email o el número telefónico para iniciar sesión en la aplicación. | 2 | Usability - Flexibility and efficiency of use |
+
+<br>
+
+- **Landing Page**
+
+| # | Problema | Escala de severidad | Heurística/Principio violada(o) |
+| :- | :- | :- | :- |
+| 1 | Las cards presentadas en el apartado “Nuestros Servicios” presentan diferencias en su tamaño. | 1 | Usability - Consistency and standards |
+| 2 | El botón para ingresar a la aplicación no tiene funcionalidad. | 2 | IA - Is it findable? |
+| 3 | El logo del proyecto no se visualiza con claridad. | 1 | IA - Is it clear? |
+
+<br>
+
 ## 5.4. Video About-the-Product
 
 
