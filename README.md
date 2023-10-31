@@ -3263,6 +3263,32 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 <br>
 
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+**1. Web Application**
+
+***PROBLEMA #1:*** No se puede hacer uso del botón “Favorito” en la sección de habitaciones.
+
+***Severidad:*** 3
+
+Heurística violada: IA Heuristics - Is it usable?
+
+Problema:
+
+En la sección donde se muestran las habitaciones, existe un botón que hace referencia, por parte de los usuarios, a la opción de Agregar a Favoritos. Sin embargo, el botón carece de usabilidad, ya que no posee la función necesaria.
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1165747501408735272/image.png">
+  
+</div>
+
+<br>
+
+Recomendación:
+
+Desarrollar la funcionalidad del botón mencionado en futuras actualizaciones, así el usuario pueda visualizar de mejor manera las habitaciones de su interés y se le presente una mayor facilidad en el uso de la aplicación.
+
 ## 5.4. Video About-the-Product
 
 
