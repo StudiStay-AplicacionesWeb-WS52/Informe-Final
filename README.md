@@ -3365,6 +3365,30 @@ Ajustar las cards en la sección mencionada para que puedan mantener un tamaño 
 
 <br>
 
+***PROBLEMA #2:*** El botón para ingresar a la aplicación no tiene funcionalidad.
+
+***Severidad:*** 2
+
+Heurística violada: IA - Is it findable?
+
+Problema: 
+
+El botón ubicado en la sección “Ingresa a Nuestra Aplicación” no redirige hacia esta, haciendo que el usuario no pueda hacer uso del servicio mencionado y tenga que hacer una búsqueda externa, teniendo un trabajo adicional.
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1165857564374880346/image.png">
+  
+</div>
+
+<br>
+
+Recomendación:
+
+Implementar la redirección automática hacia la aplicación al hacer uso del botón mencionado.
+
+<br>
+
 ## 5.4. Video About-the-Product
 
 
