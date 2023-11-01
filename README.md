@@ -43,16 +43,20 @@
             <td>Yance Gutierrez, Franco Felix</td>
             <td>U202013614</td>
         </tr>
+        <tr>
+            <td>Llamozas Diaz, Edson Diego</td>
+            <td>U202319398</td>
+        </tr>
     </table>
 </div>
 <br>
 
-### <center>Ciclo: 2023-02 | Septiembre, 2023</center>
+### <center>Ciclo: 2023-02 | Noviembre, 2023</center>
 <br>
 
 <div align="center">
 
-Link al video de exposición: [Video de exposición TP1 - StudiStay](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124061_upc_edu_pe/ETJ01AyYxpNFoCQVarpkD0EB_v5pYdPzaFBXrpIILOcUbg?e=Zm5YUj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+Link al video de exposición: [Video de exposición TB2 - StudiStay]()
 
 </div>
 
@@ -62,6 +66,7 @@ Link al video de exposición: [Video de exposición TP1 - StudiStay](https://upc
 |:-------:|:-----:|:-----:|:----------------------------| 
 |TB1|05/09/2023|  Todos los integrantes del equipo | Se definió la propuesta de solución, análisis Lean UX, definición de segmento objetivo, se recogieron los requisitos necesarios para la creación de las herramientas necesarias (User Persons, User stories, Product Backlog, Impact Mapping , entre otros). Luego, se diseñó los mockups y prototipos de la landing page en base a la información obtenida. Finalmente se realizó la landing page con ayuda del sprint backlog para tener un control de los avances.|
 | TP1 | 25/09/2023 | Todos los integrantes del equipo | Se realizaron los puntos del capítulo V: Sprint 2, Sprint Planning 2, Sprint Backlog 2, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint.
+| TB2 | 01/11/2023 | Todos los integrantes del equipo | Se realizaron los puntos del capítulo V: Sprint 3, Sprint Planning 3, Sprint Backlog 3, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint, Diseño de Entrevistas, Registro de Entrevistas, Evaluaciones según heurísticas, Video About-the-Product, Video About-the-Team |
 
 
 <br><br>
@@ -120,6 +125,36 @@ Link al video de exposición: [Video de exposición TP1 - StudiStay](https://upc
       <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1156352703425949817/image.png"/>      
     </div>
 
+<br><br>
+
+- **TB2:** Para esta entrega, realizamos como equipo las actividades correspondientes al capítulo asignado en el siguiente repositorio dentro de nuestra organización de grupo:
+
+    Link del repositorio del Informe Final: [Github - Informe Final StudiStay](https://github.com/StudiStay-AplicacionesWeb-WS52/Informe-Final)
+
+    <br>
+
+    A continuación, se muestran las capturas de evidencia correspondientes al desarrollo de los siguientes puntos:
+
+    - Sprint 3
+    - Sprint Planning 3
+    - Sprint Backlog 3
+    - Development Evidence for Sprint Review
+    - Testing Suite Evidence for Sprint Review
+    - Execution Evidence for Sprint Review
+    - Services Documentation Evidence for Sprint Review
+    - Software Deployment Evidence for Sprint Review
+    - Team Collaboration Insights during Sprint
+    - Diseño de Entrevistas
+    - Registro de Entrevistas
+    - Evaluaciones según heurísticas
+    - Video About-the-Product
+    - Video About-the-Team
+
+    <br>
+
+    <div align=center>
+      <img src=""/>
+    </div>
 
 <br><br>
 
@@ -232,6 +267,23 @@ Link al video de exposición: [Video de exposición TP1 - StudiStay](https://upc
     - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
     - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
     - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint-2)
+
+  - [5.2.3. Sprint 3](#523-sprint-3)
+    - [5.2.3.1. Spring Planning 3](#5231-spring-planning-3)
+    - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
+    - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+    - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+    - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+    - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+    - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+    - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint-3)
+
+- [5.3. Validation Interviews](#53-validation-interviews)
+  - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
+  - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
+  - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+
+- [5.4. Video About-the-Product](#54-video-about-the-product)
 
 ### [Conclusiones](#conclusiones)
 
@@ -534,22 +586,22 @@ La aplicación generará ganancias por medio de publicidad mostrada en la plataf
 ### 1.2.1. Antecedentes y problemática
 
 * <b>Who</b>
-  <br>Nuestros usuarios son los estudiantes universitarios y de institutos que buscan una habitación que se encuentre cerca de su centro de estudios, en la cual puedan alojarse durante la duración de sus ciclos.
+  <br>Nuestros usuarios son los estudiantes universitarios y de institutos que buscan una habitación que se encuentre cerca de su centro de estudios, en la cual puedan alojarse durante la duración de sus ciclos.<br><br>
 
 * <b>What</b>
-    <br>El problema de nuestros usuarios es la falta de información acerca de habitaciones con las que puedan cumplir las condiciones, y que se encuentren cerca de su centro de estudios. Existe una gran cantidad de estudiantes que viven alejados de sus centros de estudio, los cuales se enfrentan diariamente a las largas distancias, debido al ineficiente sistema de transporte público.
+    <br>El problema de nuestros usuarios es la falta de información acerca de habitaciones con las que puedan cumplir las condiciones, y que se encuentren cerca de su centro de estudios. Existe una gran cantidad de estudiantes que viven alejados de sus centros de estudio, los cuales se enfrentan diariamente a las largas distancias, debido al ineficiente sistema de transporte público.<br><br>
 
 * <b>Where</b>
-  <br>El problema se encuentra en la poca información que se encuentran en los lugares cercanos a las instituciones, en la que la mayoría de opciones se encuentran fuera del alcance de nuestros usuarios.
+  <br>El problema se encuentra en la poca información que se encuentran en los lugares cercanos a las instituciones, en la que la mayoría de opciones se encuentran fuera del alcance de nuestros usuarios.<br><br>
 
 * <b>When</b>
-    <br>El problema suscitado se presenta cada vez que nuestros usuarios buscan información acerca de habitaciones que les puedan brindar beneficios para continuar con sus estudios.
+    <br>El problema suscitado se presenta cada vez que nuestros usuarios buscan información acerca de habitaciones que les puedan brindar beneficios para continuar con sus estudios.<br><br>
 
 * <b>Why</b>
-    <br>Usualmente los usuarios no logran encontrar la información necesaria sobre las habitaciones, por lo que deben buscar por medio de internet, indagar con amigos o familia para encontrar lo más adecuado. Además, la distancia que existe entre la vivienda del estudiante y su centro de estudios es demasiada, haciendo uso del transporte público. Esta sentencia perjudica a los estudiantes en una ciudad como Lima, que en el 2018 fue considerada como una de las ciudades con el peor tráfico del mundo.
+    <br>Usualmente los usuarios no logran encontrar la información necesaria sobre las habitaciones, por lo que deben buscar por medio de internet, indagar con amigos o familia para encontrar lo más adecuado. Además, la distancia que existe entre la vivienda del estudiante y su centro de estudios es demasiada, haciendo uso del transporte público. Esta sentencia perjudica a los estudiantes en una ciudad como Lima, que en el 2018 fue considerada como una de las ciudades con el peor tráfico del mundo.<br><br>
 
 * <b>How</b>
-    <br>La mayoría de veces resulta demasiado complicado el poder encontrar una habitación que coincida con las posibilidades de nuestros usuarios. Debido a esta problemática, surge nuestra aplicación, la cual servirá de apoyo a todos aquellos estudiantes, dentro de la cual podrán visualizar de forma ordenada las habitaciones de acuerdo a los filtros que apliquen.
+    <br>La mayoría de veces resulta demasiado complicado el poder encontrar una habitación que coincida con las posibilidades de nuestros usuarios. Debido a esta problemática, surge nuestra aplicación, la cual servirá de apoyo a todos aquellos estudiantes, dentro de la cual podrán visualizar de forma ordenada las habitaciones de acuerdo a los filtros que apliquen.<br><br>
 
 * <b>How much</b>
     <br>Según el Instituto Nacional de Estadística e Informática en el año 2014, el 43% de estudiantes de universidades públicas eligió su centro de estudios debido a su prestigio, siendo solo el 8.4% por la cercanía a su domicilio. La problemática se origina debido a la escasa cantidad de información que podemos encontrar sobre habitaciones en las que los estudiantes puedan alojarse. Además que en internet, la información se encuentra de forma desordenada en las páginas web o aplicaciones, lo que genera fastidio y descontento en los usuarios. 
@@ -575,7 +627,7 @@ A los estudiantes de universidades e institutos se les presentan dificultades al
 
 <br>
 
-* User assumptions:
+* User assumptions:<br><br>
 
   - <b>¿Quién es el usuario?</b>
     <br>Los usuarios interesados en la aplicación son aquellos que buscan un lugar donde poder descansar o aquellos que viven lejos de la universidad y desean pasar la noche en un lugar cercano a la universidad sin tener que preocuparse por el largo trayecto a su casa el cual le facilita y ahorra tiempo para eventos importantes como un examen a primera hora. Además, de personas que tienen su casa cerca a la universidad y deseen compartir una habitación para obtener ingresos extra. Nuestros usuarios son: estudiantes de educación superior de entre 18 a 29 años y personas propietarias de casas o departamentos.<br><br>
@@ -3042,7 +3094,7 @@ Nombre: Agustin Alejandro Aguilar Lindo
 
 Edad: 22 años
 
-Distrito: Breña, Lima
+Ubicación: Breña, Lima
 
 Evidencia de la reunión:
 
@@ -3065,6 +3117,38 @@ Resumen de la entrevista:
 En la entrevista, Agustín Aguilar, un estudiante, compartió sus impresiones sobre nuestra aplicación StudiStay. Agustín expresó su entusiasmo por el diseño y la organización de la aplicación, destacando cómo estos aspectos facilitan el acceso a las diversas funcionalidades que ofrece. Sin embargo, también mencionó que tenía ciertas reservas con respecto al tamaño de los botones y el texto, los cuales consideraba demasiado pequeños. Este problema resultaba especialmente inconveniente para él debido a que utiliza lentes, lo que dificultaba su experiencia de lectura en la aplicación. A pesar de esta preocupación, al final de la entrevista, Agustín calificó la aplicación StudiStay con un impresionante 9 sobre 10. Esta calificación refleja su aprecio por la aplicación debido a su facilidad de uso y la innovación que incorpora. Agustín anticipa que esta aplicación será de gran utilidad para estudiantes que enfrentan desafíos al buscar una habitación para alquilar cerca de sus centros de estudios. Sus comentarios resaltan la importancia de abordar la accesibilidad en términos de diseño y la satisfacción del usuario, lo que, a su vez, contribuye a la mejora constante de nuestra aplicación.
 
 <br>
+
+- **Entrevista 04**
+
+Nombre: Marllely Anahi
+
+Edad: 20 años
+
+Ubicación: Ate, Lima
+
+Evidencia de la reunión:
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1169402775747186800/Screenshot_2023-11-01_02.06.09.png">
+
+</div>
+
+<br>
+
+Inicio: 23:58
+
+Fin: 32:00
+
+Enlace de la entrevista: [Validation Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124061_upc_edu_pe/EVOi_uWC4otEmu7R7KJJkmoBiTlRiSEF_HB4rOQ84A5MTw?e=6LnlhO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+Resumen de la entrevista:
+
+Marllely, de 20 años, lleva buscando una habitación cerca de la universidad durante aproximadamente un año. Se le presenta nuestra aplicación tanto desde el apartado de la Landing page como de los beneficios que esta ofrece. Mariely muestra interés en la propuesta y comenta que podría ser de gran ayuda para los universitarios. Sugiere mejorar las recomendaciones de usuarios que hayan reservado habitaciones y califica la interfaz como agradable. Considera que el apartado de reservas está bien presentado. Prefiere usar la aplicación en una computadora y la describe como de gran ayuda para cualquier universitario que vive cerca de la universidad. Mariely ve toda la información necesaria en la landing page y califica la experiencia con un 9.
+
+<br>
+
+
 
 **Segmento 02: Arrendadores que buscan alquilar habitaciones**
 
