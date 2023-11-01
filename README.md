@@ -2994,11 +2994,11 @@ Evidencia de la reunión:
 
 <br>
 
-Inicio:
+Inicio: 08:15
 
-Fin:
+Fin: 15:56
 
-Enlace de la entrevista:
+Enlace de la entrevista: [Validation Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124061_upc_edu_pe/EVOi_uWC4otEmu7R7KJJkmoBiTlRiSEF_HB4rOQ84A5MTw?e=6LnlhO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 Resumen de la entrevista:
 
@@ -3024,11 +3024,11 @@ Evidencia de la reunión:
 
 <br>
 
-Inicio:
+Inicio: 15:57
 
-Fin:
+Fin: 23:56
 
-Enlace de la entrevista:
+Enlace de la entrevista: [Validation Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124061_upc_edu_pe/EVOi_uWC4otEmu7R7KJJkmoBiTlRiSEF_HB4rOQ84A5MTw?e=6LnlhO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 Resumen de la entrevista:
 
@@ -3054,11 +3054,11 @@ Evidencia de la reunión:
 
 <br>
 
-Inicio:
+Inicio: 00:04
 
-Fin:
+Fin: 08:14
 
-Enlace de la entrevista:
+Enlace de la entrevista: [Validation Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124061_upc_edu_pe/EVOi_uWC4otEmu7R7KJJkmoBiTlRiSEF_HB4rOQ84A5MTw?e=6LnlhO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 Resumen de la entrevista:
 
@@ -3086,11 +3086,11 @@ Evidencia de la reunión:
 
 <br>
 
-Inicio:
+Inicio: 32:04
 
-Fin:
+Fin: 40:19
 
-Enlace de la entrevista: 
+Enlace de la entrevista: [Validation Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124061_upc_edu_pe/EVOi_uWC4otEmu7R7KJJkmoBiTlRiSEF_HB4rOQ84A5MTw?e=6LnlhO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 Resumen de la entrevista:
 
@@ -3116,11 +3116,11 @@ Evidencia de la reunión:
 
 <br>
 
-Inicio:
+Inicio: 40:23
 
-Fin:
+Fin: 48:24
 
-Enlace de la entrevista: 
+Enlace de la entrevista: [Validation Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124061_upc_edu_pe/EVOi_uWC4otEmu7R7KJJkmoBiTlRiSEF_HB4rOQ84A5MTw?e=6LnlhO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 Resumen de la entrevista:
 
@@ -3130,31 +3130,31 @@ En la entrevista, el entrevistado, Alex Espinoza Rosales, de 20 años, expresa s
 
 - **Entrevista 03**
 
-Nombre y apellidos:
+Nombre y apellidos: Yan Marcos Soto
 
-Edad:
+Edad: 20 años
 
-Ubicación:
+Ubicación: Lima, Perú
 
 Evidencia de la reunión:
 
 <div align="center">
 
-  <img src="">
+  <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1168993436934881280/image.png">
 
 </div>
 
 <br>
 
-Inicio:
+Inicio: 48:25
 
-Fin:
+Fin: 1:00:08
 
-Enlace de la entrevista: 
+Enlace de la entrevista: [Validation Interviews](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124061_upc_edu_pe/EVOi_uWC4otEmu7R7KJJkmoBiTlRiSEF_HB4rOQ84A5MTw?e=6LnlhO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 Resumen de la entrevista:
 
-
+Yan destaca puntos importantes para la entrevista los cuales son, que se debe mejorar el tema de las accesibilidad haciendo algunos textos más grandes para que las personas puedan ver mejor. Además, de implementar algún tipo de estadística en la aplicación para tener un conocimiento más dinámico de cómo van las ventas y reservas de una aplicación. Finalmente, Yan concluye que se realizó un buen trabajo tanto en diseño, como desarrollo, destaca que ambas aplicaciones son atractivas e intuitivas para un usuario y que estos se familiarizarán rápidamente.
 
 <br>
 
