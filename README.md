@@ -3438,6 +3438,16 @@ Ajustar el tamaño de la imagen del logo para una mejor apreciación por parte d
 
 - Vue es un framework de Front-end completo y versátil que ofrece una gran variedad de herramientas y recursos para el desarrollo de aplicaciones web, el cual fue esencial en la implementación de las vistas: post-list, profile, universities y details.<br><br>
 
+- Hemos añadido en la sección Posts dos funcionalidades, las cuales serían crear Post, eliminar Post y reservar una habitación. Cada una de estas nuevas funcionalidades necesitan que se ingresen datos válidos para poder concluir con un proceso definido, a excepción de eliminar Post, ya que solo muestra un mensaje de confirmación para concluir el proceso.<br><br>
+
+- Permitirle a nuestros usuarios usar la primera versión final de nuestra aplicación web para luego entrevistarlo, nos sirvió para seguir recaudando información sobre qué aspectos podemos mejorar y qué funciones para usuarios podemos arreglar, mejorar o agregar.<br><br>
+
+- Las evaluaciones según heurísticas nos han permitido percatarnos de los problemas que poseemos tanto en el landing page como en nuestro aplicativo web y nos ha brindado posibles soluciones factibles de manera rápida y eficaz.<br><br>
+
+- Toda la información recaudada de las entrevistas y evaluaciones según heurísticas nos han permitido percatarnos de nuestros puntos débiles y fuertes, aspectos que debemos mejorar y arreglar, funcionalidades que se deben implementar entre otros, los cuáles se añadirán en su mayor parte en la próxima entrega.<br><br>
+
+- La retroalimentación recibida a partir de la entrega pasada nos permite seguir implementando mejoras continuas a nuestro proyecto, para poder presentar hacia nuestro público objetivo un servicio de calidad y que cumpla totalmente con las necesidades que se les presenta, y de esta manera superar las adversidades.<br><br>
+
 
 
 
