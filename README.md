@@ -3403,7 +3403,7 @@ Los puntos desarrollados en este sprint, está reflejado en el siguiente video, 
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-Para realizar el despliegue automático de nuestro Front-End, utilizamos la herramienta Vercel, la cual nos permite realizar el despliegue de manera sencilla y rápida, además de no generar errores en la compilación, por lo que podemos generar una página web. El [link de nuestro Front-End](https://studistay-app.vercel.app) es el siguiente:
+Para realizar el despliegue automático de nuestro Front-End, utilizamos la herramienta Vercel, la cual nos permite realizar el despliegue de manera sencilla y rápida, además de no generar errores en la compilación, por lo que podemos generar una página web. El link de nuestro Front-End es el siguiente: https://studistay-app.vercel.app
 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
