@@ -3102,7 +3102,6 @@ Para la realización de los commits de nuestro segundo Sprint, utilizamos los ID
 
 </div>
 
-<br>
 
 ### 5.2.3. Sprint 3
 
@@ -3120,7 +3119,6 @@ Para la realización de los commits de nuestro segundo Sprint, utilizamos los ID
 |Sprint 2 Goal|Realizar funcionalidades del servicio|
 |Sprint 2 Velocity|8|
 |Sum of Story Points|21|
-<br>
 
 #### 5.2.3.2. Sprint Backlog 3
 
