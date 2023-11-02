@@ -3102,13 +3102,24 @@ Para la realización de los commits de nuestro segundo Sprint, utilizamos los ID
 
 </div>
 
-
+<br>
 ### 5.2.3. Sprint 3
-
 
 #### 5.2.3.1. Spring Planning 3
 
-
+|Sprint 3|Mejoras en las Funcionalidades de la aplicación - Backend|
+| :- | :- |
+|**Sprint Planning Background**||
+|Date|21/10/2023|
+|Time|19:00|
+|Location|Reunión realizada mediante Discord|
+|Prepared By |Checa Apolinario, Paolo Sebastián|
+|<p>Attendees (to planning</p><p>meeting)</p>|<p>Checa Apolinario, Paolo Sebastián /</p><p>Alejo Cardenas, Luis Angel /</p><p>Ortega Vélez, Jamutaq Piero /</p><p>Yance Gutierrez, Franco Felix /</p><p>Del Carmen Zorrilla, Ray Alessandro</p><p>Llamozas Diaz, Edson Diego </p>|
+|**Sprint Goal & User Stories**||
+|Sprint 2 Goal|Realizar funcionalidades del servicio|
+|Sprint 2 Velocity|8|
+|Sum of Story Points|21|
+<br>
 #### 5.2.3.2. Sprint Backlog 3
 <table align="center"  border="1" width="70%" style="text-align:center;">
   <tr align="center">
