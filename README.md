@@ -3285,11 +3285,9 @@ Para la realización de los commits de nuestro segundo Sprint, utilizamos los ID
   </tr>
 </table>
 
-
-[**Trello Sprint 3**](https://trello.com/b/fB6SXq5b/sprint-3)
 [![Trello](https://media.discordapp.net/attachments/1146490170917535764/1169505087157174324/image.png?ex=6555a57d&is=6543307d&hm=acd089bbbb8161bef0bfe940c4dfdd1ed24ace0ef290ff5c024239d788bc4d5e&=&width=1135&height=655)](https://trello.com/b/fB6SXq5b/sprint-3)
 
-
+Link al trello: https://trello.com/b/fB6SXq5b/sprint-3
 
 #### 5.2.3.3. Development Evidence for Sprint Review
 | Repository   | Branch                                      | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
