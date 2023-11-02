@@ -3110,10 +3110,195 @@ Para la realización de los commits de nuestro segundo Sprint, utilizamos los ID
 
 
 #### 5.2.3.2. Sprint Backlog 3
+<table align="center"  border="1" width="70%" style="text-align:center;">
+  <tr align="center">
+    <td>
+      <b>Sprint #</b>
+    </td>
+    <td colspan=7>
+      Sprint 3
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <b>User Story</b>
+    </td>
+    <td colspan=6>
+      Work-Item / Task
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      <b>Id</b>
+    </td>
+    <td>
+      <b>Title</b>
+    </td>
+    <td>
+      <b>Id</b>
+    </td>
+    <td>
+      <b>Title</b>
+    </td>
+    <td>
+      <b>Description</b>
+    </td>
+    <td>
+      <b>Estimation (Hours)</b>
+    </td>
+    <td>
+      <b>Assigned To</b>
+    </td>
+    <td>
+      <b>Status</b>
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      SSF01
+    </td>
+    <td>
+      Función Crear Publicación
+    </td>
+    <td>
+      SF01
+    </td>
+    <td>
+      Función Crear Publicación (Desarrollado con el Framework Vue)
+    </td>
+    <td>
+      Desarrollo e implementación de la función Crear Publicación, con sus estilos correspondientes
+    </td>
+    <td>
+      3
+    </td>
+    <td>
+      Luis Alejo
+    </td>
+    <td>
+      Done
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      SSF02
+    </td>
+    <td>
+      Función Reserva de Habitación
+    </td>
+    <td>
+      SF02
+    </td>
+    <td>
+      Función Reserva de Habitación (Desarrollado con el Framework Vue)
+    </td>
+    <td>
+      Desarrollo e implementación de la función Reserva de Habitación, con sus estilos correspondientes
+    </td>
+    <td>
+      3
+    </td>
+    <td>
+      Ray Del Carmen
+    </td>
+    <td>
+      Done
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      SSF03
+    </td>
+    <td>
+      Corrección de datos con Codificación Rígida
+    </td>
+    <td>
+      SF03
+    </td>
+    <td>
+      Corrección de codificación rígida en el proyecto
+    </td>
+    <td>
+      Corrección e implementación de métodos para obtención de datos de manera externa
+    </td>
+    <td>
+      4
+    </td>
+    <td>
+      Paolo Checa
+    </td>
+    <td>
+      Done
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      SSF04
+    </td>
+    <td>
+      Perfil de Usuario
+    </td>
+    <td>
+      SF04
+    </td>
+    <td>
+      Apartado del Perfil de Usuario (Desarrollado con el Framework Vue)
+    </td>
+    <td>
+      Desarrollo e implementación del apartado Perfil de Usuario, con sus características y estilos correspondientes.
+    </td>
+    <td>
+      4
+    </td>
+    <td>
+      Franco Yance
+    </td>
+    <td>
+      Done
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      SSF05
+    </td>
+    <td>
+      Backend API
+    </td>
+    <td>
+      SF05
+    </td>
+    <td>
+      Desarrollo del Backend
+    </td>
+    <td>
+      Desarrollo e implementación de nuestro Backend, desarrollado en lenguaje C#
+    </td>
+    <td>
+      8
+    </td>
+    <td>
+      Jamutaq Ortega
+    </td>
+    <td>
+      Done
+    </td>
+  </tr>
+</table>
+
+
+[**Trello Sprint 3**](https://trello.com/b/fB6SXq5b/sprint-3)
+[![Trello](https://media.discordapp.net/attachments/1146490170917535764/1169505087157174324/image.png?ex=6555a57d&is=6543307d&hm=acd089bbbb8161bef0bfe940c4dfdd1ed24ace0ef290ff5c024239d788bc4d5e&=&width=1135&height=655)](https://trello.com/b/fB6SXq5b/sprint-3)
+
 
 
 #### 5.2.3.3. Development Evidence for Sprint Review
-
+| Repository   | Branch                                      | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
+| ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
+| StudiStayAPI | develop | a6dd46e | add: controllers | - | 18/10/2023 |
+| StudiStayAPI | feature/universities | 2f19d16 | add: new fields to User & Post entities | - | 19/10/2023 |
+| StudiStayAPI | feature/universitiesV2 | 2031207 | fix: add University domain | - | 25/10/2023 |
+| StudiStayAPI | feature/posts | b1ce036   | feat: add get post by id | - | 25/10/2023 |
+| StudiStayAPI | feature/reservations | b3955b0 | feat: add reservations | - | 25/10/2023 |
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
