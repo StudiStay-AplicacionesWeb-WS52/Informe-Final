@@ -3403,14 +3403,60 @@ Los puntos desarrollados en este sprint, está reflejado en el siguiente video, 
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
+Para realizar el despliegue automático de nuestro Front-End, utilizamos la herramienta Vercel, la cual nos permite realizar el despliegue de manera sencilla y rápida, además de no generar errores en la compilación, por lo que podemos generar una página web. El [link de nuestro Front-End](https://studistay-app.vercel.app) es el siguiente:
+
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
+Para la realización de los commits de nuestro segundo Sprint, utilizamos los IDEs Webstorm y Visual Studio Code, además del uso de Git. Uno de los integrantes realizó un primer commit para la creación del repositorio, luego utilizando Git clonamos el repositorio, para luego realizar los cambios y crear los branches correspondientes a dichos cambios, para finalmente realizar el commit, el cual deberá ser revisado dentro del repositorio de Github.
+
+![Alt Text](https://cdn.discordapp.com/attachments/1146490170917535764/1169524926315769866/5_2_3_8_1.png?ex=6555b7f7&is=654342f7&hm=54f525b1d4623fc39d3510aef73ba737f31b67d41fff65923d483be4a8322e61&)
+
+![Alt Text](https://cdn.discordapp.com/attachments/1146490170917535764/1169525595210780682/5_2_3_8_2.png?ex=6555b896&is=65434396&hm=81117768826d294d851e46e4e80307d54af95ceadbfabe6350b5ba32b6151ebf&)
 
 ## 5.3. Validation Interviews
 
 
 ### 5.3.1. Diseño de Entrevistas
+#### Segmento 1: Estudiantes que buscan información sobre habitaciones
+
+##### Presentación del entrevistado
+
+- ¿Cuál es tu nombre?
+- ¿Qué edad tienes?
+- ¿Hace cuánto estás en busca de una habitación cercana a tu centro de estudio?
+
+##### Explicación de los alcances de la demostración
+
+- Landing Page
+- Principales tareas en la aplicación
+
+##### Navegación a través de la aplicación web
+
+###### User Flow: Reserva de habitación
+
+1. El usuario ingresa a la Landing Page
+2. Pulsa el botón que redirige hacia la aplicación
+3. Realiza el registro correspondiente
+4. Se redirige a la sección de Post
+5. Selecciona una habitación de su preferencia
+6. Ingresa los campos solicitados
+7. Confirma la reserva
+
+##### Preguntas Principales
+
+- ¿Consideras atractiva la manera en la que nuestro producto está promocionado en la Landing Page?
+- ¿Consideras que el landing page muestra la información necesaria para entender el funcionamiento, propósito y virtudes que ofrece la aplicación?
+- ¿Resulta agradable a la vista la manera en la que la información está distribuida?
+- ¿Qué dispositivo has usado para acceder al Landing Page? ¿La página presenta algún tipo de inconveniente de diseño que impida navegar de manera fluida?
+- Del 1 al 10 ¿Cómo calificarías el diseño de la Landing Page?
+- ¿Qué opinas acerca del apartado de Posts en la aplicación web?
+- ¿Se te presentó con facilidad la opción de reserva de habitaciones?
+- En pocas palabras, ¿cómo describirías nuestra aplicación web?
+- ¿Qué características específicas deseas que agreguemos a la aplicación web?
+- ¿De todas las características evidenciadas en la aplicación web, cuál crees que debería mejorarse? ¿Por qué?
+- ¿Consideras que el diseño es adecuado
+
 
 
 ### 5.3.2. Registro de Entrevistas
