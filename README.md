@@ -3117,7 +3117,7 @@ Para la realización de los commits de nuestro segundo Sprint, utilizamos los ID
 |<p>Attendees (to planning</p><p>meeting)</p>|<p>Checa Apolinario, Paolo Sebastián /</p><p>Alejo Cardenas, Luis Angel /</p><p>Ortega Vélez, Jamutaq Piero /</p><p>Yance Gutierrez, Franco Felix /</p><p>Del Carmen Zorrilla, Ray Alessandro</p><p>Llamozas Diaz, Edson Diego </p>|
 |**Sprint Goal & User Stories**||
 |Sprint 2 Goal|Realizar funcionalidades del servicio|
-|Sprint 2 Velocity|8|
+|Sprint 2 Velocity|25|
 |Sum of Story Points|21|
 
 #### 5.2.3.2. Sprint Backlog 3
