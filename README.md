@@ -56,7 +56,7 @@
 
 <div align="center">
 
-Link al video de exposición: [Video de exposición TB2 - StudiStay]()
+Link al video de exposición: [Video de exposición TB2 - StudiStay](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124061_upc_edu_pe/EbPbHpoteOlNvWVidFSDm6IBZZzLfum3QDfMxyZQasAarA?e=daRYBm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 </div>
 
