@@ -3705,8 +3705,23 @@ Ajustar el tamaño de la imagen del logo para una mejor apreciación por parte d
 
 ## 5.4. Video About-the-Product
 
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1168323634331402430/image.png">
+  
+</div>
+
+Link al video: [Video About-the-Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EXHhn1-yFAtDm_VPm2Tu0XwBU9eyK7L9X0EGteIbHtdlzQ?e=ksCvgB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 ## 5.5. Video About-the-Team
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1169428063017242685/image.png">
+  
+</div>
+
+Link al video: [Video About-the-Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124061_upc_edu_pe/EYY8IZCqlndOlubzsyk5rwIBAYyjQbI1H1OScq3mjmT5Gw?e=7Deg6g&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 # Conclusiones 
 
