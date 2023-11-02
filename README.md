@@ -3103,6 +3103,7 @@ Para la realización de los commits de nuestro segundo Sprint, utilizamos los ID
 </div>
 
 <br>
+
 ### 5.2.3. Sprint 3
 
 #### 5.2.3.1. Spring Planning 3
@@ -3120,7 +3121,9 @@ Para la realización de los commits de nuestro segundo Sprint, utilizamos los ID
 |Sprint 2 Velocity|8|
 |Sum of Story Points|21|
 <br>
+
 #### 5.2.3.2. Sprint Backlog 3
+
 <table align="center"  border="1" width="70%" style="text-align:center;">
   <tr align="center">
     <td>
