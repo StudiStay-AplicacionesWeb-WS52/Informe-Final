@@ -565,6 +565,38 @@ StudiStay no solo cambiará cómo los estudiantes encuentran alojamiento, sino q
         Soy una persona apasionada por la tecnología y la programación, siempre interesado en estar al día con las últimas tendencias y avances en el área. Me encanta trabajar en equipo y colaborar para idear soluciones innovadoras y efectivas a problemáticas de la vida real. También me atrae el mundo de las start-ups y cómo pueden tener un impacto positivo en la sociedad a través de la tecnología. Me caracterizo por tener un pensamiento analítico y creativo, y siempre busco dar distintos puntos de vista a la hora de realizar un trabajo. Estoy comprometido en seguir aprendiendo y contribuyendo al desarrollo de la industria de la tecnología.
         </td>
     </tr>
+    <tr align="center">
+        <td rowspan="4">
+            <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1169430052451123230/Diego_foto.jpg?ex=65555f9b&is=6542ea9b&hm=519dcd2545a93db2e5a08ceb03b40a2b676284c00a5b19b1909756e7061c9987&" alt="Integrante6" style="margin-bottom: 5px;" width="600"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+            Edson Diego Llamozas Diaz
+        </td>
+    </tr>
+   <tr>
+        <td align="left">
+        <b>Codigo:</b>
+        <br>
+        U202319398
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Descripción de carrera:</b>
+        <br>
+        La carrera de Ingeniería de Software es una disciplina que requiere no solo el conocimiento en programación y tecnología sino la organización y pensamiento crítico para llevar a cabo un proyecto. Además de muchas veces requerir el pensar fuera de la caja para solucionar los diferentes problemas así como ocurre con las diferentes ingenierías.
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Conocimiento y habilidades:</b>
+        <br>
+       Tengo conocimiento en Python, C++, SQL y principalmente Javascript y Nodejs de los cuales tengo conocimiento para crear aplicaciones Back-end y APIS. Además tengo habilidades en lo que respecta a la resolución de problemas
+        </td>
+    </tr>
+
 </table>
 
 ## 1.2. Solution Profile
