@@ -365,6 +365,12 @@ Link al video de exposición: [Video de exposición TB2 - StudiStay](https://upc
         - [Navegación a través de la aplicación web](#navegación-a-través-de-la-aplicación-web)
           - [User Flow: Reserva de habitación](#user-flow-reserva-de-habitación)
         - [Preguntas Principales](#preguntas-principales)
+      - [Segmento 2: Arrendadores que buscan alquilar habitaciones](#segmento-2-arrendadores-que-buscan-alquilar-habitaciones)
+        - [Presentación del entrevistado](#presentación-del-entrevistado-1)
+        - [Explicación de los alcances de la demostración](#explicación-de-los-alcances-de-la-demostración-1)
+        - [Navegación a través de la aplicación web](#navegación-a-través-de-la-aplicación-web-1)
+          - [User Flow: Publicar habitación](#user-flow-publicar-habitación)
+        - [Preguntas Principales](#preguntas-principales-1)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
     - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
   - [5.4. Video About-the-Product](#54-video-about-the-product)
@@ -3515,7 +3521,44 @@ Para la realización de los commits de nuestro segundo Sprint, utilizamos los ID
 - ¿De todas las características evidenciadas en la aplicación web, cuál crees que debería mejorarse? ¿Por qué?
 - ¿Consideras que el diseño es adecuado
 
+#### Segmento 2: Arrendadores que buscan alquilar habitaciones
 
+##### Presentación del entrevistado
+
+- ¿Cuál es tu nombre?
+- ¿Qué edad tienes?
+- ¿Hace cuánto quiere promocionar las habitaciones que posee?
+
+##### Explicación de los alcances de la demostración
+
+- Landing Page
+- Principales tareas en la aplicación
+
+##### Navegación a través de la aplicación web
+
+###### User Flow: Publicar habitación
+
+1. El usuario ingresa a la Landing Page
+2. Pulsa el botón que redirige hacia la aplicación
+3. Realiza el registro correspondiente
+4. Se redirige a la sección de Post
+5. Selecciona la opción agregar habitación
+6. Ingresa los campos solicitados
+7. Confirma la habitación agregada
+
+##### Preguntas Principales
+
+- ¿Consideras atractiva la manera en la que nuestro producto está promocionado en la Landing Page?
+- ¿Consideras que el landing page muestra la información necesaria para entender el funcionamiento, propósito y virtudes que ofrece la aplicación?
+- ¿Resulta agradable a la vista la manera en la que la información está distribuida?
+- ¿Qué dispositivo has usado para acceder al Landing Page? ¿La página presenta algún tipo de inconveniente de diseño que impida navegar de manera fluida?
+- Del 1 al 10 ¿Cómo calificarías el diseño de la Landing Page?
+- ¿Qué opinas acerca del apartado de Posts en la aplicación web?
+- ¿Se te presentó con facilidad la opción de reserva de habitaciones?
+- En pocas palabras, ¿cómo describirías nuestra aplicación web?
+- ¿Qué características específicas deseas que agreguemos a la aplicación web?
+- ¿De todas las características evidenciadas en la aplicación web, cuál crees que debería mejorarse? ¿Por qué?
+- ¿Consideras que el diseño es adecuado
 
 ### 5.3.2. Registro de Entrevistas
 
