@@ -153,7 +153,11 @@ Link al video de exposición: [Video de exposición TB2 - StudiStay](https://upc
     <br>
 
     <div align=center>
-      <img src=""/>
+      <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1169796805509259294/image.png"/>
+    </div>
+
+    <div align=center>
+      <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1169796992164180069/image.png"/>
     </div>
 
 <br><br>
