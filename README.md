@@ -359,6 +359,12 @@ Link al video de exposición: [Video de exposición TB2 - StudiStay](https://upc
       - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
+      - [Segmento 1: Estudiantes que buscan información sobre habitaciones](#segmento-1-estudiantes-que-buscan-información-sobre-habitaciones)
+        - [Presentación del entrevistado](#presentación-del-entrevistado)
+        - [Explicación de los alcances de la demostración](#explicación-de-los-alcances-de-la-demostración)
+        - [Navegación a través de la aplicación web](#navegación-a-través-de-la-aplicación-web)
+          - [User Flow: Reserva de habitación](#user-flow-reserva-de-habitación)
+        - [Preguntas Principales](#preguntas-principales)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
     - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
   - [5.4. Video About-the-Product](#54-video-about-the-product)
@@ -3365,6 +3371,9 @@ Link al trello: https://trello.com/b/fB6SXq5b/sprint-3
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 Los puntos desarrollados en este sprint, está reflejado en el siguiente video, donde se muestra todo lo logrado en este sprint. A continuación el link del video:
+
+![imagen](https://media.discordapp.net/attachments/1146490170917535764/1169892948255707228/image.png?ex=65570eb6&is=654499b6&hm=54a39d946cba7cd6796bea3cde9d443e1ad8f2140ad320d9b94135aeed005587&=&width=1238&height=671)
+[Enlace del vídeo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201911703_upc_edu_pe/ETqpW4wM6mpPg7JLrv9L_XUB1DXE4uG6ADO0bIGeWi67Zw?e=M7bymg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 <table align="center">
