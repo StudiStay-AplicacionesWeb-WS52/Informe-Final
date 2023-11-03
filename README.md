@@ -357,8 +357,6 @@ Link al video de exposición: [Video de exposición TB2 - StudiStay](https://upc
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
     - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
-  - [**UX Heuristics \& Principles Evaluation**](#ux-heuristics--principles-evaluation)
-  - [**UX Heuristics \& Principles Evaluation**](#ux-heuristics--principles-evaluation-1)
   - [5.4. Video About-the-Product](#54-video-about-the-product)
   - [5.5. Video About-the-Team](#55-video-about-the-team)
 - [Conclusiones](#conclusiones-1)
@@ -419,12 +417,29 @@ del ABET – EAC - Student Outcome 5.
         <br><br>
         <b>Yance Gutierrez, Franco Felix</b><br>
         - Vue nos permitió realizar las views de nuestra plataforma en la cual destacaron login, post, universities, details y profile.
-        <br>
-    
+        <br><br>
+        TB2<br><br>
+        <b>Alejo Cardenas, Luis Angel</b><br>
+        - Se realizaron mejoras en el frontend de la aplicación y se implementó el backend para presentar una nueva y mejorada versión de la app.
+        <br><br>
+        <b>Checa Apolinario, Paolo Sebastián</b><br>
+        - Realizamos una nueva versión del servicio, implementando las mejoras continuas recibidas de la entrega anterior.
+        <br><br>
+        <b>Del Carmen Zorrilla, Ray Alessandro</b><br>
+        - Se implementaron mejoras en la funcionalidad principal de la aplicación, optimizando su rendimiento y aumentando la eficiencia del sistema. También se corrigieron varios errores reportados por los usuarios para ofrecer una experiencia más fluida y sin interrupciones.
+        <br><br>
+        <b>Ortega Vélez, Jamutaq Piero</b><br>
+        - Se realizaron mejoras en la aplicación web para mejorar la experiencia de usuario al realizar una reserva. Además, de pulir el diseño de algunos componentes y colaborar en el desarrollo con los otros miembros del equipo.
+        <br><br>
+        <b>Yance Gutierrez, Franco Felix</b><br>
+        - Las entrevistas desempeñaron un papel fundamental en la mejora de nuestra plataforma web. El feedback recibido resultó invaluable para perfeccionar nuestro proyecto. A través de esta retroalimentación, hemos fortalecido nuestra capacidad para satisfacer las necesidades de nuestros usuarios y ofrecer una plataforma más efectiva y funcional.
+        <br><br>
+        <b>Llamozas Diaz, Edson Diego</b><br>
+        - Se realizaron entrevistas que buscaban mejorar tanto la experiencia de usuario desde el frontend como conocer cómo implementar el backend para cubrir estas necesidades.    
         
    </td>
     <td>TB1<br><br>
-    Elegimos un servicio acerca de renta de habitaciones para estudiantes, en el cual desarrollamos el problem statement y las hypothesis statements para dimensionar el desarrollo y solución de la problemática. <br><br> TP1 <br><br> Realizamos la implementación de nuestro Front-End utilizando el framework Vue.
+    Elegimos un servicio acerca de renta de habitaciones para estudiantes, en el cual desarrollamos el problem statement y las hypothesis statements para dimensionar el desarrollo y solución de la problemática. <br><br> TP1 <br><br> Realizamos la implementación de nuestro Front-End utilizando el framework Vue. <br><br> TB2 <br><br> Se desarrollaron nuevas vistas en la parte del Front-end, así como también se implementó el Back-end de nuestra aplicación.
     </td>
     
   </tr>
@@ -460,11 +475,29 @@ del ABET – EAC - Student Outcome 5.
         <br><br>
         <b>Yance Gutierrez, Franco Felix</b><br>
         - Implementé los detalles a la vista  post-list, la cual muestra información más detallada de las ofertas.
-        <br>
+        <br><br>
+        TB2<br><br>
+        <b>Alejo Cardenas, Luis Angel</b><br>
+        - Se realizaron entrevistas a ambos sectores para recaudar información sobre qué mejoras y nuevas funcionalidades se pueden añadir a nuestra aplicación web.
+        <br><br>
+        <b>Checa Apolinario, Paolo Sebastián</b><br>
+        - Se implementaron nuevas vistas las cuales cumplen lo requerido por los usuarios para afrontar las dificultades que poseen mediante nuestra aplicación web.
+        <br><br>
+        <b>Del Carmen Zorrilla, Ray Alessandro</b><br>
+        - Se llevó a cabo un análisis exhaustivo de la retroalimentación de los usuarios, identificando áreas clave de mejora en nuestra aplicación web. Posteriormente, se diseñaron y desarrollaron nuevas características y funcionalidades para abordar las necesidades y desafíos identificados, mejorando así la experiencia del usuario.
+        <br><br>
+        <b>Ortega Vélez, Jamutaq Piero</b><br>
+        - Se implementaron los servicios para las respectivas entidades, cumpliendo con los requerimientos funcionales y no funcionales, y también la lógica de negocio. Además de consumirlo desde las aplicaciones web.
+        <br><br>
+        <b>Yance Gutierrez, Franco Felix</b><br>
+        - Nuestra habilidad para comunicar de manera objetiva en el ámbito de la ingeniería, específicamente en el desarrollo de nuestra plataforma web, se ha enriquecido a través del proceso de entrevistas. Esta retroalimentación ha contribuido significativamente a mejorar nuestra comunicación escrita, permitiéndonos conectar eficazmente con audiencias de diversas especialidades y niveles jerárquicos.
+        <br><br>
+        <b>Llamozas Diaz, Edson Diego</b><br>
+        - Se llevaron a cabo entrevistas no solo para comprobar la viabilidad de nuestra idea con nuestro segmento objetivo sino que además se comprobó que la aplicación fuera lo más amigable posible con los usuarios.
 
    </td>
     <td>TB1<br><br>
-    Recopilamos información necesaria para poder hacer frente a los competidores y ofrecer un producto novedoso basado en la tecnología. <br><br> TP1 <br><br> Reunimos información para realizar el despliegue automático de nuestro desarrollo Front-End.
+    Recopilamos información necesaria para poder hacer frente a los competidores y ofrecer un producto novedoso basado en la tecnología. <br><br> TP1 <br><br> Reunimos información para realizar el despliegue automático de nuestro desarrollo Front-End. <br><br> TB2 <br><br> Realizamos una nueva versión del servicio, el cual seguirá recibiendo mejoras continuas por parte de nuestro equipo de trabajo.
     </td>
   </tr>
 </table>
@@ -3692,12 +3725,9 @@ Yan destaca puntos importantes para la entrevista los cuales son, que se debe me
 ### 5.3.3. Evaluaciones según heurísticas
 
 **UX Heuristics & Principles Evaluation**
----
+
 
 En esta sección se realizará el reporte de Heurísticas de usabilidad que se ecnotnraron en la realización de la valdiación con posibles usuarios según su segmento.
-
-**UX Heuristics & Principles Evaluation**
---- 
 
 **Usability – Inclusive Design – Information Architecture**
 
