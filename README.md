@@ -3550,12 +3550,12 @@ Para la realización de los commits de nuestro segundo Sprint, utilizamos los ID
 
 - ¿Consideras atractiva la manera en la que nuestro producto está promocionado en la Landing Page?
 - ¿Consideras que el landing page muestra la información necesaria para entender el funcionamiento, propósito y virtudes que ofrece la aplicación?
-- ¿Resulta agradable a la vista la manera en la que la información está distribuida?
+- ¿Resulta agradable a la vista la manera en la que la información está distribuída?
 - ¿Qué dispositivo has usado para acceder al Landing Page? ¿La página presenta algún tipo de inconveniente de diseño que impida navegar de manera fluida?
 - Del 1 al 10 ¿Cómo calificarías el diseño de la Landing Page?
 - ¿Qué opinas acerca del apartado de Posts en la aplicación web?
-- ¿Se te presentó con facilidad la opción de reserva de habitaciones?
-- En pocas palabras, ¿cómo describirías nuestra aplicación web?
+- ¿Se le presentó con facilidad la opción de agregar habitaciones?
+- En pocas palabras, ¿cómo describiría nuestra aplicación web?
 - ¿Qué características específicas deseas que agreguemos a la aplicación web?
 - ¿De todas las características evidenciadas en la aplicación web, cuál crees que debería mejorarse? ¿Por qué?
 - ¿Consideras que el diseño es adecuado
