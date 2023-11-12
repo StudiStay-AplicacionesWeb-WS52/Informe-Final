@@ -330,6 +330,7 @@ Link al video de exposición: [Video de exposición TB2 - StudiStay](https://upc
     - [5.1.3. Source Code Style Guide \& Conventions](#513-source-code-style-guide--conventions)
     - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
   - [5.2. Landing Page, Services \& Applications Implementation](#52-landing-page-services--applications-implementation)
+
     - [5.2.1. Sprint 1](#521-sprint-1)
       - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
       - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
@@ -339,6 +340,7 @@ Link al video de exposición: [Video de exposición TB2 - StudiStay](https://upc
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+
     - [5.2.2. Sprint 2](#522-sprint-2)
       - [5.2.2.1. Sprint Planning 2.](#5221-sprint-planning-2)
       - [5.2.2.2. Sprint Backlog 2.](#5222-sprint-backlog-2)
@@ -348,6 +350,7 @@ Link al video de exposición: [Video de exposición TB2 - StudiStay](https://upc
       - [5.2.2.6. Services Documentation Evidence for Sprint Review.](#5226-services-documentation-evidence-for-sprint-review)
       - [5.2.2.7. Software Deployment Evidence for Sprint Review.](#5227-software-deployment-evidence-for-sprint-review)
       - [5.2.2.8. Team Collaboration Insights during Sprint 2.](#5228-team-collaboration-insights-during-sprint-2)
+
     - [5.2.3. Sprint 3](#523-sprint-3)
       - [5.2.3.1. Spring Planning 3](#5231-spring-planning-3)
       - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
@@ -357,6 +360,17 @@ Link al video de exposición: [Video de exposición TB2 - StudiStay](https://upc
       - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+
+    - [5.2.4. Sprint 4](#524-sprint-4)
+      - [5.2.4.1. Spring Planning 4](#5241-spring-planning-3)
+      - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-3)
+      - [5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
+      - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
+
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
       - [Segmento 1: Estudiantes que buscan información sobre habitaciones](#segmento-1-estudiantes-que-buscan-información-sobre-habitaciones)
@@ -373,6 +387,7 @@ Link al video de exposición: [Video de exposición TB2 - StudiStay](https://upc
         - [Preguntas Principales](#preguntas-principales-1)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
     - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+
   - [5.4. Video About-the-Product](#54-video-about-the-product)
   - [5.5. Video About-the-Team](#55-video-about-the-team)
 - [Conclusiones](#conclusiones-1)
@@ -3477,6 +3492,37 @@ Para la realización de los commits de nuestro segundo Sprint, utilizamos los ID
 ![Alt Text](https://cdn.discordapp.com/attachments/1146490170917535764/1169524926315769866/5_2_3_8_1.png?ex=6555b7f7&is=654342f7&hm=54f525b1d4623fc39d3510aef73ba737f31b67d41fff65923d483be4a8322e61&)
 
 ![Alt Text](https://cdn.discordapp.com/attachments/1146490170917535764/1169525595210780682/5_2_3_8_2.png?ex=6555b896&is=65434396&hm=81117768826d294d851e46e4e80307d54af95ceadbfabe6350b5ba32b6151ebf&)
+
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4
+
+|Sprint 4|Implementaciones finales|
+| :- | :- |
+|**Sprint Planning Background**||
+|Date|12/11/2023|
+|Time|12:00|
+|Location|Reunión realizada mediante Discord|
+|Prepared By |Checa Apolinario, Paolo Sebastián|
+|<p>Attendees (to planning</p><p>meeting)</p>|<p>Checa Apolinario, Paolo Sebastián /</p><p>Alejo Cardenas, Luis Angel /</p><p>Ortega Vélez, Jamutaq Piero /</p><p>Yance Gutierrez, Franco Felix /</p><p>Del Carmen Zorrilla, Ray Alessandro</p><p>Llamozas Diaz, Edson Diego </p>|
+|**Sprint Goal & User Stories**||
+|Sprint 2 Goal|Implementaciones finales del Web Application y Web Service|
+|Sprint 2 Velocity||
+|Sum of Story Points||
+
+#### 5.2.4.2. Sprint Backlog 4
+
+#### 5.2.4.3. Development Evidence for Sprint Review
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+#### 5.2.4.7.Software Deployment Evidence for Sprint Review
+
+#### 5.2.4.8.Team Collaboration Insights during Sprint
 
 ## 5.3. Validation Interviews
 
