@@ -2310,7 +2310,7 @@ A continuación, se presenta detalladamente las clases más relevantes con sus a
     <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1170068464505995315/image.png?ex=6557b22c&is=65453d2c&hm=cd255a4f9923380d4f1cd78cfa4a5aa4ab17b40975ccebb9b66fc2e25c6f14a2&"/>
 </div>
 
-Enlace del database diagram: [Ver diagrama](https://cdn.discordapp.com/attachments/1146490170917535764/1147639660609278012/StudiStay-2023-09-02_12-23.png)
+Enlace del database diagram: [Ver diagrama](https://cdn.discordapp.com/attachments/1146490170917535764/1170068464505995315/image.png)
 
 
 # Capítulo V: Product Implementation, Validation & Deployment
