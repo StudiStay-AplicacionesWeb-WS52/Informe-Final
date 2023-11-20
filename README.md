@@ -3408,7 +3408,7 @@ Para realizar el despliegue automático de nuestro Front-End, utilizamos la herr
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
-Para la realización de los commits de nuestro segundo Sprint, utilizamos los IDEs Webstorm y Visual Studio Code, además del uso de Git. Uno de los integrantes realizó un primer commit para la creación del repositorio, luego utilizando Git clonamos el repositorio, para luego realizar los cambios y crear los branches correspondientes a dichos cambios, para finalmente realizar el commit, el cual deberá ser revisado dentro del repositorio de Github.
+Para la realización de los commits de nuestro tercer Sprint, utilizamos los IDEs Rider y Visual Studio Code, además del uso de Git. Uno de los integrantes realizó un primer commit para la creación del repositorio, luego utilizando Git clonamos el repositorio, para luego realizar los cambios y crear los branches correspondientes a dichos cambios, para finalmente realizar el commit, el cual deberá ser revisado dentro del repositorio de Github.
 
 ![Alt Text](https://cdn.discordapp.com/attachments/1146490170917535764/1169524926315769866/5_2_3_8_1.png?ex=6555b7f7&is=654342f7&hm=54f525b1d4623fc39d3510aef73ba737f31b67d41fff65923d483be4a8322e61&)
 
@@ -3428,22 +3428,290 @@ Para la realización de los commits de nuestro segundo Sprint, utilizamos los ID
 |<p>Attendees (to planning</p><p>meeting)</p>|<p>Checa Apolinario, Paolo Sebastián /</p><p>Alejo Cardenas, Luis Angel /</p><p>Ortega Vélez, Jamutaq Piero /</p><p>Yance Gutierrez, Franco Felix /</p><p>Del Carmen Zorrilla, Ray Alessandro</p><p>Llamozas Diaz, Edson Diego </p>|
 |**Sprint Goal & User Stories**||
 |Sprint 2 Goal|Implementaciones finales del Web Application y Web Service|
-|Sprint 2 Velocity||
-|Sum of Story Points||
+|Sprint 2 Velocity| 25 |
+|Sum of Story Points| 20 |
 
 #### 5.2.4.2. Sprint Backlog 4
 
+<table align="center"  border="1" width="70%" style="text-align:center;">
+  <tr align="center">
+    <td>
+      <b>Sprint #</b>
+    </td>
+    <td colspan=7>
+      Sprint 4
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <b>User Story</b>
+    </td>
+    <td colspan=6>
+      Work-Item / Task
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      <b>Id</b>
+    </td>
+    <td>
+      <b>Title</b>
+    </td>
+    <td>
+      <b>Id</b>
+    </td>
+    <td>
+      <b>Title</b>
+    </td>
+    <td>
+      <b>Description</b>
+    </td>
+    <td>
+      <b>Estimation (Hours)</b>
+    </td>
+    <td>
+      <b>Assigned To</b>
+    </td>
+    <td>
+      <b>Status</b>
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      SSF01
+    </td>
+    <td>
+      Implementación de Seguridad
+    </td>
+    <td>
+      SF01
+    </td>
+    <td>
+      Seguridad dentro de nuestro servicio
+    </td>
+    <td>
+      Desarrollo e implementación enfocado en la seguridad contenida en el uso del servicio proporcionado
+    </td>
+    <td>
+      5
+    </td>
+    <td>
+      Jamutaq Ortega
+    </td>
+    <td>
+      Done
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      SSF02
+    </td>
+    <td>
+      Implementar Localidad en el backend
+    </td>
+    <td>
+      SF02
+    </td>
+    <td>
+      Desarrollo de la entidad localidad en el Backend
+    </td>
+    <td>
+      Desarrollo e implementación en el Backend, desarrollado en lenguaje C#
+    </td>
+    <td>
+      5
+    </td>
+    <td>
+      Diego Llamozas
+    </td>
+    <td>
+      Done
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      SSF03
+    </td>
+    <td>
+      Implementación de internacionalización en Landing Page
+    </td>
+    <td>
+      SF03
+    </td>
+    <td>
+      Implementación de internacionalización
+    </td>
+    <td>
+      Desarrollo e implementación de opciones para cambiar entre idiomas (español e inglés) en el Landing Page
+    </td>
+    <td>
+      5
+    </td>
+    <td>
+      Paolo Checa
+    </td>
+    <td>
+      Done
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      SSF04
+    </td>
+    <td>
+      Internacionalización en Web Application
+    </td>
+    <td>
+      SF04
+    </td>
+    <td>
+      Implementación de internacionalización
+    </td>
+    <td>
+      Desarrollo e implementación de opciones para cambiar entre idiomas (español e inglés) en la Web Application
+    </td>
+    <td>
+      5
+    </td>
+    <td>
+      Ray Del Carmen
+    </td>
+    <td>
+      Done
+    </td>
+  </tr>
+  <tr align="left">
+    <td>
+      SSF05
+    </td>
+    <td>
+      -
+    </td>
+    <td>
+      SF05
+    </td>
+    <td>
+      -
+    </td>
+    <td>
+      -
+    </td>
+    <td>
+      -
+    </td>
+    <td>
+      -
+    </td>
+    <td>
+      -
+    </td>
+  </tr>
+</table>
+
 #### 5.2.4.3. Development Evidence for Sprint Review
 
+| Repository   | Branch                                      | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
+| ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
+| StudiStayAPI | feature/add-security | 846fcbe | feature: add security | - | 17/11/2023 |
+| StudiStayAPI | feature/add-security | 5e73ed9 | feature: user repository | - | 17/11/20233 |
+| StudiStayAPI | feature/add-security | 0c37cee | feature: user service | - | 17/11/2023 |
+| StudiStayAPI | feature/add-security | 29e41e0 | feature: user controller | - | 17/11/2023 |
+| StudiStayAPI | feature/add-security | 415d6bc | feature: add JWT Handler | - | 17/11/2023 |
+| StudiStayAPI | feature/add-security | d498d13 | feature: add exception handler | - | 17/11/2023 |
+| StudiStayAPI | feature/add-security | ffb81e3 | feature: add error handler middleware | - | 17/11/2023 |
+| StudiStayAPI | feature/add-security | 3b2a9eb | feature: add authentication config | - | 17/11/2023 |
+| StudiStayAPI | feature/add-security | d537eee | feature: add jwt secrets | - | 17/11/2023 |
+| StudiStayAPI | feature/add-security | cb65ae3 | feature: add dto response | - | 17/11/2023 |
+| StudiStayAPI | feature/add-security | 873ccc3 | feature: add user api response | - | 17/11/2023 |
+| StudiStayAPI | feature/add-security | 89beb50 | feature: add profile format | - | 17/11/2023 |
+| StudiStayAPI | feature/add-security | 6308a6a | feature: dto authentication | - | 17/11/2023 |
+| StudiStayAPI | feature/add-security | fcbf3e3 | feature: add register dto | - | 17/11/2023 |
+| StudiStayAPI | feature/add-security | c4295ff | update: referencies | - | 17/11/2023 |
+| StudiStayAPI | feature/add-security | 13240d5 | feature: add university service | - | 17/11/2023 |
+| StudiStayAPI | feature/add-security | bb73f0b | feature: add university controller | - | 17/11/2023 |
+| StudiStayAPI | feature/add-security | 8bdd74d | chore: metadata | - | 17/11/2023 |
+| StudiStayAPI | feature/add-security | ea7a600 | update: referencies | - | 17/11/2023 |
+| StudiStayAPI | feature/add-security | 032f623 | update: referencies in controller | - | 17/11/2023 |
+| StudiStayAPI | feature/add-security | f275b7b | update: dtos | - | 17/11/2023 |
+| StudiStayAPI | feature/add-security | d53e38d | feature: reservations | - | 18/11/2023 |
+
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+| Repository   | Branch                                      | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
+| ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
+| acceptance-test | main | 9b3e5af   | feature: studistay01.feature | -                   | 04/09/2023       |
+| acceptance-test | main | 05dbb18   | feature: studistay02.feature | -                   | 04/09/2023       |
+| acceptance-test | main | 1f6ad4o   | feature: studistay04.feature | -                   | 04/09/2023       |
+| acceptance-test | main | 5vf76qa   | feature: studistay06.feature | -                   | 04/09/2023       |
+| acceptance-test | main | 3f254f8   | feature: studistay07.feature | -                   | 04/09/2023       |
+| acceptance-test | main | 7b23cb8   | feature: studistay09.feature | -                   | 24/10/2023       |
+| acceptance-test | main | ca860d1   | feature: studistay10.feature | -                   | 24/10/2023       |
+| acceptance-test | main | 9r23avc   | feature: studistay11.feature | -                   | 24/10/2023       |
+| acceptance-test | main | 82rh5lf   | feature: studistay12.feature | -                   | 24/10/2023       |
+| acceptance-test | main | 35c6452   | feature: studistay13.feature | -                   | 24/10/2023       |
+| acceptance-test | main | df88484   | feature: studistay14.feature | -                   | 24/10/2023       |
+| acceptance-test | main | 92e3f76   | feature: studistay15.feature | -                   | 24/10/2023       |
+| acceptance-test | main | 7867a63   | feature: studistay17.feature | -                   | 24/10/2023       |
+| acceptance-test | main | 31027cb   | feature: studistay18.feature | -                   | 24/10/2023       |
+| acceptance-test | main | 502ue3a   | feature: studistay19.feature | -                   | 27/10/2023       |
+
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
-#### 5.2.4.7.Software Deployment Evidence for Sprint Review
+| EndPoint | Detalles | 
+| - | - |
+| **GET** - /api/v1/post | Obtiene la lista de publicaciones |
+| **POST** - /api/v1/post | Registra una nueva publicación |
+| **GET** - /api/v1/post/{id} | Obtiene el detalle de una publicación |
+| **PUT** - /api/v1/post/{id} | Actualiza por ID una publicación |
+| **DELETE** - /api/v1/post/{id} | Elimina por ID una publicación |
+| **GET** - /api/v1/reservation/user/{id} | Obtiene las reservas de un usuario por ID |
+| **GET** - /api/v1/reservation/post/{id} | Obtiene las reservas de una publicación |
+| **POST** - /api/v1/reservation | Registra una nueva reserva |
+| **PUT** - /api/v1/reservation/{id} | Actualiza una reserva por ID |
+| **DELETE** - /api/v1/reservation/{id} | Elimina una reserva |
+| **GET** - /api/v1/university | Obtiene el listado de universidades |
+| **POST** - /api/v1/university | Registra una universidad |
+| **PUT** - /api/v1/university/{id} | Obtiene el detalle de una universidad |
+| **DELETE** - /api/v1/university/{id} | Elimina una universidad por ID |
+| **GET** - /api/v1/user | Obtiene los usuarios |
+| **POST** - /api/v1/user | Registrar un usuario |
+| **PUT** - /api/v1/user/{id} | Actualiza un usuario por ID |
+| **DELETE** - /api/v1/user/{id} | Elimina un usuario por ID |
 
-#### 5.2.4.8.Team Collaboration Insights during Sprint
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+<br>
+
+- Para realizar el despliegue automático de nuestro Landing Page, utilizamos la función que nos brinda Github Pages, en donde podemos alojar el código de nuestra página para que por medio de la función se pueda visualizar en un enlace autogenerado. El link de nuestro Landing Page es el siguiente: https://studistay-aplicacionesweb-ws52.github.io/landing-page 
+
+<br>
+
+- Para realizar el despliegue automático de nuestro Web Application, utilizamos la herramienta Vercel, el cual permite alojar nuestro código desarrollado y generar una página en base al despliegue del desarrollo. El link de nuestro servicio es el siguiente: https://studistay-app.vercel.app 
+
+<br>
+
+- Para realizar el despliegue automático de nuestro Web Service, nos apoyamos de la herramienta
+
+<br>
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Para la realización de los commits de nuestro tercer Sprint, utilizamos los IDEs Rider y Visual Studio Code, además del uso de Git. Uno de los integrantes realizó un primer commit para la creación del repositorio, luego utilizando Git clonamos el repositorio, para luego realizar los cambios y crear los branches correspondientes a dichos cambios, para finalmente realizar el commit, el cual deberá ser revisado dentro del repositorio de Github.
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1175937381212360896/image.png">
+
+</div>
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1175937943765008454/image.png">
+
+</div>
 
 ## 5.3. Validation Interviews
 
