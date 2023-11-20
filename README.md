@@ -8,7 +8,7 @@
     <strong>Ingeniería de Software - 5to Ciclo</strong><br>
     <strong>Aplicaciones Web - WS52</strong><br>
     <strong>Profesor: Juan Carlos Tinoco Licas</strong><br>
-    <br>INFORME DE TRABAJO FINAL - TP1
+    <br>INFORME DE TRABAJO FINAL - TF1
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@
 
 <div align="center">
 
-Link al video de exposición: [Video de exposición TB2 - StudiStay](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124061_upc_edu_pe/EbPbHpoteOlNvWVidFSDm6IBZZzLfum3QDfMxyZQasAarA?e=daRYBm&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+Link al video de exposición: [Video de exposición TF1 - StudiStay]()
 
 </div>
 
@@ -67,6 +67,7 @@ Link al video de exposición: [Video de exposición TB2 - StudiStay](https://upc
 |TB1|05/09/2023|  Todos los integrantes del equipo | Se definió la propuesta de solución, análisis Lean UX, definición de segmento objetivo, se recogieron los requisitos necesarios para la creación de las herramientas necesarias (User Persons, User stories, Product Backlog, Impact Mapping , entre otros). Luego, se diseñó los mockups y prototipos de la landing page en base a la información obtenida. Finalmente se realizó la landing page con ayuda del sprint backlog para tener un control de los avances.|
 | TP1 | 25/09/2023 | Todos los integrantes del equipo | Se realizaron los puntos del capítulo V: Sprint 2, Sprint Planning 2, Sprint Backlog 2, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint.
 | TB2 | 01/11/2023 | Todos los integrantes del equipo | Se realizaron los puntos del capítulo V: Sprint 3, Sprint Planning 3, Sprint Backlog 3, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint, Diseño de Entrevistas, Registro de Entrevistas, Evaluaciones según heurísticas, Video About-the-Product, Video About-the-Team |
+| TF1 | 20/11/2023 | Todos los integrantes del equipo | Se realizaron los puntos del capítulo V: Sprint 4, Sprint Planning 4, Sprint Backlog 4, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review, Execution Evidence for Sprint Review, Services Documentation Evidence for Sprint Review, Software Deployment Evidence for Sprint Review y Team Collaboration Insights during Sprint |
 
 
 <br><br>
@@ -90,7 +91,7 @@ Link al video de exposición: [Video de exposición TB2 - StudiStay](https://upc
     <br>
 
     <div align=center>
-      <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1149763631228141608/image.png"/>      
+      <img src="https://media.discordapp.net/attachments/1146490170917535764/1176282638156316752/image.png"/>      
     </div>
 
     <br>
@@ -122,7 +123,7 @@ Link al video de exposición: [Video de exposición TB2 - StudiStay](https://upc
     <br>
 
     <div align=center>
-      <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1156352703425949817/image.png"/>      
+      <img src="https://media.discordapp.net/attachments/1146490170917535764/1176285320053002240/image.png"/>      
     </div>
 
 <br><br>
@@ -162,6 +163,35 @@ Link al video de exposición: [Video de exposición TB2 - StudiStay](https://upc
 
 <br><br>
 
+- **TF1:** Para esta entrega, realizamos como equipo las actividades correspondientes al capítulo asignado en el siguiente repositorio dentro de nuestra organización de grupo:
+
+    Link del repositorio del Informe Final: [Github - Informe Final StudiStay](https://github.com/StudiStay-AplicacionesWeb-WS52/Informe-Final)
+
+    <br>
+
+    A continuación, se muestran las capturas de evidencia correspondientes al desarrollo de los siguientes puntos:
+
+    - Sprint 4
+    - Sprint Planning 4
+    - Sprint Backlog 4
+    - Development Evidence for Sprint Review
+    - Testing Suite Evidence for Sprint Review
+    - Execution Evidence for Sprint Review
+    - Services Documentation Evidence for Sprint Review
+    - Software Deployment Evidence for Sprint Review
+    - Team Collaboration Insights during Sprint
+
+    <br>
+
+    <div align=center>
+      <img src="https://media.discordapp.net/attachments/1146490170917535764/1176286363411304548/image.png"/>
+    </div>
+
+    <div align=center>
+      <img src="https://media.discordapp.net/attachments/1146490170917535764/1176286702692741261/image.png"/>
+    </div>
+
+<br><br>
     
 
 # Contenido
