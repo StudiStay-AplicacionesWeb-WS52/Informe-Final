@@ -56,7 +56,7 @@
 
 <div align="center">
 
-Link al video de exposición: [Video de exposición TF1 - StudiStay]()
+Link al video de exposición: [Video de exposición TF1 - StudiStay](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/EfEUQiHbqN1OlRo9oz0WPy0BUIVO-5emcS-vqvxje5U02A?e=DSvUeB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 </div>
 
@@ -3615,28 +3615,38 @@ Para la realización de los commits de nuestro tercer Sprint, utilizamos los IDE
       SSF05
     </td>
     <td>
-      -
+      Implementación de nuevos Endpoints
     </td>
     <td>
       SF05
     </td>
     <td>
-      -
+      Desarrollo de Endpoints
     </td>
     <td>
-      -
+      Desarrollo e implementación de Endpoints faltantes
     </td>
     <td>
-      -
+      5
     </td>
     <td>
-      -
+      Jamutaq Ortega, Diego Llamozas
     </td>
     <td>
-      -
+      Done
     </td>
   </tr>
 </table>
+
+<div align="center">
+
+  <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1176403665431560253/image.png">
+
+</div>
+
+Link del Trello: https://trello.com/b/9avdVvHj/sprint-4
+
+
 
 #### 5.2.4.3. Development Evidence for Sprint Review
 
@@ -3687,6 +3697,14 @@ Para la realización de los commits de nuestro tercer Sprint, utilizamos los IDE
 
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
+
+<div align="center">
+
+  <img src="">
+
+</div>
+
+Los puntos desarrollados en este sprint, está reflejado en el siguiente video, donde se muestra todo lo logrado en este sprint. A continuación el link del video: [Video de Ejecución]()
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
@@ -4313,7 +4331,7 @@ Link al video: [Video About-the-Product](https://upcedupe-my.sharepoint.com/:v:/
   
 </div>
 
-Link al video: [Video About-the-Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124061_upc_edu_pe/EYY8IZCqlndOlubzsyk5rwIBAYyjQbI1H1OScq3mjmT5Gw?e=7Deg6g&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+Link al video: [Video About-the-Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112749_upc_edu_pe/Ef21LcgKU7xHlhne7egYNVgB-LTVolVZE-hOjHRWFqL0jA?e=QzL5HZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 # Conclusiones 
 
