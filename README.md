@@ -3741,7 +3741,7 @@ Los puntos desarrollados en este sprint, está reflejado en el siguiente video, 
 
 <br>
 
-- Para realizar el despliegue automático de nuestro Web Service, nos apoyamos de la herramienta
+- Para realizar el despliegue automático de nuestro Web Service, nos apoyamos de la herramienta Azure, la cual nos permite alojar nuestro código para poder consumirlo en nuestra aplicación. El link generado en Swagger es el siguiente: https://studistay.azurewebsites.net/swagger/index.html
 
 <br>
 
