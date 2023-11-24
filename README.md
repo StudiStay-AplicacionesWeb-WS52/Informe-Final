@@ -303,7 +303,7 @@ Link al video de exposición: [Video de exposición TF1 - StudiStay](https://upc
       - [5.2.2.8. Team Collaboration Insights during Sprint 2.](#5228-team-collaboration-insights-during-sprint-2)
 
     - [5.2.3. Sprint 3](#523-sprint-3)
-      - [5.2.3.1. Spring Planning 3](#5231-spring-planning-3)
+      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
       - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
       - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
       - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
@@ -313,7 +313,7 @@ Link al video de exposición: [Video de exposición TF1 - StudiStay](https://upc
       - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
 
     - [5.2.4. Sprint 4](#524-sprint-4)
-      - [5.2.4.1. Spring Planning 4](#5241-spring-planning-3)
+      - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-3)
       - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-3)
       - [5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
       - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
@@ -417,11 +417,31 @@ del ABET – EAC - Student Outcome 5.
         - Las entrevistas desempeñaron un papel fundamental en la mejora de nuestra plataforma web. El feedback recibido resultó invaluable para perfeccionar nuestro proyecto. A través de esta retroalimentación, hemos fortalecido nuestra capacidad para satisfacer las necesidades de nuestros usuarios y ofrecer una plataforma más efectiva y funcional.
         <br><br>
         <b>Llamozas Diaz, Edson Diego</b><br>
-        - Se realizaron entrevistas que buscaban mejorar tanto la experiencia de usuario desde el frontend como conocer cómo implementar el backend para cubrir estas necesidades.    
+        - Se realizaron entrevistas que buscaban mejorar tanto la experiencia de usuario desde el frontend como conocer cómo implementar el backend para cubrir estas necesidades.  
+        <br><br>
+        TF1
+        <br><br>
+        <b>Checa Apolinario, Paolo Sebastián</b><br>
+        - Logramos implementar una aplicación que incluye funciones para solucionar la problemática de nuestro segmento objetivo, ofreciendo una solución tecnológica y novedosa.
+        <br><br>
+        <b>Del Carmen Zorrilla, Ray Alessandro</b><br>
+        - Ampliamos nuestra aplicación web, introduciendo nuevas funcionalidades y entidades en el backend para mejorar la experiencia del usuario y fortalecer la versatilidad de nuestra plataforma. Estos cambios buscan satisfacer las expectativas y necesidades de nuestros usuarios.
+        <br><br>
+        <b>Alejo Cardenas, Luis Angel</b><br>
+        - Se mejoraron y corrigieron apartados en nuestra aplicación web tanto en el frontend como en el backend, corrigiendo y agregando nuevos endpoints para hacer que la aplicación sea más amigable para el usuario.
+        <br><br>
+        <b>Ortega Vélez, Jamutaq Piero</b><br>
+        - Se actualizó y mejoró la lógica de negocio del backend para manejar más casos y errores, con el fin de mejorar la experiencia del usuario final y evitar vulneraciones de seguridad.
+        <br><br>
+        <b>Yance Gutierrez, Franco Felix</b><br>
+        - Mi enfoque estuvo en el informe, resaltando las contribuciones del equipo. Valorando la diversidad de habilidades, aprecio trabajar en un equipo comprometido con la excelencia.
+        <br><br>
+        <b>Llamozas Diaz, Edson Diego</b><br>
+        - Se planificó de forma estratégica y escalable la implementación de clases importantes para el programa así como su conexión con otras clases, sus métodos y se desecharon clases que no fueran estrictamente necesarias para la presentación de un producto mínimo viable.
         
    </td>
     <td>TB1<br><br>
-    Elegimos un servicio acerca de renta de habitaciones para estudiantes, en el cual desarrollamos el problem statement y las hypothesis statements para dimensionar el desarrollo y solución de la problemática. <br><br> TP1 <br><br> Realizamos la implementación de nuestro Front-End utilizando el framework Vue. <br><br> TB2 <br><br> Se desarrollaron nuevas vistas en la parte del Front-end, así como también se implementó el Back-end de nuestra aplicación.
+    Elegimos un servicio acerca de renta de habitaciones para estudiantes, en el cual desarrollamos el problem statement y las hypothesis statements para dimensionar el desarrollo y solución de la problemática. <br><br> TP1 <br><br> Realizamos la implementación de nuestro Front-End utilizando el framework Vue. <br><br> TB2 <br><br> Se desarrollaron nuevas vistas en la parte del Front-end, así como también se implementó el Back-end de nuestra aplicación. <br><br> TF1 <br><br> Se implementó la seguridad   y se realizaron ciertas mejoras a la estructura de nuestro Back-end, así como la internalización en nuestra aplicación web.
     </td>
     
   </tr>
@@ -476,10 +496,30 @@ del ABET – EAC - Student Outcome 5.
         <br><br>
         <b>Llamozas Diaz, Edson Diego</b><br>
         - Se llevaron a cabo entrevistas no solo para comprobar la viabilidad de nuestra idea con nuestro segmento objetivo sino que además se comprobó que la aplicación fuera lo más amigable posible con los usuarios.
+        <br><br>
+        TF1
+        <br><br>
+        <b>Checa Apolinario, Paolo Sebastián</b><br>
+        - Nuestra aplicación posee las implementaciones necesarias para poder cumplir con las necesidades de los usuarios, y esperamos que el proyecto siga escalando en gran medida en un futuro desarrollo.
+        <br><br>
+        <b>Del Carmen Zorrilla, Ray Alessandro</b><br>
+        - Realizamos una investigación exhaustiva sobre la importancia de la internacionalización, razón por la cual implementamos esta funcionalidad en nuestra aplicación web.
+        <br><br>
+        <b>Alejo Cardenas, Luis Angel</b><br>
+        - Nos hemos organizado para identificar todos los aspectos del Lean UX Process con el fin de reconocer la problemática y darle solución en la mayor parte posible.
+        <br><br>
+        <b>Ortega Vélez, Jamutaq Piero</b><br>
+        - Se priorizó la implementación de la capa de seguridad en la aplicación y tanto en nivel de backend como frontend, con la finalidad de proteger ciertas rutas donde solo un usuario autenticado puede acceder.
+        <br><br>
+        <b>Yance Gutierrez, Franco Felix</b><br>
+        - En el equipo, mi enfoque se centró en comprender a fondo un sector empresarial relacionado con soluciones de software. Trabajé eficazmente para abordar las necesidades de los usuarios, priorizando la eficiencia y la escalabilidad del proyecto en futuros desarrollos.
+        <br><br>
+        <b>Llamozas Diaz, Edson Diego</b><br>
+        - Implementamos exitosamente las rutas y métodos de la clase “Location” al mismo tiempo que la conectamos con las clases correspondientes para los Posts y las Universidades con sus métodos respectivos.
 
    </td>
     <td>TB1<br><br>
-    Recopilamos información necesaria para poder hacer frente a los competidores y ofrecer un producto novedoso basado en la tecnología. <br><br> TP1 <br><br> Reunimos información para realizar el despliegue automático de nuestro desarrollo Front-End. <br><br> TB2 <br><br> Realizamos una nueva versión del servicio, el cual seguirá recibiendo mejoras continuas por parte de nuestro equipo de trabajo.
+    Recopilamos información necesaria para poder hacer frente a los competidores y ofrecer un producto novedoso basado en la tecnología. <br><br> TP1 <br><br> Reunimos información para realizar el despliegue automático de nuestro desarrollo Front-End. <br><br> TB2 <br><br> Realizamos una nueva versión del servicio, el cual seguirá recibiendo mejoras continuas por parte de nuestro equipo de trabajo. <br><br> TF1 <br><br> Trabajando de manera colaborativa con el equipo, hemos logrado un significativo avance en la mejora de nuestro servicio. Además, nos enfocamos en la implementación de nuevas funcionalidades que enriquecerán la experiencia del usuario y contribuirán al crecimiento y eficiencia de nuestra aplicación web.
     </td>
   </tr>
 </table>
@@ -3120,7 +3160,7 @@ Para la realización de los commits de nuestro segundo Sprint, utilizamos los ID
 
 ### 5.2.3. Sprint 3
 
-#### 5.2.3.1. Spring Planning 3
+#### 5.2.3.1. Sprint Planning 3
 
 |Sprint 3|Mejoras en las Funcionalidades de la aplicación - Backend|
 | :- | :- |
@@ -3700,11 +3740,11 @@ Link del Trello: https://trello.com/b/9avdVvHj/sprint-4
 
 <div align="center">
 
-  <img src="">
+  <img src="https://cdn.discordapp.com/attachments/1146490170917535764/1177421779489267742/image.png">
 
 </div>
 
-Los puntos desarrollados en este sprint, está reflejado en el siguiente video, donde se muestra todo lo logrado en este sprint. A continuación el link del video: [Video de Ejecución]()
+Los puntos desarrollados en este sprint, está reflejado en el siguiente video, donde se muestra todo lo logrado en este sprint. A continuación el link del video: [Video de Ejecución](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201911703_upc_edu_pe/EdB1Iop502BHiCQWZvYoVPsB4R6jOcrE3eDSFVwG7V9dJA?e=h5FK28&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
@@ -4363,7 +4403,17 @@ Link al video: [Video About-the-Team](https://upcedupe-my.sharepoint.com/:v:/g/p
 
 - La retroalimentación recibida a partir de la entrega pasada nos permite seguir implementando mejoras continuas a nuestro proyecto, para poder presentar hacia nuestro público objetivo un servicio de calidad y que cumpla totalmente con las necesidades que se les presenta, y de esta manera superar las adversidades.<br><br>
 
+- Hemos creado una aplicación web funcional que consume recursos de nuestro servicio web. Además, este servicio se ha implementado de manera completa para garantizar el correcto manejo de datos en términos de visualización, creación, modificación y eliminación. Nuestra aplicación está diseñada para ofrecer una experiencia eficiente y segura a nuestros usuarios.<br><br>
 
+- En el análisis llevado a cabo, se llega a la conclusión de que resulta fundamental incorporar una capa de seguridad en la aplicación. Esto se traduce en la prevención de accesos no autorizados y la protección contra posibles violaciones de datos, contribuyendo así a preservar la integridad del sistema y prevenir problemas futuros.<br><br>
+
+- Indudablemente, podríamos haber incorporado más funcionalidades a la aplicación, pero dado que este proyecto estaba sujeto a plazos concretos, el equipo tuvo que adoptar un enfoque crítico para analizar y abordar las prioridades clave. Esto nos llevó a comprender de manera más sólida la noción de trabajar con un producto mínimo viable, asegurando la entrega oportuna y efectiva dentro de los límites temporales establecidos.<br><br>
+
+- En este proyecto, logramos implementar con éxito las metas y objetivos establecidos desde el inicio, así como aquellos que se incorporaron durante el desarrollo. Esto abarca tanto el frontend como el backend de nuestra aplicación, haciendo uso de diversos lenguajes de programación y frameworks, además de otras tecnologías pertinentes para alcanzar nuestros objetivos.<br><br>
+
+- El uso de .NET para el desarrollo de aplicaciones ofrece una base sólida para la seguridad de los endpoints. Las herramientas integradas y la arquitectura modular facilitan la implementación de medidas de seguridad robustas, como autenticación y cifrado de datos. Además, la comunidad activa y el soporte continuo de Microsoft garantizan actualizaciones de seguridad oportunas. Sin embargo, la efectividad depende de la implementación adecuada y la vigilancia constante de los desarrolladores frente a las amenazas en evolución.<br><br>
+
+- En resumen, el desarrollo exitoso de nuestra aplicación web se basa en el logro de metas y objetivos, respaldado por la implementación efectiva en el frontend y el backend, utilizando diversos lenguajes y frameworks, con énfasis en la seguridad proporcionada por .NET. La identificación de la necesidad de seguridad refleja nuestro compromiso con la integridad del sistema. La elección de .NET ha facilitado la implementación de medidas robustas, respaldada por la comunidad activa y el soporte de Microsoft. Aunque podríamos haber agregado más funcionalidades, adoptar un enfoque crítico y trabajar con un producto mínimo viable aseguró la entrega oportuna. Para el futuro, priorizaremos la mejora continua, equilibrando nuevas características con la seguridad, manteniendo una vigilancia constante ante las amenazas emergentes.<br><br>
 
 
 # Bibliografía
